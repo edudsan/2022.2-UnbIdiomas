@@ -9,4 +9,4 @@ Esse projeto propõe a utilização das técnicas e recursos de IHC para propor 
 |Henrique Galdino Couto|200058258|[@hgaldino05](https://github.com/hgaldino05)
 |Igor Silva de Paiva|202016560|[@IgorSPaiva](https://github.com/IgorSPaiva)
 |Pedro Menezes Rodiguero|---|[@pedro-rodiguero](https://github.com/pedro-rodiguero)
-|Thiago Cerqueira Borges|---|[@Thiago-Cerq](https://github.com/Thiago-Cerq)
+|Thiago Cerqueira Borges|190117508|[@Thiago-Cerq](https://github.com/Thiago-Cerq)
