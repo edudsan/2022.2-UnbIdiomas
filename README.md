@@ -6,7 +6,7 @@ Esse projeto propõe a utilização das técnicas e recursos de IHC para propor 
 |------|------|---------|
 |Artur Seppa Reiman|---|[@artur-seppa](https://github.com/artur-seppa)
 |Eric Chagas de Oliveira|---|[@Eric-chagas](https://github.com/Eric-chagas)
-|Henrique Galdino Couto|---|[@hgaldino05](https://github.com/hgaldino05)
+|Henrique Galdino Couto|200058258|[@hgaldino05](https://github.com/hgaldino05)
 |Igor Silva de Paiva|202016560|[@IgorSPaiva](https://github.com/IgorSPaiva)
 |Pedro Menezes Rodiguero|---|[@pedro-rodiguero](https://github.com/pedro-rodiguero)
 |Thiago Cerqueira Borges|---|[@Thiago-Cerq](https://github.com/Thiago-Cerq)
