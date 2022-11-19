@@ -5,7 +5,7 @@ Esse projeto propõe a utilização das técnicas e recursos de IHC para propor 
 |Foto|Membro|Matrícula|Github|
 |----|------|---------|------|
 |----|Artur Seppa Reiman|---|[@artur-seppa](https://github.com/artur-seppa)
-|![Eric profile pic](assets/img/team/EricProfPic.jpg)|Eric Chagas de Oliveira|180119508|[@Eric-chagas](https://github.com/Eric-chagas)
+|<img src="assets/img/team/EricProfPic.jpg" style="max-height: 60%; max-width: 60%;"/>|Eric Chagas de Oliveira|180119508|[@Eric-chagas](https://github.com/Eric-chagas)
 |----|Henrique Galdino Couto|200058258|[@hgaldino05](https://github.com/hgaldino05)
 |----|Igor Silva de Paiva|202016560|[@IgorSPaiva](https://github.com/IgorSPaiva)
 |----|Pedro Menezes Rodiguero|---|[@pedro-rodiguero](https://github.com/pedro-rodiguero)
