@@ -1,6 +1,6 @@
 site_name: UnB Idiomas
 site_url: https://interacao-humano-computador.github.io/2022.2-UnbIdiomas/
-repo_url: https://github.com/Interacao-Humano-Computador/2022.2-UnbIdiomas
+repo_url: https://github.com/Interacao-Humano-Computador/2022.2-UnbIdiomas/
 repo_name: 2022.2-UnbIdiomas
 edit_uri: ""
 copyright: UnB - Faculdade do Gama &copy; 2022
@@ -11,14 +11,16 @@ extra:
                 - link: https://github.com/Interacao-Humano-Computador/2022.2-UnbIdiomas
                   icon: fontawesome/brands/github
 
+                - link: http://www.unbidiomas.unb.br
+                  icon: fontawesome/solid/graduation-cap
+
 nav:
         - Home: index.md
         - Planejamento:
-                  - Ferramentas: planning/tools.md # Substituir pelo arquivo real
-                  - Cronograma: planning/roadmap.md # Substituir pelo arquivo real
-                  - Rich Picture: planning/richPicture.md
+                  - Cronograma: planning/roadmap.md
 theme:
         name: material
+        logo: assets/icons/unb.jpg
         icon:
                 repo: fontawesome/brands/github
         palette:
