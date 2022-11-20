@@ -1,6 +1,38 @@
-site_name: MkLorum
-site_url: https://example.com/
+site_name: UnB Idiomas
+site_url: https://interacao-humano-computador.github.io/2022.2-UnbIdiomas/
+repo_url: https://github.com/Interacao-Humano-Computador/2022.2-UnbIdiomas
+repo_name: 2022.2-UnbIdiomas
+edit_uri: ""
+copyright: UnB - Faculdade do Gama &copy; 2022
+extra_css:
+        - stylesheets/extra.css
+extra:
+        social:
+                - link: https://github.com/Interacao-Humano-Computador/2022.2-UnbIdiomas
+                  icon: fontawesome/brands/github
+
+                - link: https://www.spotify.com
+                  icon: fontawesome/graduation-cap
+
 nav:
         - Home: index.md
-        - About: about.md
-theme: readthedocs
+        - Planejamento:
+                  - Ferramentas: planning/tools.md # Substituir pelo arquivo real
+                  - Cronograma: planning/roadmap.md # Substituir pelo arquivo real
+                  - Rich Picture: planning/richPicture.md
+theme:
+        name: material
+        icon:
+                repo: fontawesome/brands/github
+        palette:
+                # Palette toggle for light mode
+                - scheme: default
+                  toggle:
+                          icon: material/brightness-7
+                          name: Switch to dark mode
+
+                # Palette toggle for dark mode
+                - scheme: slate
+                  toggle:
+                          icon: material/brightness-4
+                          name: Switch to light mode
