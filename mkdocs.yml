@@ -11,9 +11,6 @@ extra:
                 - link: https://github.com/Interacao-Humano-Computador/2022.2-UnbIdiomas
                   icon: fontawesome/brands/github
 
-                - link: https://www.spotify.com
-                  icon: fontawesome/graduation-cap
-
 nav:
         - Home: index.md
         - Planejamento:
