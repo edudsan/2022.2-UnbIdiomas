@@ -18,6 +18,7 @@ nav:
         - Home: index.md
         - Planejamento:
                   - Cronograma: planning/roadmap.md
+                  - Sites Avaliados: planning/siteAvaliados.md
 theme:
         name: material
         logo: assets/icons/unb.jpg
