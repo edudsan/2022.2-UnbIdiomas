@@ -14,11 +14,11 @@ extra:
                 - link: http://www.unbidiomas.unb.br
                   icon: fontawesome/solid/graduation-cap
 
-nav:
-        - Home: index.md
-        - Planejamento:
-                  - Cronograma: planning/roadmap.md
-                  - Sites Avaliados: planning/siteAvaliados.md
+# nav:
+#         - Home: index.md
+#         - Planejamento:
+#                   - Cronograma: planning/roadmap.md
+#                   - Sites Avaliados: planning/siteAvaliados.md
 theme:
         name: material
         logo: assets/icons/unb.jpg
