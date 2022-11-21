@@ -13,3 +13,10 @@ Esse é o cronograma que foi desenvolvido com a finalidade de fornecer visibilid
   ![Cronograma V1](../assets/img/roadmapV1.png)
   <figcaption>Cronograma V1</figcaption>
 </figure>
+
+## Histórico de versões
+
+|    Data    | Versão |              Descrição               |                   Autor(es)                    |
+| :--------: | :----: | :----------------------------------: | :--------------------------------------------: |
+| 20/11/2022 |  0.1   | Criação da página e V0 do cronograma | [@Eric-chagas](https://github.com/Eric-chagas) |
+| 21/11/2022 |  0.2   |  Atualização para V1 do cronograma   | [@Eric-chagas](https://github.com/Eric-chagas) |
