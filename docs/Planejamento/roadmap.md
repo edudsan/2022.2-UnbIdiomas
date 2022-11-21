@@ -16,7 +16,7 @@ Esse é o cronograma que foi desenvolvido com a finalidade de fornecer visibilid
 
 ## Histórico de versões
 
-|    Data    | Versão |              Descrição               |                   Autor(es)                    |
-| :--------: | :----: | :----------------------------------: | :--------------------------------------------: |
-| 20/11/2022 |  0.1   | Criação da página e V0 do cronograma | [@Eric-chagas](https://github.com/Eric-chagas) |
-| 21/11/2022 |  0.2   |  Atualização para V1 do cronograma   | [@Eric-chagas](https://github.com/Eric-chagas) |
+|    Data    | Versão |              Descrição               |                                            Autor(es)                                             |
+| :--------: | :----: | :----------------------------------: | :----------------------------------------------------------------------------------------------: |
+| 20/11/2022 |  0.0   | Criação da página e V0 do cronograma | [@Eric-chagas](https://github.com/Eric-chagas) <br> [@hgaldino05](https://github.com/hgaldino05) |
+| 21/11/2022 |  0.1   |  Atualização para V1 do cronograma   |                          [@Eric-chagas](https://github.com/Eric-chagas)                          |
