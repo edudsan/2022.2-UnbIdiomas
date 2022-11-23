@@ -44,7 +44,7 @@ Para realizar a avaliação do site, é necessário ter um entendimento geral ac
     - Já cursando algum curso na UnB Idiomas, resolver problemas relacionados aos cursos 
 
 
-###### Anotação 01 - Perfis de usuário. Fonte: Autoria própria.
+###### Anotação 02 - Contextos de uso. Fonte: Autoria própria.
 
 
 ## Referências:
