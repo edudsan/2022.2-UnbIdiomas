@@ -11,3 +11,7 @@
 | <img src="../assets/img/logos/youtube.png" width="200"> | O Youtube atualmente é uma das ferramentas de streming de video mais populares do mundo, tendo uma participação fuundamental com a divulgação de nossas apresentações de projeto.  |
 | <img src="../assets/img/logos/scholar-google.png" width="200"> | O Google Scholar, também chamado de Google Acadêmico, é uma ferramenta de pesquisa do Google que permite pesquisar trabalhos acadêmicos, literatura escolar, jornais de universidades e artigos variados. Ele tem um papel fundamental ao auxiliar no estudo e pesquisa de artefatos para o nosso projeto |
 |  <img src="../assets/img/logos/mkdocs.png" width="200"> | O MkDocs é um gerador de site estático (SSG – Static Site Generators) rápido e simples que é voltado para criar documentações. Os arquivos de origem são em Markdown e configurados com um único arquivo de configuração YAML. Ele foi utilizado com o propósito de auxiliar na construção do github pages do projeto. |
+
+|    Data    | Versão |                         Descrição                         |          Autor(es)           |           Revisor            |
+| :--------: | :----: | :-------------------------------------------------------: | :--------------------------: | :--------------------------: |
+| 20/11/2022 |  0.1   |             Criação do esqueleto do arquivo               | Artur Seppa Reiman           |  Thiago Cerqueira Borges     |
