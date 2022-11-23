@@ -3,9 +3,11 @@
 O cronograma em formato roadmap, mostrado na **Figura 01**, foi desenvolvido com a finalidade de fornecer visibilidade acerca da divisão do trabalho e das entregas que serão realizadas ao longo do projeto.
 
 
-!!! info "Observação"
+!!! info "Observações"
 
-    O cronograma pode ser alterado caso o time julgue necessário.
+    - O cronograma pode ser alterado caso o time julgue necessário
+    - É possível navegar pelas versões do cronograma por meio das abas disponíveis acima da imagem
+    - Caso durante a evolução do projeto o número de versões torne a navegação pelas abas não intuitiva ou prejudique a visualização, as versões antigas do cronograma passarão a ser mostradas no formato de lista, abaixo da imagem
     
     Desenvolvido por: Eric Chagas de Oliveira
 
@@ -18,6 +20,12 @@ O cronograma em formato roadmap, mostrado na **Figura 01**, foi desenvolvido com
         <figcaption>Figura 01 - Cronograma do projeto. Fonte: Autoria própria</figcaption>
       </figure>
 
+=== "V0"
+    
+      <figure markdown>
+        ![Cronograma V0](../assets/img/roadmapV0.png)
+        <figcaption>Figura 02 - V0 do cronograma do projeto. Fonte: Autoria própria</figcaption>
+      </figure>
 
 ## Histórico de versões
 
