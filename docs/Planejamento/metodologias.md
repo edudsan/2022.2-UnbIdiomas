@@ -68,7 +68,7 @@
 
 >[3] The Agile Journey: A Scrum overview https://www.pm-partners.com.au/the-agile-journey-a-scrum-overview/
 
-##9. Histórico de versão
+## 9. Histórico de versão
 
 | Versão |    Data    |                  Descrição                  |     Autor        |    Revisor    |
 | :----: | :--------: | :-----------------------------------------: | :------------:   | :-----------: |
