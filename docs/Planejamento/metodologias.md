@@ -59,17 +59,19 @@
 - Ajudar o usuários a reconhecerem, diagnosticarem e se recuperarem de erros
 - Ajuda e documentação
 
-## 8. Histórico de versão
 
-| Versão |    Data    |                  Descrição                  |     Autor        |    Revisor    |
-| :----: | :--------: | :-----------------------------------------: | :------------:   | :-----------: |
-|  1.0   | 23/11/2022 |          Documento de metodologia Scrum     | Thiago Cerqueira | Eric Chagas   |
-|  1.1   | 23/11/2022 |              Teste de Usabilidade           | Thiago Cerqueira | Eric Chagas   |
-
-## 9. Referências
+## 8. Referências
 
 >[1] Vantagens do Scrum e como aplicá-lo em sua empresa. Disponível em: https://jrmack.com.br/vantagens-do-scrum-e-como-aplica-lo-em-sua-empresa/?gclid=Cj0KCQjwzqSWBhDPARIsAK38LY8T0q6p4bSzWDFHe59IWYX6MqsL9r_mizZAkSlhjSW2x6H78EsVqxoaAgrtEALw_wcB. Acesso em 09/07/2022;
 
 >[2] Capítulo 10 - Métodos de avaliação de IHC - Livro IHC: Barbosa e Silva.
 
 >[3] The Agile Journey: A Scrum overview https://www.pm-partners.com.au/the-agile-journey-a-scrum-overview/
+
+##9. Histórico de versão
+
+| Versão |    Data    |                  Descrição                  |     Autor        |    Revisor    |
+| :----: | :--------: | :-----------------------------------------: | :------------:   | :-----------: |
+|  1.0   | 23/11/2022 |          Documento de metodologia Scrum     | Thiago Cerqueira | Eric Chagas   |
+|  1.1   | 23/11/2022 |              Teste de Usabilidade           | Thiago Cerqueira | Eric Chagas   |
+
