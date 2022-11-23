@@ -63,8 +63,8 @@
 
 | Versão |    Data    |                  Descrição                  |     Autor        |    Revisor    |
 | :----: | :--------: | :-----------------------------------------: | :------------:   | :-----------: |
-|  1.0   | 09/07/2022 |          Documento de metodologia Scrum     | Thiago Cerqueira | Eric Chagas   |
-|  1.1   | 11/07/2022 |              Teste de Usabilidade           | Thiago Cerqueira | Eric Chagas   |
+|  1.0   | 23/11/2022 |          Documento de metodologia Scrum     | Thiago Cerqueira | Eric Chagas   |
+|  1.1   | 23/11/2022 |              Teste de Usabilidade           | Thiago Cerqueira | Eric Chagas   |
 
 ## 9. Referências
 
