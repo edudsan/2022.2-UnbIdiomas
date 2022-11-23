@@ -75,3 +75,7 @@
 |  1.0   | 23/11/2022 |          Documento de metodologia Scrum     | Thiago Cerqueira | Eric Chagas   |
 |  1.1   | 23/11/2022 |              Teste de Usabilidade           | Thiago Cerqueira | Eric Chagas   |
 
+<div align="center">
+<figcaption align="left">Tabela 1: Histórico de versões(Fonte: Autoria própria)</figcaption>
+</div>
+<br/>

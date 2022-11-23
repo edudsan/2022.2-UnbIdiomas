@@ -6,7 +6,7 @@
 <p align="justify">&emsp;&emsp;Durante todo o desenvolvimento do projeto, a equipe utiliza diversas ferramentas de auxílio. Dessa forma, abaixo estão elas listadas para conhecimento geral.</p>
 
 ## 2. Ferramentas
-<p align="justify">&emsp;&emsp;Para o desenvolvimento do projeto, houve a necessidade por parte da equipe da utilização de diversas ferramentas computacionais, a fim de auxiliar com as demandas da disciplina:</p>
+<p align="justify">&emsp;&emsp;Para o desenvolvimento do projeto, houve a necessidade por parte da equipe da utilização de diversas ferramentas computacionais(Tabela 1), a fim de auxiliar com as demandas da disciplina:</p>
 <br/>
 
 <!-- NÃO É PRECISO CONFIGURAR O TAMANHO DAS IMAGENS, A TABELA REGULA O TAMANHO SOZINHA!!! -->
@@ -23,7 +23,7 @@
 |  <img src="https://raw.githubusercontent.com/Interacao-Humano-Computador/2022.2-UnbIdiomas/main/assets/img/logos/figma.png" width="200" />  |  Figma é uma ferramenta de design que combina a acessibilidade da web com as funcionalidades de um aplicativo nativo. Isso significa que o Figma é disponibilizado via web, com acesso através de qualquer navegador, sem a necessidade de download ou instalação de algum software.
 |  <img src="https://raw.githubusercontent.com/Interacao-Humano-Computador/2022.2-UnbIdiomas/main/assets/img/logos/draw_io.png" width="200" />  |  O Draw.io é um editor gráfico online no qual é possível desenvolver desenhos, gráficos e outros sem a necessidade de usar um software caro e pesado. Ele disponibiliza recursos para criação de qualquer tipo de desenho porém, possui uma parte dedicada à arquitetura da informação.
 |  <img src="https://raw.githubusercontent.com/Interacao-Humano-Computador/2022.2-UnbIdiomas/main/assets/img/logos/Photoshop.png" width="200" />  |  Adobe Photoshop é um software caracterizado como editor de imagens bidimensionais do tipo raster desenvolvido pela Adobe Systems. É considerado o líder no mercado dos editores de imagem profissionais, assim como o programa de facto para edição profissional de imagens digitais e trabalhos de pré-impressão.
-
+|  <img src="https://raw.githubusercontent.com/Interacao-Humano-Computador/2022.2-UnbIdiomas/main/assets/img/logos/ Kdenlive.png" width="200" />  |  Kdenlive (KDE Non-Linear Video Editor) é um editor de vídeo open-source baseado no framework MLT e KDE. O projeto foi iniciado por Jason Wood em 2002, e hoje é mantido por um pequeno time de desenvolvedores. Com o lançamento da versão 15.04.0, o Kdenlive passou a ser oficialmente parte do projeto oficial do KDE. Pacotes do Kdenlive estão livremente disponíveis para Linux, FreeBSD e Mac OS X sob os termos da GNU General Public License versão 2 ou posterior.
 
 <div align="center">
 <figcaption align="left">Tabela 1: Tabela de ferramentas (Fonte: Autoria própria)</figcaption>
@@ -44,6 +44,7 @@
 > - Figma. Acesso em: 23 de nov. de 2022. Disponível em: https://www.figma.com/
 > - Draw.io. Acesso em: 23 de nov. de 2022. Disponível em: https://app.diagrams.net/
 > - Adobe Photoshop. Acesso em: 23 de nov. de 2022. Disponível em: https://www.adobe.com/
+> - Kdenlive. Acesso em: 23 de nov. de 2022. Disponível em: https://kdenlive.org/en/
 
 
 

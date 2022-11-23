@@ -11,6 +11,11 @@ Para o projeto da disciplina, cada membro do grupo teve que avaliar um site, sej
 | [Enade INEP](http://enade.inep.gov.br)        | Thiago Cerqueira Borges|
 | [UnB Idiomas](http://www.unbidiomas.unb.br)   | Henrique Galdino Couto |
 
+<div align="center">
+<figcaption align="left">Tabela 1: Integrantes do grupo e sugestão de sites(Fonte: Autoria própria)</figcaption>
+</div>
+<br/>
+
 
 
 
@@ -114,3 +119,8 @@ O **Enade INEP** Exame Nacional de Desempenho dos Estudantes (Figura 5) avalia o
 | :--------: | :----: | :-------------------------------------------------------: | :--------------------------: | :--------------------------: |
 | 20/11/2022 |  0.1   |             Criação do esqueleto do arquivo               |     Thiago Cerqueira Borges  |   Eric Chagas de Oliveira    |
 | 23/11/2022 |  0.2   |             Adição das legendas e citação nos textos      |     Thiago Cerqueira Borges  |   Eric Chagas de Oliveira    |
+
+<div align="center">
+<figcaption align="left">Tabela 2: Histórico de versões(Fonte: Autoria própria)</figcaption>
+</div>
+<br/>
