@@ -92,17 +92,17 @@ O **Enade INEP** Exame Nacional de Desempenho dos Estudantes (Figura 5) avalia o
 
 ## Referências
 
-[1] UnB Idiomas; Disponível em <http://www.unbidiomas.unb.br>. Acesso em 20 de novembro, 2020. 
+>[1] UnB Idiomas; Disponível em <http://www.unbidiomas.unb.br>. Acesso em 20 de novembro, 2020. 
 
-[2] Sebrae; Disponível em <https://sebrae.com.br>. Acesso em 20 de novembro, 2020.
+>[2] Sebrae; Disponível em <https://sebrae.com.br>. Acesso em 20 de novembro, 2020.
 
-[3] Conecte SUS; Disponível em <https://conectesus.saude.gov.br>. Acesso em 20 de novembro, 2020.
+>[3] Conecte SUS; Disponível em <https://conectesus.saude.gov.br>. Acesso em 20 de novembro, 2020.
 
-[4]Moovit; Disponível em <https://m.moovitapp.com>. Acesso em 20 de novembro, 2020.
+>[4]Moovit; Disponível em <https://m.moovitapp.com>. Acesso em 20 de novembro, 2020.
 
-[5] FGA UnB; Disponível em <https://fga.unb.br>. Acesso em 20 de novembro, 2020.
+>[5] FGA UnB; Disponível em <https://fga.unb.br>. Acesso em 20 de novembro, 2020.
 
-[6]  Enade INEP; Disponível em <http://enade.inep.gov.br>. Acesso em 20 de novembro, 2020.
+>[6]  Enade INEP; Disponível em <http://enade.inep.gov.br>. Acesso em 20 de novembro, 2020.
 
 
 
