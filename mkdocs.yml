@@ -50,6 +50,8 @@ extra:
 theme:
         name: material
         logo: assets/icons/unb.jpg
+        features:
+                - navigation.tabs
         icon:
                 repo: fontawesome/brands/github
         palette:

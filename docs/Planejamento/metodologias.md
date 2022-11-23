@@ -41,7 +41,21 @@ A reuniao de planejamento da Sprint é um evento onde a equipe se reúne e avali
 
 É um evento que ocorrre um pouco antes da reuniao de planejamento da Sprint, o seu objetivo é verificar e relatar o que foi desenvolvido na sprint anterior. É interessante ressaltar que todas as entregas de atividades, serão feitas por meio de um pull request e em seguida o revisor responsável irá revisar e efetuar o merge no repositório principal, sendo assim o objetivo da Sprint Review é relatar e verificar e em grupo o que foi desenvolvido na semana anterior e o que pode ser melhorado.
 
----
+<p>E um método que avalia a usabilidade a partir de observações de experiência de uso, onde seu objetivo é determinar quais critérios de usabilidade devem ser medidos, como:</p>
+
+- O grau de sucesso da execução
+- O total de erros cometidos pelo usuário
+- Quantos erros de cada tipo ocorreram
+- O grau de satisfação do usuário, etc
+
+## 7. Avaliação Heurística
+
+<p>É um método de avaliação criado para encontrar problemas de usabilidade durante um processo de design iterativo. A equipe decidiu utilizar a Heurística de Nielsen para fazer essa avaliação, onde seguiremos as heurísticas explicitadas na Figura 2:</p>
+
+<figure markdown>
+    ![Cronograma V2](../assets/img/10-heuristicas.png)
+    <figcaption>Figura 2 - 10 Heurísticas de Nielsen. Fonte: Autoria própria</figcaption>
+</figure>
 
 
 
@@ -51,12 +65,16 @@ A reuniao de planejamento da Sprint é um evento onde a equipe se reúne e avali
 
 >[2] The Agile Journey: A Scrum overview https://www.pm-partners.com.au/the-agile-journey-a-scrum-overview/
 
-## 7. Histórico de versão
+>[4] Entendendo as 10 Heurísticas de Nielsen para melhorar a experiência do usuário.Disponível em: <https://medium.com/signainfo/entendendo-as-10-heurísticas-de-nielsen-para-melhorar-a-experiência-do-usuário-86f3c14c0586>. Acesso em: 23 nov. 2022.
 
-| Versão |    Data    |                  Descrição                  |     Autor        |    Revisor    |
-| :----: | :--------: | :-----------------------------------------: | :------------:   | :-----------: |
-|  1.0   | 23/11/2022 |          Documento de metodologia Scrum     | Thiago Cerqueira | Eric Chagas   |
-|  1.1   | 23/11/2022 |              Teste de Usabilidade           | Thiago Cerqueira | Eric Chagas   |
+## 9. Histórico de versão
+
+| Versão |    Data    |            Descrição             |      Autor       |   Revisor   |
+| :----: | :--------: | :------------------------------: | :--------------: | :---------: |
+|  1.0   | 23/11/2022 |  Documento de metodologia Scrum  | Thiago Cerqueira | Eric Chagas |
+|  1.1   | 23/11/2022 |       Teste de Usabilidade       | Thiago Cerqueira | Eric Chagas |
+|  1.2   | 23/11/2022 | Adição da imagem das heurísticas |   Eric Chagas    |   Thiago    |
+
 
 <div align="center">
 <figcaption align="left">Tabela 1: Histórico de versões(Fonte: Autoria própria)</figcaption>

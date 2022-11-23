@@ -11,6 +11,8 @@ O cronograma em formato roadmap, mostrado na **Figura 01**, foi desenvolvido com
     
     Desenvolvido por: Eric Chagas de Oliveira
 
+###### Anotação 01 - Observações. Fonte: Autoria própria.
+
 #### Clique na imagem para visualizar com zoom
 
 === "V2"
@@ -44,6 +46,8 @@ O cronograma executado pode ser visualizado nas **Tabelas de 01 a 09**, e repres
     - É possível navegar pelas entregas descritas no cronograma por meio das abas disponíveis acima da tabela.
     
     Desenvolvido por: Eric Chagas de Oliveira
+
+###### Anotação 02 - Observações. Fonte: Autoria própria.
 
 === "E1"
           
