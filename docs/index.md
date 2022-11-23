@@ -22,7 +22,7 @@ Desde junho de 2008, as atividades anteriormente desenvolvidas pela então Escol
 | <img src="https://www.github.com/artur-seppa.png" width="200"/>     | Artur Seppa Reiman      | [@artur-seppa](https://github.com/artur-seppa)         |
 | <img src="https://www.github.com/Eric-chagas.png" width="200"/>     | Eric Chagas de Oliveira | [@Eric-chagas](https://github.com/Eric-chagas)         |
 | <img src="https://www.github.com/hgaldino05.png" width="200"/>      | Henrique Galdino Couto  | [@hgaldino05](https://github.com/hgaldino05)           |
-| <img src="https://www.github.com/IgorSPaiva.png" width="200"/>      | Igor Silva de Paiva     | [@IgorSPaiva](https://github.com/IgorSPaiva)           |
+| <img src="assets/img/team/IgorSilvaProfPic.jpeg" width="200"/>      | Igor Silva de Paiva     | [@IgorSPaiva](https://github.com/IgorSPaiva)           |
 | <img src="https://www.github.com/pedro-rodiguero.png" width="200"/> | Pedro Menezes Rodiguero | [@pedro-rodiguero](https://github.com/pedro-rodiguero) |
 | <img src="https://www.github.com/Thiago-Cerq.png" width="200"/>     | Thiago Cerqueira Borges | [@Thiago-Cerq](https://github.com/Thiago-Cerq)         |
 
