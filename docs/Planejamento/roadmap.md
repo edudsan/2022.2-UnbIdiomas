@@ -13,26 +13,148 @@ O cronograma em formato roadmap, mostrado na **Figura 01**, foi desenvolvido com
 
 #### Clique na imagem para visualizar com zoom
 
+=== "V2"
+    
+      <figure markdown>
+        ![Cronograma V2](../assets/img/roadmapV2.png)
+        <figcaption>Figura 01 - Cronograma do projeto. Fonte: Autoria própria</figcaption>
+      </figure>
+
+
 === "V1"
     
       <figure markdown>
         ![Cronograma V1](../assets/img/roadmapV1.png)
-        <figcaption>Figura 01 - Cronograma do projeto. Fonte: Autoria própria</figcaption>
+        <figcaption>Figura 02 - v1 Cronograma do projeto. Fonte: Autoria própria</figcaption>
       </figure>
 
 === "V0"
     
       <figure markdown>
         ![Cronograma V0](../assets/img/roadmapV0.png)
-        <figcaption>Figura 02 - V0 do cronograma do projeto. Fonte: Autoria própria</figcaption>
+        <figcaption>Figura 03 - v0 do cronograma do projeto. Fonte: Autoria própria</figcaption>
       </figure>
+
+## Cronograma Executado
+
+O cronograma executado pode ser visualizado nas **Tabelas de 01 a 09**, e representa as atividades planejadas e de fato executadas pelos membros descritos.
+
+!!! info "Observações"
+
+    - É possível navegar pelas entregas descritas no cronograma por meio das abas disponíveis acima da tabela.
+    
+    Desenvolvido por: Eric Chagas de Oliveira
+
+=== "E1"
+          
+      | **Tarefa**                                    | **Responsáveis** | **Revisores**  | **Iniciado em** | **Finalizado em** |
+      | --------------------------------------------- | ---------------- | -------------- | --------------- | ----------------- |
+      | Definição da equipe                           | Todos            | Todos          | 25/10/2022      | 18/11/2022        |
+      | Listas de sites avaliados                     | Todos            | Todos          | 25/10/2022      | 18/11/2022        |
+      | Site selecionado para o projeto da disciplina | Todos            | Todos          | 25/10/2022      | 18/11/2022        |
+      | Ferramentas utilizadas no projeto             | Artur            | Eric, Henrique | 18/11/2022      | 23/11/2022        |
+      | Processo de Design                            | Igor,Thiago      | Artur          | 18/11/2022      | 23/11/2022        |
+      | Cronograma das atividades                     | Eric, Henrique   | Igor,Thiago    | 18/11/2022      | 23/11/2022        |
+      | Gravação do vídeo de apresentação             | Todos            | Todos          | 22/11/2022      | 23/11/2022        |
+
+    ###### Tabela 01 - Atividades executadas na entrega 1. Fonte: Autoria própria
+
+=== "E2"
+          
+      | **Tarefa**                        | **Responsáveis** | **Revisores** | **Iniciado em** | **Finalizado em** |
+      | --------------------------------- | ---------------- | ------------- | --------------- | ----------------- |
+      | Perfil do usuário                 |                  |               |                 |                   |
+      | Personas                          |                  |               |                 |                   |
+      | Análise de tarefas                |                  |               |                 |                   |
+      | Gravação do vídeo de apresentação |                  |               |                 |                   |
+
+    ###### Tabela 02 - Atividades executadas na entrega 2. Fonte: Autoria própria
+
+
+=== "E3"
+          
+      | **Tarefa**                        | **Responsáveis** | **Revisores** | **Iniciado em** | **Finalizado em** |
+      | --------------------------------- | ---------------- | ------------- | --------------- | ----------------- |
+      | Princípios Gerais de Projeto      |                  |               |                 |                   |
+      | Metas de usabilidade              |                  |               |                 |                   |
+      | Guia de Estilo                    |                  |               |                 |                   |
+      | Gravação do vídeo de apresentação |                  |               |                 |                   |
+
+    ###### Tabela 03 - Atividades executadas na entrega 3. Fonte: Autoria própria
+
+
+=== "E4"
+          
+      | **Tarefa**                                                             | **Responsáveis** | **Revisores** | **Iniciado em** | **Finalizado em** |
+      | ---------------------------------------------------------------------- | ---------------- | ------------- | --------------- | ----------------- |
+      | Apresentação do Planejamento da  Avaliação                             |                  |               |                 |                   |
+      | Relato dos resultados da avaliação do Storyboard e Análise de tarefas. |                  |               |                 |                   |
+      | Gravação do vídeo de apresentação                                      |                  |               |                 |                   |
+
+    ###### Tabela 04 - Atividades executadas na entrega 4. Fonte: Autoria própria
+
+
+=== "E5"
+          
+      | **Tarefa**                                                                                 | **Responsáveis** | **Revisores** | **Iniciado em** | **Finalizado em** |
+      | ------------------------------------------------------------------------------------------ | ---------------- | ------------- | --------------- | ----------------- |
+      | Apresentação do Relato dos resultados da  avaliação do Storyboard e da Análise de  tarefas |                  |               |                 |                   |
+      | Protótipo de Papel                                                                         |                  |               |                 |                   |
+      | Planejamento da avaliação e do relato dos resultados.                                      |                  |               |                 |                   |
+      | Gravação do vídeo de apresentação                                                          |                  |               |                 |                   |
+
+    ###### Tabela 05 - Atividades executadas na entrega 5. Fonte: Autoria própria
+
+
+=== "E6"
+          
+      | **Tarefa**                                                                                        | **Responsáveis** | **Revisores** | **Iniciado em** | **Finalizado em** |
+      | ------------------------------------------------------------------------------------------------- | ---------------- | ------------- | --------------- | ----------------- |
+      | Apresentação do Relato dos resultados da avaliação do protótipo de baixa fidelidade               |                  |               |                 |                   |
+      | Planejamento da Avaliação e do relato dos resultados da avaliação do protótipo de alta fidelidade |                  |               |                 |                   |
+      | Gravação do vídeo de apresentação                                                                 |                  |               |                 |                   |
+
+    ###### Tabela 06 - Atividades executadas na entrega 6. Fonte: Autoria própria
+
+
+=== "E7"
+          
+      | **Tarefa**                                | **Responsáveis** | **Revisores** | **Iniciado em** | **Finalizado em** |
+      | ----------------------------------------- | ---------------- | ------------- | --------------- | ----------------- |
+      | Apresentação da Verificação dos artefatos |                  |               |                 |                   |
+      | Gravação do vídeo de apresentação         |                  |               |                 |                   |
+
+    ###### Tabela 07 - Atividades executadas na entrega 7. Fonte: Autoria própria
+
+
+=== "E8"
+          
+      | **Tarefa**                                                                         | **Responsáveis** | **Revisores** | **Iniciado em** | **Finalizado em** |
+      | ---------------------------------------------------------------------------------- | ---------------- | ------------- | --------------- | ----------------- |
+      | Apresentação do Relato dos resultados da avaliação do protótipo de alta fidelidade |                  |               |                 |                   |
+      | Gravação do vídeo de apresentação                                                  |                  |               |                 |                   |
+
+    ###### Tabela 08 - Atividades executadas na entrega 8. Fonte: Autoria própria
+
+
+=== "E9"
+        
+    | **Tarefa**                                                     | **Responsáveis** | **Revisores** | **Iniciado em** | **Finalizado em** |
+    | -------------------------------------------------------------- | ---------------- | ------------- | --------------- | ----------------- |
+    | Entrega dos slides e do link da apresentação do Projeto Final. |                  |               |                 |                   |
+    | Gravação do vídeo de apresentação                              |                  |               |                 |                   |
+
+    ###### Tabela 09 - Atividades executadas na entrega 9. Fonte: Autoria própria
+
 
 ## Histórico de versões
 
-|    Data    | Versão |              Descrição               |                                            Autor(es)                                             |
-| :--------: | :----: | :----------------------------------: | :----------------------------------------------------------------------------------------------: |
-| 20/11/2022 |  0.0   | Criação da página e V0 do cronograma | [@Eric-chagas](https://github.com/Eric-chagas) <br> [@hgaldino05](https://github.com/hgaldino05) |
-| 21/11/2022 |  0.1   |  Atualização para V1 do cronograma   |                          [@Eric-chagas](https://github.com/Eric-chagas)                          |
+|    Data    | Versão |                           Descrição                           |                                            Autor(es)                                             |
+| :--------: | :----: | :-----------------------------------------------------------: | :----------------------------------------------------------------------------------------------: |
+| 20/11/2022 |  0.0   |             Criação da página e v0 do cronograma              | [@Eric-chagas](https://github.com/Eric-chagas) <br> [@hgaldino05](https://github.com/hgaldino05) |
+| 21/11/2022 |  0.1   |               Atualização para v1 do cronograma               |                          [@Eric-chagas](https://github.com/Eric-chagas)                          |
+| 22/11/2022 |  0.2   |       Adição do versionamento do cronograma e legendas        |                          [@Eric-chagas](https://github.com/Eric-chagas)                          |
+| 22/11/2022 |  0.3   | Adição da v2 do cronograma e tabelas de atividades executadas |                          [@Eric-chagas](https://github.com/Eric-chagas)                          |
 
-###### Quadro 01 - Histórico de versões. Fonte: Autoria própria
+###### Tabela 10 - Histórico de versões. Fonte: Autoria própria
 

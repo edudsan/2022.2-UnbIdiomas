@@ -26,7 +26,7 @@ Desde junho de 2008, as atividades anteriormente desenvolvidas pela então Escol
 | ----                                                            | Pedro Menezes Rodiguero | ---       | [@pedro-rodiguero](https://github.com/pedro-rodiguero) |
 | <img src="https://www.github.com/Thiago-Cerq.png" width="200"/> | Thiago Cerqueira Borges | 190117508 | [@Thiago-Cerq](https://github.com/Thiago-Cerq)         |
 
-###### Quadro 01 - Equipe. Fonte: Autoria própria
+###### Tabela 01 - Equipe. Fonte: Autoria própria
 
 ## 5. Referências
 
@@ -39,4 +39,4 @@ Desde junho de 2008, as atividades anteriormente desenvolvidas pela então Escol
 | 21/11/2022 |  0.0   | Adicionado o conteúdo inicial acerca do projeto e do time | [@Eric-chagas](https://github.com/Eric-chagas) |
 | 22/11/2022 |  0.1   |            Adicionadas legendas e referências             | [@Eric-chagas](https://github.com/Eric-chagas) |
 
-###### Quadro 02 - Histórico de versões. Fonte: Autoria própria
+###### Tabela 02 - Histórico de versões. Fonte: Autoria própria
