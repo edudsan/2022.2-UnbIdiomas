@@ -35,7 +35,7 @@ Para realizar a avaliação do site, é necessário ter um entendimento geral ac
 !!! abstract "Perfis de usuário"
 
     - Alunos de graduação e pós-graduação matriculados na UnB, com idade à partir de 16 anos
-    - Pessoas não ligadas à UnB, com idade à partir dos 12 anos
+    - Pessoas não ligadas à UnB, com idade à partir dos 18 anos
     - Professores e funcionários da UnB, com idade à partir dos 25 anos
 
 ###### Anotação 02 - Perfis de usuário. Fonte: Autoria própria.
@@ -115,10 +115,10 @@ ou se preocupar com questões relacionadas à legislação
 
 ## Histórico de versão
 
-| Versão | Data       | Descrição                           | Autor(es)                          | Revisor    |
-| ------ | ---------- | ----------------------------------- | ---------------------------------- | ---------- |
-| 1.0    | 23/11/2022 | Adição do planejamento da avaliação | Eric Chagas                        | Igor Silva |
-| 1.1    | 23/11/2022 | Framework Decide                    | Eric Chagas, <br> Thiago Cerqueira | Igor Silva |
+| Versão | Data       | Descrição                           | Autor(es)                          | Revisor |
+| ------ | ---------- | ----------------------------------- | ---------------------------------- | ------- |
+| 1.0    | 23/11/2022 | Adição do planejamento da avaliação | Eric Chagas                        | Todos   |
+| 1.1    | 23/11/2022 | Framework Decide                    | Eric Chagas, <br> Thiago Cerqueira | Todos   |
 
 
 ##### Tabela 01 - Histórico de versões. Fonte: Autoria própria
