@@ -15,11 +15,18 @@ O cronograma em formato roadmap, mostrado na **Figura 01**, foi desenvolvido com
 
 #### Clique na imagem para visualizar com zoom
 
+=== "V3"
+    
+      <figure markdown>
+        ![Cronograma V2](../assets/img/roadmapV3.png)
+        <figcaption>Figura 01 - Cronograma do projeto. Fonte: Autoria própria</figcaption>
+      </figure>
+
 === "V2"
     
       <figure markdown>
         ![Cronograma V2](../assets/img/roadmapV2.png)
-        <figcaption>Figura 01 - Cronograma do projeto. Fonte: Autoria própria</figcaption>
+        <figcaption>Figura 02 - v2 Cronograma do projeto. Fonte: Autoria própria</figcaption>
       </figure>
 
 
@@ -27,14 +34,14 @@ O cronograma em formato roadmap, mostrado na **Figura 01**, foi desenvolvido com
     
       <figure markdown>
         ![Cronograma V1](../assets/img/roadmapV1.png)
-        <figcaption>Figura 02 - v1 Cronograma do projeto. Fonte: Autoria própria</figcaption>
+        <figcaption>Figura 03 - v1 Cronograma do projeto. Fonte: Autoria própria</figcaption>
       </figure>
 
 === "V0"
     
       <figure markdown>
         ![Cronograma V0](../assets/img/roadmapV0.png)
-        <figcaption>Figura 03 - v0 do cronograma do projeto. Fonte: Autoria própria</figcaption>
+        <figcaption>Figura 04 - v0 do cronograma do projeto. Fonte: Autoria própria</figcaption>
       </figure>
 
 ## Cronograma Executado
@@ -59,6 +66,8 @@ O cronograma executado pode ser visualizado nas **Tabelas de 01 a 09**, e repres
       | Ferramentas utilizadas no projeto             | Artur            | Eric, Henrique | 18/11/2022      | 23/11/2022        |
       | Processo de Design                            | Igor,Thiago      | Artur          | 18/11/2022      | 23/11/2022        |
       | Cronograma das atividades                     | Eric, Henrique   | Igor,Thiago    | 18/11/2022      | 23/11/2022        |
+      | Planejamento da avaliação                     | Eric             | Todos          | 18/11/2022      | 23/11/2022        |
+      | Avaliação                                     | Eric             | Todos          | 18/11/2022      | 23/11/2022        |
       | Gravação do vídeo de apresentação             | Todos            | Todos          | 22/11/2022      | 23/11/2022        |
 
     ###### Tabela 01 - Atividades executadas na entrega 1. Fonte: Autoria própria
@@ -159,6 +168,7 @@ O cronograma executado pode ser visualizado nas **Tabelas de 01 a 09**, e repres
 | 21/11/2022 |  0.1   |               Atualização para v1 do cronograma               |                          [@Eric-chagas](https://github.com/Eric-chagas)                          |
 | 22/11/2022 |  0.2   |       Adição do versionamento do cronograma e legendas        |                          [@Eric-chagas](https://github.com/Eric-chagas)                          |
 | 23/11/2022 |  0.3   | Adição da v2 do cronograma e tabelas de atividades executadas |                          [@Eric-chagas](https://github.com/Eric-chagas)                          |
+| 23/11/2022 |  0.4   | Adição da v3 do cronograma e tabelas de atividades executadas |                          [@Eric-chagas](https://github.com/Eric-chagas)                          |
 
 ###### Tabela 10 - Histórico de versões. Fonte: Autoria própria
 
