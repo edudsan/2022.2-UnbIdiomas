@@ -48,16 +48,6 @@ A reuniao de planejamento da Sprint é um evento onde a equipe se reúne e avali
 - Quantos erros de cada tipo ocorreram
 - O grau de satisfação do usuário, etc
 
-## 7. Avaliação Heurística
-
-<p>É um método de avaliação criado para encontrar problemas de usabilidade durante um processo de design iterativo. A equipe decidiu utilizar a Heurística de Nielsen para fazer essa avaliação, onde seguiremos as heurísticas explicitadas na Figura 2:</p>
-
-<figure markdown>
-    ![Cronograma V2](../assets/img/10-heuristicas.png)
-    <figcaption>Figura 2 - 10 Heurísticas de Nielsen. Fonte: Autoria própria</figcaption>
-</figure>
-
-
 
 ## 6. Referências
 
@@ -73,7 +63,7 @@ A reuniao de planejamento da Sprint é um evento onde a equipe se reúne e avali
 | :----: | :--------: | :------------------------------: | :--------------: | :---------: |
 |  1.0   | 23/11/2022 |  Documento de metodologia Scrum  | Thiago Cerqueira | Eric Chagas |
 |  1.1   | 23/11/2022 |       Teste de Usabilidade       | Thiago Cerqueira | Eric Chagas |
-|  1.2   | 23/11/2022 | Adição da imagem das heurísticas |   Eric Chagas    |   Thiago    |
+
 
 
 <div align="center">

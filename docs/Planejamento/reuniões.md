@@ -129,7 +129,7 @@ As reuniões de cada entrega podem ser vistas abaixo, **numeradas de 1 a 9**, ju
 
 |    Data    | Versão |                           Descrição                           |                                            Autor(es)                                             |
 | :--------: | :----: | :-----------------------------------------------------------: | :----------------------------------------------------------------------------------------------: |
-| 23/11/2022 |  0.0   |             Criação da página e v0 das atas              | [@hgaldino05](https://github.com/hgaldino05) |
+| 23/11/2022 |  1.0   |             Criação da página e v0 das atas              | [@hgaldino05](https://github.com/hgaldino05) |
 
 
 ###### Tabela 10 - Histórico de versões. Fonte: Autoria própria

@@ -134,8 +134,9 @@ Principais problemas: So sem tem acesso a informações apos efetuar login.
 
 |    Data    | Versão |                         Descrição                         |          Autor(es)           |           Revisor            |
 | :--------: | :----: | :-------------------------------------------------------: | :--------------------------: | :--------------------------: |
-| 20/11/2022 |  0.1   |             Criação do esqueleto do arquivo               |     Thiago Cerqueira Borges  |   Eric Chagas de Oliveira    |
-| 23/11/2022 |  0.2   |             Adição das legendas e citação nos textos      |     Thiago Cerqueira Borges  |   Eric Chagas de Oliveira    |
+| 20/11/2022 |  1.0   |             Criação do esqueleto do arquivo               |     Thiago Cerqueira Borges  |   Eric Chagas de Oliveira    |
+| 23/11/2022 |  1.1   |             Adição das legendas e citação nos textos      |     Thiago Cerqueira Borges  |   Eric Chagas de Oliveira    |
+| 23/11/2022 |  1.1   |             Alteração no Histórico de versões             |     Thiago Cerqueira Borges  |   Eric Chagas de Oliveira    |
 
 <div align="center">
 <figcaption align="left">Tabela 2: Histórico de versões(Fonte: Autoria própria)</figcaption>
