@@ -90,10 +90,7 @@ As reuniões de cada entrega podem ser vistas abaixo, **numeradas de 1 a 9**, ju
 
 ## Entrega 1
 
-- **Reunião 1**
-  - Foi feita a escolha do site a ser avaliado no projeto
-  - Github Pages do projeto começou a ser feito
-  - Tarefas foram divididas entre os membros (veja **Cronograma**)
+- [Ata da reunião 1](https://docs.google.com/document/d/1-hV7OzzrXDSyqMu_WhrsdxkZ9lEw0LcJPvqRhqqTGkQ/edit?usp=sharing)
 
 ## Entrega 2
 
@@ -126,10 +123,10 @@ As reuniões de cada entrega podem ser vistas abaixo, **numeradas de 1 a 9**, ju
 - **Reunião 1**
 
 ## Histórico de versões
-
-|    Data    | Versão |                           Descrição                           |                                            Autor(es)                                             |
-| :--------: | :----: | :-----------------------------------------------------------: | :----------------------------------------------------------------------------------------------: |
-| 23/11/2022 |  1.0   |             Criação da página e v0 das atas              | [@hgaldino05](https://github.com/hgaldino05) |
+|    Data    | Versão |                                       Descrição                                       |        Autor(es)        |         Revisor         |
+| :--------: | :----: | :-----------------------------------------------------------------------------------: | :---------------------: | :---------------------: |
+| 23/11/2022 |  1.0   |                            Criação da página e v1 das atas                           |   Henrique Galdino Couto    | Eric Chagas |
+| 29/11/2022 |  1.1   | Alteração no formato das atas e inserção de hiperlink | Henrique Galdino Couto |   Eric Chagas    |
 
 
 ###### Tabela 10 - Histórico de versões. Fonte: Autoria própria
