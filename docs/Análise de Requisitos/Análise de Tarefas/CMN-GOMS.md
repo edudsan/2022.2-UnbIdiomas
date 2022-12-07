@@ -1,4 +1,4 @@
-# Análise de Tarefas
+# CNM-GOMS
 
 ## 1. Introdução
 
