@@ -24,7 +24,7 @@ O elenco de personas foi criado com base nos dados coletados na pesquisa de perf
 | Escolaridade: | Ensino Superior incompleto |
 | Relacionamentos: | Família, amigos, colegas de turma, professores  |
 | Habilidades: | Prestativa, atenciosa, comunicativa. Cursa Administração na Universidade de Brasília |
-| Objetivos: | Planeja trabalhar no Japão, e para isso pretende estudar japonês na UnB Idiomas  |
+| Objetivos: | Planeja trabalhar no Japão, e para isso pretende estudar japonês; Conseguir um emprego que pague bem;|
 | Tarefas: | Buscar informações sobre a UnB Idiomas e o curso de japonês por ela ofertado; Consultar os valores do curso de japonês e caso consiga pagar, começar os estudos. Aprender japonês nos mais diversos níveis. |
 | Requisitos: | Precisa encontrar todas as informações que a interessam, quer aprender japonês de maneira eficiente |
 | Expectativas: | Ana espera encontrar facilmente todas as informações desejadas no site, sem perder muito tempo procurando por elas; Como aprendeu um pouco de japonês com seu avô, Ana quer fazer um teste de proficiência para saber em qual nível deve começar.  |
@@ -48,7 +48,7 @@ O elenco de personas foi criado com base nos dados coletados na pesquisa de perf
 | Escolaridade: | Ensino Superior Completo |
 | Relacionamentos: | Família, amigos, colegas de trabalho, alunos  |
 | Habilidades: | Simpática e comunicativa. Formada em Biologia pela Universidade de Brasília; Fala inglês fluentemente. |
-| Objetivos: | Ministrar aulas para alunos do ensino fundamental; Preparar as avaliações e conteúdos que serão dados aos alunos  |
+| Objetivos: | Almeja um emprego em outra escola; Planeja fazer uma viagem para a Costa Rica. |
 | Tarefas: | Por ter feito o curso de Inglês ofertado pela UnB Idiomas enquanto era estudante, Yumi não interage mais com o site. |
 | Requisitos: | Por ter feito o curso de Inglês ofertado pela UnB Idiomas enquanto era estudante, Yumi não tem nenhum requisito em relação ao site. |
 | Expectativas: | Por ter feito o curso de Inglês ofertado pela UnB Idiomas enquanto era estudante, Yumi não tem nenhuma expectativa em relação ao site.  |
@@ -70,11 +70,11 @@ O elenco de personas foi criado com base nos dados coletados na pesquisa de perf
 | Idade: | 28 anos |
 | Ocupação: | Gerente de loja |
 | Escolaridade: | Ensino Superior Completo |
-| Relacionamentos: | Família, amigos, colegas de trabalho, funcionários, patrões/sócios  |
+| Relacionamentos: | Família, amigos, marido, colegas de trabalho, funcionários, patrões/sócios  |
 | Habilidades: | Possui uma boa liderança; É uma pessoa organizada e detalhista;  Pós-graduada em Administração; Fala inglês fluentemente. |
-| Objetivos: | Aprender mandarim para usar no ambiente de trabalho; Manter uma boa relação com os novos sócios da empresa  |
-| Tarefas: | Começar um curso de mandarim; Focar os estudos no vocabulário corporativo em mandarim.  |
-| Requisitos: | Ter o mandarim como opção de curso; Se possível, aulas sobre linguagem corporativa em mandarim. |
+| Objetivos: | Almeja uma vaga na diretoria da empresa; Pensa em ter filhos.  |
+| Tarefas: | Aprender mandarim para usar no ambiente de trabalho; Manter uma boa relação com os novos sócios da empresa |
+| Requisitos: | Se possível, ter aulas sobre linguagem corporativa em mandarim. |
 | Expectativas: | Débora espera que o site informe os conteúdos a serem ministrados em cada nível dos cursos, permitindo que ela tenha conhecimento do que aprenderá ao decorrer deles. |
 
 
@@ -94,9 +94,9 @@ O elenco de personas foi criado com base nos dados coletados na pesquisa de perf
 | Idade: | 33 anos |
 | Ocupação: | Professor de Espanhol |
 | Escolaridade: | Ensino Superior Completo |
-| Relacionamentos: | Família, amigos, colegas de trabalho, alunos, patrões  |
+| Relacionamentos: | Família, amigos, namorada, colegas de trabalho, alunos, patrões  |
 | Habilidades: | Calmo e objetivo. Trabalha bem com alunos, tendo paciência ao ministrar as aulas. Nascido na Espanha e criado em São Paulo, Juan é formado em espanhol em uma universidade de Madri. |
-| Objetivos: | Ministrar aulas e garantir que os alunos entendam os conteúdos. |
+| Objetivos: | Garantir que seus alunos estejam aprendendo; Está pensando em pedir a namorada em casamento. |
 | Tarefas: | Ministrar aulas; disponibilizar conteúdos para seus alunos.  |
 | Requisitos: | Permitir a divulgação de informações relacionadas ao curso de espanhol, disponibilizar informações para contato em seu email pessoal. |
 | Expectativas: | Juan espera que o site não limite sua interação com os alunos e nem prejudique o acesso dos mesmos à informações do curso. |
@@ -118,7 +118,7 @@ O elenco de personas foi criado com base nos dados coletados na pesquisa de perf
 | Escolaridade: | Ensino Superior Incompleto |
 | Relacionamentos: | Família, amigos, colegas de trabalho, patrões, professores  |
 | Habilidades: | Dedicado; Está cursando Engenharia de Software na UnB |
-| Objetivos: | Aprender um novo idioma para ter um currículo mais atrativo. |
+| Objetivos: | Concluir a faculdade; Conseguir um emprego em uma grande empresa; |
 | Tarefas: | Escolher um idioma; procurar um curso do idioma desejado e o preço do mesmo.  |
 | Requisitos: | Listar os cursos disponíveis; Permitir acesso a informações do curso, tais como valores e duração; |
 | Expectativas: | Pedro espera que o site mostre quais cursos são ofertados e quantas vagas ainda estão disponíveis em cada turma. |
@@ -139,10 +139,10 @@ O elenco de personas foi criado com base nos dados coletados na pesquisa de perf
 | Idade: | 53 anos |
 | Ocupação: | Professor de Francês |
 | Escolaridade: | Mestrado |
-| Relacionamentos: | Família, amigos, colegas de trabalho, alunos  |
+| Relacionamentos: | Família, esposa, amigos, colegas de trabalho, alunos  |
 | Habilidades: | Fala inglês e francês fluentemente; Prefere meio práticos do que tecnológicos para ministrar suas aulas. |
-| Objetivos: | Ministrar aulas e garantir que os alunos entendam os conteúdos; Disponibilizar tarefas para os alunos estudarem fora do horário de aula. |
-| Tarefas: | Ministrar aulas; disponibilizar conteúdos para seus alunos.  |
+| Objetivos: | Compartilhar seu conhecimento com os alunos; Cogita se aposentar em alguns anos. |
+| Tarefas: | Ministrar aulas; disponibilizar conteúdos e informações para seus alunos.  |
 | Requisitos: | Permitir a divulgação de informações relacionadas ao curso de francês e disponibilizar tarefas para seus alunos. |
 | Expectativas: | René espera que o site permita a divulgação dos conteúdos que serão trabalhados nas turmas. |
 
@@ -157,8 +157,8 @@ Para ajudar na construção das personas, foram imaginados os seguintes cenário
 
 #### Cenário 2 (Débora)
 - Débora é gerente de uma loja de uma franquia nacional. Devido ao bom desempenho e crescimento no mercado, a empresa teve parte de suas ações compradas por investidores chineses, que agora farão parte das reuniões mensais da diretoria com os gerentes.
-- Débora sente a necessidade de aprender mandarim, com o objetivo de manter uma boa comunicação com os novos sócios da empresa e se destacar entre os demais gerentes. Para isso, ela começa a procurar ofertas de cursos de mandarim na internet, descobrindo que a UnB Idiomas oferece aquele que atenda às necessidades dela.
-- Como quer aprender mandarim para uso corporativo, Débora tenta encontrar no site informações sobre os contéudos e vocabulários que serão ensinados no decorrer do curso.
+- Débora sentiu a necessidade de aprender mandarim, com o objetivo de manter uma boa comunicação com os novos sócios da empresa e se destacar entre os demais gerentes. Para isso, ela começou um curso de mandarim na UnB Idiomas.
+- Interessada em aprender termos em mandarim que são usados no meio corporativo, Débora tenta encontrar no site informações sobre os contéudos e vocabulários que serão ensinados no decorrer do curso.
 
 #### Cenário 3 (Juan e René)
 - Juan e René são professores da UnB Idiomas que ministram, respectivamente, espanhol e francês.
@@ -168,12 +168,14 @@ Para ajudar na construção das personas, foram imaginados os seguintes cenário
 #### Cenário 4 (Pedro)
 - Ainda que tenha uma rotina corrida, Pedro gostaria de aprender uma nova língua, pois sente que é de extrema importância para a área que almeja trabalhar.
 - Indeciso sobre qual língua aprender, Pedro decide pedir recomendações aos amigos e recebe a informação de que o UnB Idiomas oferece cursos diversificados. Após analisar os idiomas oferecidos, Pedro procura saber informações sobre o número de vagas para cada turma, pois quer começar o curso o mais rápido possível.
-
-
+ 
+###### Alterações:
+- Foram feitas mudanças nos objetivos e tarefasdas personas, com o objetivo de melhorar a forma com que seus perfis se encaixam nos cenários. Também foram feitas alterações nos cenários envolvendo a persona Débora, para que houvesse uma maior variedade de contextos entre o elenco. 
 ## Histórico de versões
 |    Data    | Versão |                                       Descrição                                       |        Autor(es)        |         Revisor(es)         |
 | :--------: | :----: | :-----------------------------------------------------------------------------------: | :---------------------: | :---------------------: |
 | 7/12/2022 |  1.0   |                            Criação da página personas                          |   Henrique Galdino Couto    | Eric Chagas |
+| 8/12/2022 |  1.1   |                            Mudança em algumas personas e cenários                         |   Henrique Galdino Couto    | Eric Chagas |
 
 
 
