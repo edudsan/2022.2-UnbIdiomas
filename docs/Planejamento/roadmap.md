@@ -1,5 +1,3 @@
-<!--- file: docs/howto/embedding_pdf.md --->
-{% with pdf_file = "docs/assets/pdf/roadmapv4.pdf" %}
 # Cronograma
 
 O cronograma em formato roadmap, mostrado na **Figura 01**, foi desenvolvido com a finalidade de fornecer visibilidade acerca da divisão do trabalho e das entregas que serão realizadas ao longo do projeto.
@@ -65,30 +63,34 @@ O cronograma executado pode ser visualizado nas **Tabelas de 01 a 09**, e repres
 
 === "E1"
           
-      | **Tarefa**                                    | **Responsáveis** | **Revisores**  | **Iniciado em** | **Finalizado em** |
-      | --------------------------------------------- | ---------------- | -------------- | --------------- | ----------------- |
-      | Site selecionado para o projeto da disciplina | Todos            | Todos          | 25/10/2022      | 18/11/2022        |
-      | Processo de Design                            | Igor,Thiago      | Artur          | 18/11/2022      | 23/11/2022        |
-      | Planejamento da avaliação                     | Eric             | Todos          | 18/11/2022      | 23/11/2022        |
-      | Listas de sites avaliados                     | Todos            | Todos          | 25/10/2022      | 18/11/2022        |
-      | Ferramentas utilizadas no projeto             | Artur            | Eric, Henrique | 18/11/2022      | 23/11/2022        |
-      | Definição da equipe                           | Todos            | Todos          | 25/10/2022      | 18/11/2022        |
-      | Cronograma das atividades                     | Eric, Henrique   | Igor,Thiago    | 18/11/2022      | 23/11/2022        |
-      | Avaliação                                     | Eric             | Todos          | 18/11/2022      | 23/11/2022        |
-      | Metodologia                                     | Eric             | Todos          | 18/11/2022      | 23/11/2022        |
-
-      | Gravação do vídeo de apresentação             | Todos            | Todos          | 22/11/2022      | 23/11/2022        |
+      | **Tarefa**                                    | **Responsáveis**                     | **Revisores**                        | **Iniciado em** | **Data final de revisão** | **Finalizado em** |
+      | --------------------------------------------- | ------------------------------------ | ------------------------------------ | --------------- | ------------------------- | ----------------- |
+      | Site selecionado para o projeto da disciplina | Arthur, Eric, Igor, Henrique, Thiago | Arthur, Eric, Igor, Henrique, Thiago | 25/10/2022      | 18/11/2022                | 18/11/2022        |
+      | Processo de Design                            | Igor,Thiago                          | Artur                                | 18/11/2022      | 23/11/2022                | 23/11/2022        |
+      | Planejamento da avaliação                     | Eric                                 | Arthur, Eric, Igor, Henrique, Thiago | 18/11/2022      | 23/11/2022                | 23/11/2022        |
+      | Listas de sites avaliados                     | Arthur, Eric, Igor, Henrique, Thiago | Arthur, Eric, Igor, Henrique, Thiago | 25/10/2022      | 18/11/2022                | 18/11/2022        |
+      | Ferramentas utilizadas no projeto             | Artur                                | Eric, Henrique                       | 18/11/2022      | 23/11/2022                | 23/11/2022        |
+      | Definição da equipe                           | Arthur, Eric, Igor, Henrique, Thiago | Arthur, Eric, Igor, Henrique, Thiago | 25/10/2022      | 18/11/2022                | 18/11/2022        |
+      | Cronograma das atividades                     | Eric, Henrique                       | Igor,Thiago                          | 18/11/2022      | 23/11/2022                | 23/11/2022        |
+      | Avaliação                                     | Eric                                 | Arthur, Eric, Igor, Henrique, Thiago | 18/11/2022      | 23/11/2022                | 23/11/2022        |
+      | Metodologia                                   | Thiago                               | Eric                                 | 18/11/2022      | 23/11/2022                | 23/11/2022        |
+      | Gravação do vídeo de apresentação             | Arthur, Eric, Igor, Henrique, Thiago | Arthur, Eric, Igor, Henrique, Thiago | 22/11/2022      | 23/11/2022                | 23/11/2022        |
 
     ###### Tabela 01 - Atividades executadas na entrega 1. Fonte: Autoria própria
 
 === "E2"
           
-      | **Tarefa**                        | **Responsáveis** | **Revisores** | **Iniciado em** | **Finalizado em** |
-      | --------------------------------- | ---------------- | ------------- | --------------- | ----------------- |
-      | Perfil do usuário                 |                  |               |                 |                   |
-      | Personas                          |                  |               |                 |                   |
-      | Análise de tarefas                |                  |               |                 |                   |
-      | Gravação do vídeo de apresentação |                  |               |                 |                   |
+      | **Tarefa**                                   | **Responsáveis**                     | **Revisores**  | **Iniciado em** | **Data final de revisão** | **Finalizado em** |
+      | -------------------------------------------- | ------------------------------------ | -------------- | --------------- | ------------------------- | ----------------- |
+      | Perfil do usuário                            | Igor, Henrique                       | Eric, Thiago   | 01/12           | 06/11                     | 07/11             |
+      | Personas                                     | Eric, Thiago                         | Artur, Pedro   | 01/12           | 06/11                     | 07/11             |
+      | Análise de tarefas                           | Artur, Pedro                         | Igor, Henrique | 01/12           | 06/11                     | 07/11             |
+      | Retrabalho: Planejamento e avaliação do site | Eric                                 | Henrique       | 01/12           | 06/11                     | 07/11             |
+      | Retrabalho: Processo de design               | Igor                                 | Thiago         | 01/12           | 06/11                     | 07/11             |
+      | Retrabalho: Metodologia                      | Thiago                               | Eric           | 01/12           | 06/11                     | 07/11             |
+      | Retrabalho: Lista de sites avaliados         | Thiago                               | Eric           | 01/12           | 06/11                     | 07/11             |
+      | Retrabalho: Cronograma                       | Eric                                 | Igor, Henrique | 01/12           | 06/11                     | 07/11             |
+      | Gravação do vídeo de apresentação            | Arthur, Eric, Igor, Henrique, Thiago | Eric           | 01/12           | 07/11                     | 07/11             |
 
     ###### Tabela 02 - Atividades executadas na entrega 2. Fonte: Autoria própria
 
@@ -178,6 +180,7 @@ O cronograma executado pode ser visualizado nas **Tabelas de 01 a 09**, e repres
 | 22/11/2022 |  1.2   |       Adição do versionamento do cronograma e legendas        |                          [@Eric-chagas](https://github.com/Eric-chagas)                          |
 | 23/11/2022 |  1.3   | Adição da v2 do cronograma e tabelas de atividades executadas |                          [@Eric-chagas](https://github.com/Eric-chagas)                          |
 | 23/11/2022 |  1.4   | Adição da v3 do cronograma e tabelas de atividades executadas |                          [@Eric-chagas](https://github.com/Eric-chagas)                          |
+| 23/11/2022 |  1.5   | Adição da v4 do cronograma e tabelas de atividades executadas |                          [@Eric-chagas](https://github.com/Eric-chagas)                          |
 
 ###### Tabela 10 - Histórico de versões. Fonte: Autoria própria
 
