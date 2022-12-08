@@ -1,3 +1,5 @@
+<!--- file: docs/howto/embedding_pdf.md --->
+{% with pdf_file = "docs/assets/pdf/roadmapv4.pdf" %}
 # Cronograma
 
 O cronograma em formato roadmap, mostrado na **Figura 01**, foi desenvolvido com a finalidade de fornecer visibilidade acerca da divisão do trabalho e das entregas que serão realizadas ao longo do projeto.
@@ -13,7 +15,12 @@ O cronograma em formato roadmap, mostrado na **Figura 01**, foi desenvolvido com
 
 ###### Anotação 01 - Observações. Fonte: Autoria própria.
 
-#### Clique na imagem para visualizar com zoom
+#### É Possível dar zoom no Cronograma mostrado no (Arquivo 01) para visualizar cada uma das atividades com mais detalhes
+
+=== "V4"
+  
+      <iframe width="100%" height="600" src="../../assets/pdf/roadmapv4.pdf"/>
+    ###### Arquivo 01 - Cronograma do projeto. Fonte: Autoria própria.
 
 === "V3"
     
@@ -60,14 +67,16 @@ O cronograma executado pode ser visualizado nas **Tabelas de 01 a 09**, e repres
           
       | **Tarefa**                                    | **Responsáveis** | **Revisores**  | **Iniciado em** | **Finalizado em** |
       | --------------------------------------------- | ---------------- | -------------- | --------------- | ----------------- |
-      | Definição da equipe                           | Todos            | Todos          | 25/10/2022      | 18/11/2022        |
-      | Listas de sites avaliados                     | Todos            | Todos          | 25/10/2022      | 18/11/2022        |
       | Site selecionado para o projeto da disciplina | Todos            | Todos          | 25/10/2022      | 18/11/2022        |
-      | Ferramentas utilizadas no projeto             | Artur            | Eric, Henrique | 18/11/2022      | 23/11/2022        |
       | Processo de Design                            | Igor,Thiago      | Artur          | 18/11/2022      | 23/11/2022        |
-      | Cronograma das atividades                     | Eric, Henrique   | Igor,Thiago    | 18/11/2022      | 23/11/2022        |
       | Planejamento da avaliação                     | Eric             | Todos          | 18/11/2022      | 23/11/2022        |
+      | Listas de sites avaliados                     | Todos            | Todos          | 25/10/2022      | 18/11/2022        |
+      | Ferramentas utilizadas no projeto             | Artur            | Eric, Henrique | 18/11/2022      | 23/11/2022        |
+      | Definição da equipe                           | Todos            | Todos          | 25/10/2022      | 18/11/2022        |
+      | Cronograma das atividades                     | Eric, Henrique   | Igor,Thiago    | 18/11/2022      | 23/11/2022        |
       | Avaliação                                     | Eric             | Todos          | 18/11/2022      | 23/11/2022        |
+      | Metodologia                                     | Eric             | Todos          | 18/11/2022      | 23/11/2022        |
+
       | Gravação do vídeo de apresentação             | Todos            | Todos          | 22/11/2022      | 23/11/2022        |
 
     ###### Tabela 01 - Atividades executadas na entrega 1. Fonte: Autoria própria
