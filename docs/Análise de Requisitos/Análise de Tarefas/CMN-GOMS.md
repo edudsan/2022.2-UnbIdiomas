@@ -23,68 +23,109 @@ Nós decidimos utilizar o GOMS pois ele pode ser usado tanto para prever a perfo
 A análise a seguir busca mostrar o sequenciamento, as operações, os objetivos, sub-objetivos e as operações para realizar a tarefa de obtenção de informações sobre o como ingressar aos cursos do Unb Idiomas.
 </p>
 
+</br>
+
+## 4.1 Acesso as informações do curso
+
 ```
 GOAL 0: Verificar informações dos cursos
-    0.1: Descer a página até encontrar a linguagem desejada
-    0.2: Deslocar o cursor do mouse para o nome da linguagem
-    0.3: Clicar com o botão esquerdo do mouse
-GOAL 1: Preencher as informações de cadastro
-    1.1: Deslocar o cursor do mouse para o menu do cabeçalho
-    1.2: Deslocar o cursor do mouse para o botão "cadastre-se aqui"
-    1.3: Preencher o campo de Nome Completo
-    1.4: Preencher o campo de Sexo
-    1.5: Preencher o campo de Data de Nascimento 
-    1.6: Preencher o campo de CPF 
-    1.7: Preencher o campo de Naturalidade 
-    1.8: Preencher o campo de Nacionalidade 
-    1.9: Preencher o campo de Nome da Mãe 
-    1.10: Preencher o campo de E-mail
-    1.11: Preencher o campo de Telefone Residencial
-    1.12: Preencher o campo de Endereço
-    1.13: Preencher o campo de CEP
-    1.14: Preencher o campo de Bairro
-    1.15: Preencher o campo de Estado
-    1.16: Preencher o campo de Cidade
-    1.17: Preencher o campo de Senha 
-    1.18: Preencher o campo de Confirmar a Senha
-    1.19: Preencher o campo de Tipo de aluno
-    1.20: Preencher o campo de Foto
-    2.21: Deslocar o cursor do mouse para o botão "Gravar"
-    2.22: Clicar com o botão esquerdo do mouse
-GOAL 2: Preencher as informações de login
-    2.1: Deslocar o cursor do mouse para o botão "Portais"
-    2.2: Deslocar o cursor do mouse no menu de "Portais" para o botão "Portal do aluno"
-    2.3: Clicar com o botão esquerdo do mouse
-    2.4: Preencher o campo de CPF
-    2.5: Preencher o campo de senha
-    2.6: Deslocar o cursor do mouse para o botão "Entrar"
-    2.7: Clicar com o botão esquerdo do mouse
-GOAL 3: Acessar as Normas e Orientações
-    3.1: Deslocar o cursor do mouse para o menu do cabeçalho
-    3.2: Deslocar o cursor do mouse para o botão "Normas e Orientações"
-    3.3: Clicar com o botão esquerdo do mouse
-GOAL 4: Acessar o Corporativo
-    4.1: Deslocar o cursor do mouse para o menu do cabeçalho
-    4.2: Deslocar o cursor do mouse para o botão "Corporativo"
-    4.3: Clicar com o botão esquerdo do mouse
-GOAL 5: Acessar a Chamada Publica
-    5.1: Deslocar o cursor do mouse para o menu do cabeçalho
-    5.2: Deslocar o cursor do mouse para o botão "Chamada Publica"
-    5.3: Clicar com o botão esquerdo do mouse
-    5.4: Deslocar o cursor do mouse para a opção desejada 
-    5.5: Clicar com o botão esquerdo do mouse
-GOAL 6: Acessar os Contatos
-    6.1: Deslocar o cursor do mouse para o menu do cabeçalho
-    6.2: Deslocar o cursor do mouse para o botão "Contatos"
-    6.3: Clicar com o botão esquerdo do mouse
-    6.4: Deslocar o cursor do mouse para a opção desejada 
-    6.5: Clicar com o botão esquerdo do mouse
-GOAL 7: Acessar os Preços dos cursos
-    7.1: Descer a página até encontrar a linguagem desejada
-    7.2: Deslocar o cursor do mouse para o nome da linguagem
-    7.3: Clicar com o botão esquerdo do mouse
-    7.4: Descer a página até encontrar o botão "Ver o Valor"
-    7.5: Clicar com o botão esquerdo do mouse
+    GOAL 1: Encontrar o curso desejado
+        OP 1.1: Descer a página até encontrar a linguagem desejada
+        OP 1.2: Deslocar o cursor do mouse para o nome da linguagem
+        OP .3: Clicar com o botão esquerdo do mouse
+```
+## 4.2 Realizar cadastro
+
+```
+GOAL 2: Preencher as informações de cadastro
+    GOAL 3: Encontrar o curso desejado
+        OP 3.1: Deslocar o cursor do mouse para o menu do cabeçalho
+        OP 3.2: Deslocar o cursor do mouse para o botão "cadastre-se aqui"
+        OP 3.3: Preencher o campo de Nome Completo
+        OP 3.4: Preencher o campo de Sexo
+        OP 3.5: Preencher o campo de Data de Nascimento 
+        OP 3.6: Preencher o campo de CPF 
+        OP 3.7: Preencher o campo de Naturalidade 
+        OP 3.8: Preencher o campo de Nacionalidade 
+        OP 3.9: Preencher o campo de Nome da Mãe 
+        OP 3.10: Preencher o campo de E-mail
+        OP 3.11: Preencher o campo de Telefone Residencial
+        OP 3.12: Preencher o campo de Endereço
+        OP 3.13: Preencher o campo de CEP
+        OP 3.14: Preencher o campo de Bairro
+        OP 3.15: Preencher o campo de Estado
+        OP 3.16: Preencher o campo de Cidade
+        OP 3.17: Preencher o campo de Senha 
+        OP 3.18: Preencher o campo de Confirmar a Senha
+        OP 3.19: Preencher o campo de Tipo de aluno
+        OP 3.20: Preencher o campo de Foto
+        OP 3.21: Deslocar o cursor do mouse para o botão "Gravar"
+        OP 3.22: Clicar com o botão esquerdo do mouse
+```
+## 4.3 Realizar Login
+
+```
+GOAL 4: Preencher as informações de login
+    GOAL 5: Encontrar botão "Portais"
+        OP 5.1: Deslocar o cursor do mouse para o botão "Portais"
+        OP 5.2: Deslocar o cursor do mouse no menu de "Portais" para o botão "Portal do aluno"
+        OP 5.3: Clicar com o botão esquerdo do mouse
+        OP 5.4: Preencher o campo de CPF
+        OP 5.5: Preencher o campo de senha
+        OP 5.6: Deslocar o cursor do mouse para o botão "Entrar"
+        OP 5.7: Clicar com o botão esquerdo do mouse
+```
+## 4.4 Acesso as Normas e Orientações
+
+```
+GOAL 6: Acessar as Normas e Orientações
+    GOAL 7: Encontra cabeçalho  
+        OP 7.1: Deslocar o cursor do mouse para o menu do cabeçalho
+        OP 7.2: Deslocar o cursor do mouse para o botão "Normas e Orientações"
+        OP 7.3: Clicar com o botão esquerdo do mouse
+
+```
+## 4.5 Acesso ao Corporativo
+
+```
+GOAL 8: Acessar o Corporativo
+    GOAL 9: Encontra cabeçalho 
+        OP 9.1: Deslocar o cursor do mouse para o menu do cabeçalho
+        OP 9.2: Deslocar o cursor do mouse para o botão "Corporativo"
+        OP 9.3: Clicar com o botão esquerdo do mouse
+```
+## 4.6 Acesso as a Chamadas Publicas
+
+```
+GOAL 10: Acessar a Chamada Publica
+    GOAL 11: Encontra cabeçalho 
+        OP 11.1: Deslocar o cursor do mouse para o menu do cabeçalho
+        OP 11.2: Deslocar o cursor do mouse para o botão "Chamada Publica"
+        OP 11.3: Clicar com o botão esquerdo do mouse
+        OP 11.4: Deslocar o cursor do mouse para a opção desejada 
+        OP 11.5: Clicar com o botão esquerdo do mouse
+```
+## 4.7 Acesso aos Contatos
+
+```
+GOAL 12: Acessar os Contatos
+    GOAL 13: Encontra cabeçalho 
+        OP 13.1: Deslocar o cursor do mouse para o menu do cabeçalho
+        OP 13.2: Deslocar o cursor do mouse para o botão "Contatos"
+        OP 13.3: Clicar com o botão esquerdo do mouse
+        OP 13.4: Deslocar o cursor do mouse para a opção desejada 
+        OP 13.5: Clicar com o botão esquerdo do mouse
+```
+## 4.8 Acesso aos Preços dos cursos
+
+```
+GOAL 14: Acessar os Preços dos cursos
+    GOAL 15: Encontrar o linguagem desejada
+        OP 15.1: Descer a página até encontrar a linguagem desejada
+        OP 15.2: Deslocar o cursor do mouse para o nome da linguagem
+        OP 15.3: Clicar com o botão esquerdo do mouse
+        OP 15.4: Descer a página até encontrar o botão "Ver o Valor"
+        OP 15.5: Clicar com o botão esquerdo do mouse
 ```
 
 ## 5. Referências Bibliográficas
