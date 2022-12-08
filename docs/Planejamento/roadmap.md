@@ -63,34 +63,34 @@ O cronograma executado pode ser visualizado nas **Tabelas de 01 a 09**, e repres
 
 === "E1"
           
-      | **Tarefa**                                    | **Responsáveis**                     | **Revisores**                        | **Iniciado em** | **Data final de revisão** | **Finalizado em** |
-      | --------------------------------------------- | ------------------------------------ | ------------------------------------ | --------------- | ------------------------- | ----------------- |
-      | Site selecionado para o projeto da disciplina | Arthur, Eric, Igor, Henrique, Thiago | Arthur, Eric, Igor, Henrique, Thiago | 25/10/2022      | 18/11/2022                | 18/11/2022        |
-      | Processo de Design                            | Igor,Thiago                          | Artur                                | 18/11/2022      | 23/11/2022                | 23/11/2022        |
-      | Planejamento da avaliação                     | Eric                                 | Arthur, Eric, Igor, Henrique, Thiago | 18/11/2022      | 23/11/2022                | 23/11/2022        |
-      | Listas de sites avaliados                     | Arthur, Eric, Igor, Henrique, Thiago | Arthur, Eric, Igor, Henrique, Thiago | 25/10/2022      | 18/11/2022                | 18/11/2022        |
-      | Ferramentas utilizadas no projeto             | Artur                                | Eric, Henrique                       | 18/11/2022      | 23/11/2022                | 23/11/2022        |
-      | Definição da equipe                           | Arthur, Eric, Igor, Henrique, Thiago | Arthur, Eric, Igor, Henrique, Thiago | 25/10/2022      | 18/11/2022                | 18/11/2022        |
-      | Cronograma das atividades                     | Eric, Henrique                       | Igor,Thiago                          | 18/11/2022      | 23/11/2022                | 23/11/2022        |
-      | Avaliação                                     | Eric                                 | Arthur, Eric, Igor, Henrique, Thiago | 18/11/2022      | 23/11/2022                | 23/11/2022        |
-      | Metodologia                                   | Thiago                               | Eric                                 | 18/11/2022      | 23/11/2022                | 23/11/2022        |
-      | Gravação do vídeo de apresentação             | Arthur, Eric, Igor, Henrique, Thiago | Arthur, Eric, Igor, Henrique, Thiago | 22/11/2022      | 23/11/2022                | 23/11/2022        |
+      | **Tarefa**                                    | **Responsáveis**                    | **Revisores**                       | **Iniciado em** | **Data final de revisão** | **Finalizado em** |
+      | --------------------------------------------- | ----------------------------------- | ----------------------------------- | --------------- | ------------------------- | ----------------- |
+      | Site selecionado para o projeto da disciplina | Artur, Eric, Igor, Henrique, Thiago | Artur, Eric, Igor, Henrique, Thiago | 25/10/2022      | 18/11/2022                | 18/11/2022        |
+      | Processo de Design                            | Igor,Thiago                         | Artur                               | 18/11/2022      | 23/11/2022                | 23/11/2022        |
+      | Planejamento da avaliação                     | Eric                                | Artur, Eric, Igor, Henrique, Thiago | 18/11/2022      | 23/11/2022                | 23/11/2022        |
+      | Listas de sites avaliados                     | Artur, Eric, Igor, Henrique, Thiago | Artur, Eric, Igor, Henrique, Thiago | 25/10/2022      | 18/11/2022                | 18/11/2022        |
+      | Ferramentas utilizadas no projeto             | Artur                               | Eric, Henrique                      | 18/11/2022      | 23/11/2022                | 23/11/2022        |
+      | Definição da equipe                           | Artur, Eric, Igor, Henrique, Thiago | Artur, Eric, Igor, Henrique, Thiago | 25/10/2022      | 18/11/2022                | 18/11/2022        |
+      | Cronograma das atividades                     | Eric, Henrique                      | Igor,Thiago                         | 18/11/2022      | 23/11/2022                | 23/11/2022        |
+      | Avaliação                                     | Eric                                | Artur, Eric, Igor, Henrique, Thiago | 18/11/2022      | 23/11/2022                | 23/11/2022        |
+      | Metodologia                                   | Thiago                              | Eric                                | 18/11/2022      | 23/11/2022                | 23/11/2022        |
+      | Gravação do vídeo de apresentação             | Artur, Eric, Igor, Henrique, Thiago | Artur, Eric, Igor, Henrique, Thiago | 22/11/2022      | 23/11/2022                | 23/11/2022        |
 
     ###### Tabela 01 - Atividades executadas na entrega 1. Fonte: Autoria própria
 
 === "E2"
           
-      | **Tarefa**                                   | **Responsáveis**                     | **Revisores**  | **Iniciado em** | **Data final de revisão** | **Finalizado em** |
-      | -------------------------------------------- | ------------------------------------ | -------------- | --------------- | ------------------------- | ----------------- |
-      | Perfil do usuário                            | Igor, Henrique                       | Eric, Thiago   | 01/12           | 06/11                     | 07/11             |
-      | Personas                                     | Eric, Thiago                         | Artur, Pedro   | 01/12           | 06/11                     | 07/11             |
-      | Análise de tarefas                           | Artur, Pedro                         | Igor, Henrique | 01/12           | 06/11                     | 07/11             |
-      | Retrabalho: Planejamento e avaliação do site | Eric                                 | Henrique       | 01/12           | 06/11                     | 07/11             |
-      | Retrabalho: Processo de design               | Igor                                 | Thiago         | 01/12           | 06/11                     | 07/11             |
-      | Retrabalho: Metodologia                      | Thiago                               | Eric           | 01/12           | 06/11                     | 07/11             |
-      | Retrabalho: Lista de sites avaliados         | Thiago                               | Eric           | 01/12           | 06/11                     | 07/11             |
-      | Retrabalho: Cronograma                       | Eric                                 | Igor, Henrique | 01/12           | 06/11                     | 07/11             |
-      | Gravação do vídeo de apresentação            | Arthur, Eric, Igor, Henrique, Thiago | Eric           | 01/12           | 07/11                     | 07/11             |
+      | **Tarefa**                                   | **Responsáveis**              | **Revisores**                 | **Iniciado em** | **Data final de revisão** | **Finalizado em** |
+      | -------------------------------------------- | ----------------------------- | ----------------------------- | --------------- | ------------------------- | ----------------- |
+      | Perfil do usuário                            | Artur                         | Henrique                      | 01/12           | 06/11                     | 07/11             |
+      | Personas                                     | Henrique                      | Eric                          | 01/12           | 06/11                     | 07/11             |
+      | Análise de tarefas                           | Eric, Thiago                  | Thiago, Artur                 | 01/12           | 06/11                     | 07/11             |
+      | Retrabalho: Planejamento e avaliação do site | Eric                          | Henrique                      | 01/12           | 06/11                     | PENDENTE          |
+      | Retrabalho: Processo de design               | Igor                          | Thiago                        | 01/12           | 06/11                     | PENDENTE          |
+      | Retrabalho: Metodologia                      | Thiago                        | Eric                          | 01/12           | 06/11                     | 07/11             |
+      | Retrabalho: Lista de sites avaliados         | Thiago                        | Eric                          | 01/12           | 06/11                     | 07/11             |
+      | Retrabalho: Cronograma                       | Eric                          | Henrique                      | 01/12           | 06/11                     | 07/11             |
+      | Gravação do vídeo de apresentação            | Artur, Eric, Henrique, Thiago | Artur, Eric, Henrique, Thiago | 01/12           | 07/11                     | 07/11             |
 
     ###### Tabela 02 - Atividades executadas na entrega 2. Fonte: Autoria própria
 
