@@ -85,6 +85,7 @@ O cronograma executado pode ser visualizado nas **Tabelas de 01 a 09**, e repres
       | Perfil do usuário                            | Artur                         | Henrique                      | 01/12           | 06/11                     | 07/11             |
       | Personas                                     | Henrique                      | Eric                          | 01/12           | 06/11                     | 07/11             |
       | Análise de tarefas                           | Eric, Thiago                  | Thiago, Artur                 | 01/12           | 06/11                     | 07/11             |
+      | Políticas de branches e commits              | Artur                         | Henrique                      | 01/12           | 06/11                     | 07/11             |
       | Retrabalho: Planejamento e avaliação do site | Eric                          | Henrique                      | 01/12           | 06/11                     | PENDENTE          |
       | Retrabalho: Processo de design               | Igor                          | Thiago                        | 01/12           | 06/11                     | PENDENTE          |
       | Retrabalho: Metodologia                      | Thiago                        | Eric                          | 01/12           | 06/11                     | 07/11             |
