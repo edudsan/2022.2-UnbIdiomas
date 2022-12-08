@@ -88,9 +88,10 @@ O cronograma executado pode ser visualizado nas **Tabelas de 01 a 09**, e repres
       | Políticas de branches e commits              | Artur                         | Henrique                      | 01/12           | 06/11                     | 07/11             |
       | Retrabalho: Planejamento e avaliação do site | Eric                          | Henrique                      | 01/12           | 06/11                     | PENDENTE          |
       | Retrabalho: Processo de design               | Igor                          | Thiago                        | 01/12           | 06/11                     | PENDENTE          |
-      | Retrabalho: Metodologia                      | Thiago                        | Eric                          | 01/12           | 06/11                     | 07/11             |
-      | Retrabalho: Lista de sites avaliados         | Thiago                        | Eric                          | 01/12           | 06/11                     | 07/11             |
+      | Retrabalho: Metodologia                      | Thiago                        | Eric                          | 01/12           | 06/11                     | PENDENTE             |
+      | Retrabalho: Lista de sites avaliados         | Thiago                        | Eric                          | 01/12           | 06/11                     | PENDENTE             |
       | Retrabalho: Cronograma                       | Eric                          | Henrique                      | 01/12           | 06/11                     | 07/11             |
+      | Retrabalho: Atas de reunião                  | Henrique                      | Eric                          | 01/12           | 06/11                     | 07/11             |
       | Gravação do vídeo de apresentação            | Artur, Eric, Henrique, Thiago | Artur, Eric, Henrique, Thiago | 01/12           | 07/11                     | 07/11             |
 
     ###### Tabela 02 - Atividades executadas na entrega 2. Fonte: Autoria própria
