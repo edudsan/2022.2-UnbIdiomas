@@ -32,7 +32,7 @@ GOAL 0: Verificar informações dos cursos
     GOAL 1: Encontrar o curso desejado
         OP 1.1: Descer a página até encontrar a linguagem desejada
         OP 1.2: Deslocar o cursor do mouse para o nome da linguagem
-        OP .3: Clicar com o botão esquerdo do mouse
+        OP 1.3: Clicar com o botão esquerdo do mouse
 ```
 ## 4.2 Realizar cadastro
 
@@ -138,4 +138,5 @@ GOAL 14: Acessar os Preços dos cursos
 |    Data    | Versão |                                       Descrição                                       |        Autor(es)        |         Revisor         |
 | :--------: | :----: | :-----------------------------------------------------------------------------------: | :---------------------: | :---------------------: |
 | 07/12/2022 |  1.0   |                            Criação do arquivo                           |    Thiago Cerqueira Borges   | Artur Seppa Reiman |
+| 07/12/2022 |  1.1   |                            Corrigindo erros                           |    Thiago Cerqueira Borges   | Artur Seppa Reiman |
 
