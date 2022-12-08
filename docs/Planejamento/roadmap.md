@@ -181,7 +181,8 @@ O cronograma executado pode ser visualizado nas **Tabelas de 01 a 09**, e repres
 | 22/11/2022 |  1.2   |       Adição do versionamento do cronograma e legendas        |                          [@Eric-chagas](https://github.com/Eric-chagas)                          |
 | 23/11/2022 |  1.3   | Adição da v2 do cronograma e tabelas de atividades executadas |                          [@Eric-chagas](https://github.com/Eric-chagas)                          |
 | 23/11/2022 |  1.4   | Adição da v3 do cronograma e tabelas de atividades executadas |                          [@Eric-chagas](https://github.com/Eric-chagas)                          |
-| 23/11/2022 |  1.5   | Adição da v4 do cronograma e tabelas de atividades executadas |                          [@Eric-chagas](https://github.com/Eric-chagas)                          |
+| 07/12/2022 |  1.5   | Adição da v4 do cronograma e tabelas de atividades executadas |                          [@Eric-chagas](https://github.com/Eric-chagas)                          |
+| 08/12/2022 |  1.6   |       Atualização no cronograma executado da entrega 2        |                          [@Eric-chagas](https://github.com/Eric-chagas)                          |
 
 ###### Tabela 10 - Histórico de versões. Fonte: Autoria própria
 

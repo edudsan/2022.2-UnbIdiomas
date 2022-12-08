@@ -10,7 +10,7 @@ Vídeo de apresentação pela equipe da Entrega 2
 
 |    Data    | Versão |               Descrição                |                                            Autor(es)                                             |
 | :--------: | :----: | :------------------------------------: | :----------------------------------------------------------------------------------------------: |
-| 07/11/2022 |  1.0   | Criação da página e vídeo da entrega 2 | [@Eric-chagas](https://github.com/Eric-chagas) |
+| 07/12/2022 |  1.0   | Criação da página e vídeo da entrega 2 | [@Eric-chagas](https://github.com/Eric-chagas) |
 
 
 ###### Tabela 01 - Histórico de versões. Fonte: Autoria própria
