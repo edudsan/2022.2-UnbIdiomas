@@ -42,6 +42,7 @@ Reunião realizada no dia 01/12/2022, teve início às 19h e foi finalizada às 
 
 ### Gravação
 
+A gravação desta reunião pode ser acessada através deste [link](https://www.youtube.com/watch?v=ezz-S7obTxI).
 
 ## Histórico de versões
 |    Data    | Versão |                                       Descrição                                       |        Autor(es)        |         Revisor(es)         |
