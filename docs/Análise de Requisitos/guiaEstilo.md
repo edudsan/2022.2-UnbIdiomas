@@ -12,3 +12,12 @@
 
 
 ## 6. Vocabulário e padrões
+
+## Histórico de versões
+|    Data    | Versão |                                       Descrição                                       |        Autor(es)        |         Revisor(es)         |
+| :--------: | :----: | :-----------------------------------------------------------------------------------: | :---------------------: | :---------------------: |
+| 9/12/2022 |  1.0   |                            Criação da página da entrega 3                         |   Henrique Galdino Couto    | Artur, Eric,  Igor, Pedro, Thiago |
+
+
+
+###### Tabela ? - Histórico de versões. Fonte: Autoria própria
