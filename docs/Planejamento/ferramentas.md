@@ -26,9 +26,7 @@
 |   <img src="https://raw.githubusercontent.com/Interacao-Humano-Computador/2022.2-UnbIdiomas/main/assets/img/logos/Kdenlive.png" width="200" />   | Kdenlive (KDE Non-Linear Video Editor) é um editor de vídeo open-source baseado no framework MLT e KDE. O projeto foi iniciado por Jason Wood em 2002, e hoje é mantido por um pequeno time de desenvolvedores. Com o lançamento da versão 15.04.0, o Kdenlive passou a ser oficialmente parte do projeto oficial do KDE. Pacotes do Kdenlive estão livremente disponíveis para Linux, FreeBSD e Mac OS X sob os termos da GNU General Public License versão 2 ou posterior.[¹²](#ancora12) |
 |     <img src="https://raw.githubusercontent.com/Interacao-Humano-Computador/2022.2-UnbIdiomas/main/docs/assets/img/sheets.png" width="200">      | O Google Sheets é um programa de planilhas incluído como parte do pacote gratuito de Editores de Documentos Google baseado na Web oferecido pelo Google.[¹³](#ancora13)                                                                                                                                                                                                                                                                                                                   |
 |      <img src="https://raw.githubusercontent.com/Interacao-Humano-Computador/2022.2-UnbIdiomas/main/docs/assets/img/forms.png" width="200">      | Google Forms é um aplicativo de gerenciamento de pesquisas lançado pelo Google. Os usuários podem usar o Google Forms para pesquisar e coletar informações sobre outras pessoas e também podem ser usados ​​para questionários e formulários de registro.[¹⁴](#ancora14)                                                                                                                                                                                                                    |
-|      <img src="https://raw.githubusercontent.com/Interacao-Humano-Computador/2022.2-UnbIdiomas/main/docs/assets/img/miro.png" width="200">      | A plataforma visual colaborativa em formato de lousa online que une sua equipe a qualquer hora, de qualquer lugar.  
-
-[¹⁵](#ancora15)                                                                                                                                                                                                                    |
+|      <img src="https://raw.githubusercontent.com/Interacao-Humano-Computador/2022.2-UnbIdiomas/main/docs/assets/img/miro.png" width="200">      | A plataforma visual colaborativa em formato de lousa online que une sua equipe a qualquer hora, de qualquer lugar.[¹⁵](#ancora15)                                                                                                                                                                                                                    |
 
 
 
@@ -55,7 +53,7 @@
 > - <a id="ancora12"></a>[12] Kdenlive. Acesso em: 23 de nov. de 2022. Disponível em: <https://kdenlive.org/en/>
 > - <a id="ancora13"></a>[13] Google Sheets. Acesso em: 23 nov. 2022. Disponível em: <https://www.google.com/sheets/about/>.
 > - <a id="ancora14"></a>[14] Formulários Google. Acesso em: 23 nov. 2022. Disponível em: <https://www.google.com/intl/pt-BR/forms/about/>. 
-> - <a id="ancora14"></a>[15] Miro. Acesso em: 11 dez. 2022. Disponível em: <https://miro.com/>. 
+> - <a id="ancora15"></a>[15] Miro. Acesso em: 11 dez. 2022. Disponível em: <https://miro.com/>. 
 
 
 
