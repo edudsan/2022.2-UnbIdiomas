@@ -58,39 +58,35 @@ Para realizar a avaliação do site, é necessário ter um entendimento geral ac
 Para planejar a avaliação foi utilizado o framework DECIDE (ASHA).
 
 !!! info "Autor"
-    Desenvolvido por Thiago Cerqueira
+    Desenvolvido por Thiago Cerqueira e Eric Chagas
 
 ###### Anotação 04 - Autor. Fonte: Autoria própria.
 
 ### Objetivos de avaliação (Determine)
 
-Com objetivo de obter conhecimento e experiência ao mesmo tempo realizando uma tarefa
-do IHC - Interação Humano Computador, com intuito de avaliar e identificar problemas na
-interface com objetivo de solucionar problemas identificados.
+Identificar possíveis pontos de melhoria e problemas que possam dificultar a realização de tarefas por parte do usuário no site UnB Idiomas, por meio da avaliação focada em funcionalidades e na experiência do usuário. Durante essa avaliação, o avaliador se coloca no lugar do usuário, acessando o site e tentando realizar tarefas com objetivos bem definidos, com a finalidade de anotar possíveis barreiras, obstáculos ou mesmo impedimentos encontrados.
 
 ### Questões à serem respondidas: (Explorer)
 
 1. O usuário consegue acessar o sistema?
 2. O usuário consegue cumprir seu objetivo?
 3. Com que eficácia o usuário atinge seu objetivo?
-4. Existe alguma tela que te deixa confuso?
-5. O usuário tem facilidade ao identificar a funcionalidade de cada tela intuitivamente?
-6. Quais são os problemas que impedem o usuário de cumprir seus objetivos?
-7. Qual a gravidade desses problemas?
+4. Os resultados apresentados pelo sistema são previsíveis e se aproximam do que o usuário provavelmente está acostumado?
+5. O sistema apresenta formas de recuperação diante de erros que o usuário possa cometer?
+6. As telas apresentam consistência visual e de navegação?
+7. O usuário tem facilidade ao identificar a funcionalidade de cada tela intuitivamente?
+8. Quais são os problemas que impedem o usuário de cumprir seus objetivos?
+9. Qual a gravidade desses problemas?
 
 ###### Perguntas inspiradas no livro Interação “humano-computador” -Barbosa Simone.
 
 ### Métodos de avaliação (Choose)
 
-Dos métodos utilizados o mais coerente seria a avaliação heurística, para encontrar
-problemas de usabilidade durante o processo de design interativo.”Para avaliar o nível de
-usabilidade das interfaces computacionais existem métodos conhecidos como a Inspeção
-de Usabilidade. Estes métodos identificam de maneira fácil e com baixo custo, potenciais
-problemáticas na qualidade da interação entre o homem e o sistema computacional.”.
+O método utilizado foi a avaliação Heurística que foi considerado o mais adequado por se tratar de uma avaliação feita pelos designers e não envolveu nesse caso os usuários finais do sistema.
 
 ### Necessidades na hora da avaliação (Identify)
 
-Basicamente foi utilizado um computador de uso privado e acesso a internet.
+Foi utilizado um computador de uso privado e acesso à internet.
 
 ### Questões éticas (Decide)
 
@@ -115,10 +111,12 @@ ou se preocupar com questões relacionadas à legislação
 
 ## Histórico de versão
 
-| Versão | Data       | Descrição                           | Autor(es)                          | Revisor |
-| ------ | ---------- | ----------------------------------- | ---------------------------------- | ------- |
-| 1.0    | 23/11/2022 | Adição do planejamento da avaliação | Eric Chagas                        | Todos   |
-| 1.1    | 23/11/2022 | Framework Decide                    | Eric Chagas, <br> Thiago Cerqueira | Todos   |
+| Versão | Data       | Descrição                                 | Autor(es)                          | Revisor                             |
+| ------ | ---------- | ----------------------------------------- | ---------------------------------- | ----------------------------------- |
+| 1.0    | 23/11/2022 | Adição do planejamento da avaliação       | Eric Chagas                        | Artur, Eric, Igor, Henrique, Thiago |
+| 1.1    | 23/11/2022 | Framework Decide                          | Eric Chagas, <br> Thiago Cerqueira | Artur, Eric, Igor, Henrique, Thiago |
+| 1.2    | 23/11/2022 | Retrabalho nos campos do Framework Decide | Eric Chagas                        | Henrique                            |
+
 
 
 ##### Tabela 01 - Histórico de versões. Fonte: Autoria própria
