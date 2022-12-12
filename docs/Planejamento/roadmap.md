@@ -117,7 +117,7 @@ O cronograma executado pode ser visualizado nas **Tabelas de 01 a 09**, e repres
       | Retrabalho: Metodologia                      | Eric                                | Thiago                              | 07/12           | 11/12                     | 12/12             |
       | Retrabalho: Lista de sites avaliados         | Eric                                | Thiago                              | 07/12           | 11/12                     | 12/12             |
       | Gravação do vídeo de apresentação            | Artur, Eric, Henrique, Thiago, Igor | Artur, Eric, Henrique, Thiago, Igor | 12/12           | 12/12                     | 12/12             |
-12
+
     ###### Tabela 03 - Atividades executadas na entrega 3. Fonte: Autoria própria
 
 
