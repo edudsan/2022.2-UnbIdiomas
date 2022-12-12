@@ -10,7 +10,7 @@
 
 <div align="center">
 <img src="https://raw.githubusercontent.com/Interacao-Humano-Computador/2022.2-UnbIdiomas/main/docs/assets/img/processoScrum.png" width="1000" height="600"/>
-<figcaption align="center">Figura 1: Processos do Scrum (Referência: <a href="https://www.pm-partners.com.au/the-agile-journey-a-scrum-overview/" target="_blanck">https://www.pm-partners.com.au/the-agile-journey-a-scrum-overview/</a>, 2022)</figcaption>
+<figcaption align="center">Figura 1: Processos do Scrum. Fonte: (What is Scrum?, 2021)</figcaption>
 </div>
 <br/>
 
