@@ -80,4 +80,4 @@ Para esse projeto, o cronograma de atividades e as tarefas que serão realizadas
 | ------ | ---------- | ----------------------------------------------------------- | ------------------- | ------- |
 | 1.0    | 23/11/2022 | Criação do documento                                        | Igor Silva de Paiva | Artur   |
 | 1.1    | 23/11/2022 | Adicionando legendas nas imagens                            | Igor Silva de Paiva | Artur   |
-| 1.2    | 12/11/2022 | Corrigidas legendas, fontes e chamadas das figuras no texto | Eric | Igor   |
+| 1.2    | 12/11/2022 | Corrigidas legendas, fontes e chamadas das figuras no texto | Eric                | Igor    |
