@@ -10,7 +10,7 @@
 
 <div align="center">
 <img src="https://raw.githubusercontent.com/Interacao-Humano-Computador/2022.2-UnbIdiomas/main/docs/assets/img/processoScrum.png" width="1000" height="600"/>
-<figcaption align="center">Figura 1: Processos do Scrum (Referência: <a href="https://www.pm-partners.com.au/the-agile-journey-a-scrum-overview/" target="_blanck">https://www.pm-partners.com.au/the-agile-journey-a-scrum-overview/</a>, 2022)</figcaption>
+<figcaption align="center">Figura 1: Processos do Scrum. Fonte: (What is Scrum?, 2021)</figcaption>
 </div>
 <br/>
 
@@ -59,10 +59,11 @@ A reuniao de planejamento da Sprint é um evento onde a equipe se reúne e avali
 
 ## 9. Histórico de versão
 
-| Versão |    Data    |            Descrição             |      Autor       |   Revisor   |
-| :----: | :--------: | :------------------------------: | :--------------: | :---------: |
-|  1.0   | 23/11/2022 |  Documento de metodologia Scrum  | Thiago Cerqueira | Eric Chagas |
-|  1.1   | 23/11/2022 |       Teste de Usabilidade       | Thiago Cerqueira | Eric Chagas |
+| Versão |    Data    |           Descrição            |      Autor       |     Revisor      |
+| :----: | :--------: | :----------------------------: | :--------------: | :--------------: |
+|  1.0   | 23/11/2022 | Documento de metodologia Scrum | Thiago Cerqueira |   Eric Chagas    |
+|  1.1   | 23/11/2022 |      Teste de Usabilidade      | Thiago Cerqueira |   Eric Chagas    |
+|  1.2   | 12/11/2022 |  Corrigida fonte da figura 1   |   Eric Chagas    | Thiago Cerqueira |
 
 
 

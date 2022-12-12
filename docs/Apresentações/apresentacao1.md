@@ -10,7 +10,7 @@ Vídeo de apresentação pela equipe da Entrega 1
 
 |    Data    | Versão |               Descrição                |                                            Autor(es)                                             |
 | :--------: | :----: | :------------------------------------: | :----------------------------------------------------------------------------------------------: |
-| 23/11/2022 |  0.0   | Criação da página e vídeo da entrega 1 | [@Eric-chagas](https://github.com/Eric-chagas) <br> [@hgaldino05](https://github.com/hgaldino05) |
+| 23/11/2022 |  1.0   | Criação da página e vídeo da entrega 1 | [@Eric-chagas](https://github.com/Eric-chagas) <br> [@hgaldino05](https://github.com/hgaldino05) |
 
 
 ###### Tabela 01 - Histórico de versões. Fonte: Autoria própria

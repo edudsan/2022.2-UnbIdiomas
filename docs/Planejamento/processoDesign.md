@@ -14,11 +14,9 @@ Dentre alguns dos ciclos avaliados para o design desse projeto temos:
 
 ![Ciclo de vida Simples](../assets/img/design-process/ciclo-de-vida-simples.png)
 
-<div style="text-align: center">
-<p> Imagem 1: Ciclo de vida simples.</p>
-</div>
+###### Figura 01: Ciclo de vida simples. Fonte: (BARBOSA et al., 2010)
 
-Nesse ciclo, é definida uma versão simplificada e linearizada do processo geral de desenvolvimento, incluindo análise, desenvolvimento e avaliação após implantação. 
+No ciclo apresentado na (Figura 01), é definida uma versão simplificada e linearizada do processo geral de desenvolvimento, incluindo análise, desenvolvimento e avaliação após implantação. 
 
 - (re) design: o designer explora diferentes ideias alternativas de
 design para elaborar uma solução adequada às necessidades
@@ -32,11 +30,10 @@ participação do usuário durante a avaliação de IHC.
 
 ![Ciclo de vida em estrela](../assets/img/design-process/ciclo-de-vida-em-estrela.png)
 
-<div style="text-align: center">
-<p> Imagem 2: Ciclo de vida em estrela</p>
-</div>
+###### Figura 02: Ciclo de vida em estrela. Fonte: (BARBOSA et al., 2010)
 
-Nesse ciclo, a avaliação é a atividade central e sempre deve ser executada após outras atividades. Cabe também ao designer decidir de acordo com a situação e a elaboração de seu raciocínio em torno do processo sobre a partir de qual etapa ele deve começar. Dentre as etapas do ciclo temos:
+
+Nesse ciclo, apresentado na (Figura 02) a avaliação é a atividade central e sempre deve ser executada após outras atividades. Cabe também ao designer decidir de acordo com a situação e a elaboração de seu raciocínio em torno do processo sobre a partir de qual etapa ele deve começar. Dentre as etapas do ciclo temos:
 
 - Análise de tarefas, usuários e funções: é a atividade responsável
 pelo aprendizado da situação atual e pelo levantamento das necessidades e oportunidades de melhoria;
@@ -60,11 +57,9 @@ para análise e se detectada alguma inconsistência volta para a atividade adequ
 
 ![Ciclo de vida de Mayhew](../assets/img/design-process/ciclo-de-vida-mayhew.png)
 
-<div style="text-align: center">
-<p> Imagem 3: Ciclo de vida de Mayhew</p>
-</div>
+###### Figura 03: Ciclo de vida de Mayhew. Fonte: (BARBOSA et al., 2010)
 
-O ciclo de Mayhew é um diagrama que descreve de maneira aprofundada as etapas do processo de design, situações do contexto de uso e proposições que devem ser feitas para avaliar o desenvolvimento ao longo do desenvolvimento. Ele possui diversas etapas a serem seguidas, que são agrupadas a partir de suas três principais propostas:
+O ciclo de Mayhew mostrado na (Figura 03) é um diagrama que descreve de maneira aprofundada as etapas do processo de design, situações do contexto de uso e proposições que devem ser feitas para avaliar o desenvolvimento ao longo do desenvolvimento. Ele possui diversas etapas a serem seguidas, que são agrupadas a partir de suas três principais propostas:
 
 - Análise de requisitos: são criadas as metas de usabilidade com base
 no perfil dos usuários, análise de tarefas, possibilidades e limitações da plataforma em que o sistema será executados e princípios gerais de design de IHC;
@@ -81,7 +76,8 @@ Para esse projeto, o cronograma de atividades e as tarefas que serão realizadas
 
 # Histórico de versão
 
-| Versão | Data       | Descrição            | Autor              | Revisor             |
-| ------ | ---------- | -------------------- | ------------------ | ------------------- |
-| 1.0    | 23/11/2022 | Criação do documento | Igor Silva de Paiva | Artur |
-| 1.1    | 23/11/2022 | Adicionando legendas nas imagens | Igor Silva de Paiva | Artur |
+| Versão | Data       | Descrição                                                   | Autor               | Revisor |
+| ------ | ---------- | ----------------------------------------------------------- | ------------------- | ------- |
+| 1.0    | 23/11/2022 | Criação do documento                                        | Igor Silva de Paiva | Artur   |
+| 1.1    | 23/11/2022 | Adicionando legendas nas imagens                            | Igor Silva de Paiva | Artur   |
+| 1.2    | 12/11/2022 | Corrigidas legendas, fontes e chamadas das figuras no texto | Eric | Igor   |
