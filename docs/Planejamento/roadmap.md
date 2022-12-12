@@ -15,10 +15,15 @@ O cronograma em formato roadmap, mostrado na **Figura 01**, foi desenvolvido com
 
 #### É Possível dar zoom no Cronograma mostrado no (Arquivo 01) para visualizar cada uma das atividades com mais detalhes
 
+=== "V5"
+  
+      <iframe width="100%" height="600" src="../../assets/pdf/roadmapv5.pdf"/>
+    ###### Arquivo 01 - Cronograma do projeto. Fonte: Autoria própria.
+
 === "V4"
   
       <iframe width="100%" height="600" src="../../assets/pdf/roadmapv4.pdf"/>
-    ###### Arquivo 01 - Cronograma do projeto. Fonte: Autoria própria.
+    ###### Arquivo 02 - Cronograma do projeto v4. Fonte: Autoria própria.
 
 === "V3"
     
@@ -82,30 +87,37 @@ O cronograma executado pode ser visualizado nas **Tabelas de 01 a 09**, e repres
           
       | **Tarefa**                                   | **Responsáveis**              | **Revisores**                 | **Iniciado em** | **Data final de revisão** | **Finalizado em** |
       | -------------------------------------------- | ----------------------------- | ----------------------------- | --------------- | ------------------------- | ----------------- |
-      | Perfil do usuário                            | Artur                         | Henrique                      | 01/12           | 06/11                     | 07/11             |
-      | Personas                                     | Henrique                      | Eric                          | 01/12           | 06/11                     | 07/11             |
-      | Análise de tarefas                           | Eric, Thiago                  | Thiago, Artur                 | 01/12           | 06/11                     | 07/11             |
-      | Políticas de branches e commits              | Artur                         | Henrique                      | 01/12           | 06/11                     | 07/11             |
-      | Retrabalho: Planejamento e avaliação do site | Eric                          | Henrique                      | 01/12           | 06/11                     | PENDENTE          |
-      | Retrabalho: Processo de design               | Igor                          | Thiago                        | 01/12           | 06/11                     | PENDENTE          |
-      | Retrabalho: Metodologia                      | Thiago                        | Eric                          | 01/12           | 06/11                     | PENDENTE             |
-      | Retrabalho: Lista de sites avaliados         | Thiago                        | Eric                          | 01/12           | 06/11                     | PENDENTE             |
-      | Retrabalho: Cronograma                       | Eric                          | Henrique                      | 01/12           | 06/11                     | 07/11             |
-      | Retrabalho: Atas de reunião                  | Henrique                      | Eric                          | 01/12           | 06/11                     | 07/11             |
-      | Gravação do vídeo de apresentação            | Artur, Eric, Henrique, Thiago | Artur, Eric, Henrique, Thiago | 01/12           | 07/11                     | 07/11             |
+      | Perfil do usuário                            | Artur                         | Henrique                      | 01/12           | 06/12                     | 07/12             |
+      | Personas                                     | Henrique                      | Eric                          | 01/12           | 06/12                     | 07/12             |
+      | Análise de tarefas                           | Eric, Thiago                  | Thiago, Artur                 | 01/12           | 06/12                     | 07/12             |
+      | Políticas de branches e commits              | Artur                         | Henrique                      | 01/12           | 06/12                     | 07/12             |
+      | Retrabalho: Planejamento e avaliação do site | Eric                          | Henrique                      | 01/12           | 06/12                     | PENDENTE          |
+      | Retrabalho: Processo de design               | Igor                          | Thiago                        | 01/12           | 06/12                     | PENDENTE          |
+      | Retrabalho: Metodologia                      | Thiago                        | Eric                          | 01/12           | 06/12                     | PENDENTE             |
+      | Retrabalho: Lista de sites avaliados         | Thiago                        | Eric                          | 01/12           | 06/12                     | PENDENTE             |
+      | Retrabalho: Cronograma                       | Eric                          | Henrique                      | 01/12           | 06/12                     | 07/12             |
+      | Retrabalho: Atas de reunião                  | Henrique                      | Eric                          | 01/12           | 06/12                     | 07/12             |
+      | Gravação do vídeo de apresentação            | Artur, Eric, Henrique, Thiago | Artur, Eric, Henrique, Thiago | 07/12           | 07/12                     | 07/12             |
 
     ###### Tabela 02 - Atividades executadas na entrega 2. Fonte: Autoria própria
 
 
 === "E3"
           
-      | **Tarefa**                        | **Responsáveis** | **Revisores** | **Iniciado em** | **Finalizado em** |
-      | --------------------------------- | ---------------- | ------------- | --------------- | ----------------- |
-      | Princípios Gerais de Projeto      |                  |               |                 |                   |
-      | Metas de usabilidade              |                  |               |                 |                   |
-      | Guia de Estilo                    |                  |               |                 |                   |
-      | Gravação do vídeo de apresentação |                  |               |                 |                   |
-
+      | **Tarefa**                                   | **Responsáveis**                    | **Revisores**                       | **Iniciado em** | **Data final de revisão** | **Finalizado em** |
+      | -------------------------------------------- | ----------------------------------- | ----------------------------------- | --------------- | ------------------------- | ----------------- |
+      | Princípios Gerais de Projeto                 | Thiago                              | Eric                                | 07/12           | 11/12                     | 12/12             |
+      | Metas de usabilidade                         | Eric                                | Thiago                              | 07/12           | 11/12                     | 12/12             |
+      | Guia de Estilo                               | Henrique, Artur                     | Eric, Igor                          | 07/12           | 11/12                     | 12/12             |
+      | Aspectos éticos                              | Igor                                | Artur, Henrique                     | 07/12           | 11/12                     | 12/12             |
+      | Atualização: Atas de reunião                 | Henrique                            | Eric, Artur, Igor                   | 07/12           | 11/12                     | 12/12             |
+      | Atualização: Cronograma                      | Eric                                | Henrique                            | 07/12           | 11/12                     | 12/12             |
+      | Retrabalho: Planejamento e avaliação do site | Eric                                | Henrique                            | 07/12           | 11/12                     | 12/12             |
+      | Retrabalho: Processo de design               | Eric                                | Igor                                | 07/12           | 11/12                     | 12/12             |
+      | Retrabalho: Metodologia                      | Eric                                | Thiago                              | 07/12           | 11/12                     | 12/12             |
+      | Retrabalho: Lista de sites avaliados         | Eric                                | Thiago                              | 07/12           | 11/12                     | 12/12             |
+      | Gravação do vídeo de apresentação            | Artur, Eric, Henrique, Thiago, Igor | Artur, Eric, Henrique, Thiago, Igor | 12/12           | 12/12                     | 12/12             |
+12
     ###### Tabela 03 - Atividades executadas na entrega 3. Fonte: Autoria própria
 
 
@@ -175,15 +187,17 @@ O cronograma executado pode ser visualizado nas **Tabelas de 01 a 09**, e repres
 
 ## Histórico de versões
 
-|    Data    | Versão |                           Descrição                           |                                            Autor(es)                                             |
-| :--------: | :----: | :-----------------------------------------------------------: | :----------------------------------------------------------------------------------------------: |
-| 20/11/2022 |  1.0   |             Criação da página e v0 do cronograma              | [@Eric-chagas](https://github.com/Eric-chagas) <br> [@hgaldino05](https://github.com/hgaldino05) |
-| 21/11/2022 |  1.1   |               Atualização para v1 do cronograma               |                          [@Eric-chagas](https://github.com/Eric-chagas)                          |
-| 22/11/2022 |  1.2   |       Adição do versionamento do cronograma e legendas        |                          [@Eric-chagas](https://github.com/Eric-chagas)                          |
-| 23/11/2022 |  1.3   | Adição da v2 do cronograma e tabelas de atividades executadas |                          [@Eric-chagas](https://github.com/Eric-chagas)                          |
-| 23/11/2022 |  1.4   | Adição da v3 do cronograma e tabelas de atividades executadas |                          [@Eric-chagas](https://github.com/Eric-chagas)                          |
-| 07/12/2022 |  1.5   | Adição da v4 do cronograma e tabelas de atividades executadas |                          [@Eric-chagas](https://github.com/Eric-chagas)                          |
-| 08/12/2022 |  1.6   |       Atualização no cronograma executado da entrega 2        |                          [@Eric-chagas](https://github.com/Eric-chagas)                          |
+|    Data    | Versão |                            Descrição                             |                                            Autor(es)                                             | Revisores    |
+| :--------: | :----: | :--------------------------------------------------------------: | :----------------------------------------------------------------------------------------------: | ------------ |
+| 20/11/2022 |  1.0   |               Criação da página e v0 do cronograma               | [@Eric-chagas](https://github.com/Eric-chagas) <br> [@hgaldino05](https://github.com/hgaldino05) | Igor, Thiago |
+| 21/11/2022 |  1.1   |                Atualização para v1 do cronograma                 |                          [@Eric-chagas](https://github.com/Eric-chagas)                          | Igor, Thiago |
+| 22/11/2022 |  1.2   |         Adição do versionamento do cronograma e legendas         |                          [@Eric-chagas](https://github.com/Eric-chagas)                          | Igor, Thiago |
+| 23/11/2022 |  1.3   |  Adição da v2 do cronograma e tabelas de atividades executadas   |                          [@Eric-chagas](https://github.com/Eric-chagas)                          | Igor, Thiago |
+| 23/11/2022 |  1.4   |  Adição da v3 do cronograma e tabelas de atividades executadas   |                          [@Eric-chagas](https://github.com/Eric-chagas)                          | Igor, Thiago |
+| 07/12/2022 |  1.5   |  Adição da v4 do cronograma e tabelas de atividades executadas   |                          [@Eric-chagas](https://github.com/Eric-chagas)                          | Henrique     |
+| 08/12/2022 |  1.6   |         Atualização no cronograma executado da entrega 2         |                          [@Eric-chagas](https://github.com/Eric-chagas)                          | Henrique     |
+| 12/12/2022 |  1.7   | Atualização no cronograma e do cronograma executado da entrega 3 |                          [@Eric-chagas](https://github.com/Eric-chagas)                          | Henrique     |
+
 
 ###### Tabela 10 - Histórico de versões. Fonte: Autoria própria
 
