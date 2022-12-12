@@ -59,10 +59,11 @@ A reuniao de planejamento da Sprint é um evento onde a equipe se reúne e avali
 
 ## 9. Histórico de versão
 
-| Versão |    Data    |            Descrição             |      Autor       |   Revisor   |
-| :----: | :--------: | :------------------------------: | :--------------: | :---------: |
-|  1.0   | 23/11/2022 |  Documento de metodologia Scrum  | Thiago Cerqueira | Eric Chagas |
-|  1.1   | 23/11/2022 |       Teste de Usabilidade       | Thiago Cerqueira | Eric Chagas |
+| Versão |    Data    |           Descrição            |      Autor       |     Revisor      |
+| :----: | :--------: | :----------------------------: | :--------------: | :--------------: |
+|  1.0   | 23/11/2022 | Documento de metodologia Scrum | Thiago Cerqueira |   Eric Chagas    |
+|  1.1   | 23/11/2022 |      Teste de Usabilidade      | Thiago Cerqueira |   Eric Chagas    |
+|  1.2   | 12/11/2022 |  Corrigida fonte da figura 1   |   Eric Chagas    | Thiago Cerqueira |
 
 
 
