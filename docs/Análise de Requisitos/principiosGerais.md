@@ -51,63 +51,63 @@
 <p align="justify"> O site apresenta falhas relacionadas às expectativas dos usuário, por exemplo no canto superior direito a bandeira do LET te redireciona para uma pagina que não existe, como podemos observar na figura 1 e 2. <a href = " http://www.let.unb.br/"> http://www.let.unb.br/</a></p>
  <img src="https://raw.githubusercontent.com/Interacao-Humano-Computador/2022.2-UnbIdiomas/main/assets/img/Telas/LET1.png">
 
- ###### Figura 1 - Home page. Fonte: Unb Idiomas.
+###### Figura 1 - Home page. Fonte: Unb Idiomas.
  
  <img src="https://raw.githubusercontent.com/Interacao-Humano-Computador/2022.2-UnbIdiomas/main/assets/img/Telas/LET2.png">
  
- ###### Figura 2 - Site fora do ar. Fonte: Unb Idiomas. 
+###### Figura 2 - Site fora do ar. Fonte: Unb Idiomas. 
 
 ### Simplicidade nas estruturas das tarefas
 <p align="justify"> Algumas tarefas poderiam ser realizadas de maneira mais simples. Por exemplo, ao entrar no site não é possível localizar onde o usuário realiza o login na plataforma, é necessário vasculhar o site para encontrar o opção portal e so assim o usuário é redirecionado para a pagina de login, como podemos observar na figura 3, 4 e 5. </p>
  <img src="https://raw.githubusercontent.com/Interacao-Humano-Computador/2022.2-UnbIdiomas/main/assets/img/Telas/Log1.png">
 
- ###### Figura 3 - Home page. Fonte: Unb Idiomas.
+###### Figura 3 - Home page. Fonte: Unb Idiomas.
  
  <img src="https://raw.githubusercontent.com/Interacao-Humano-Computador/2022.2-UnbIdiomas/main/assets/img/Telas/Log2.png">
  
- ###### Figura 4 - Menu Portais. Fonte: Unb Idiomas. 
+###### Figura 4 - Menu Portais. Fonte: Unb Idiomas. 
  
  <img src="https://raw.githubusercontent.com/Interacao-Humano-Computador/2022.2-UnbIdiomas/main/assets/img/Telas/Log3.png">
  
- ###### Figura 5 - Página de Login. Fonte: Unb Idiomas. 
+###### Figura 5 - Página de Login. Fonte: Unb Idiomas. 
 
 ### Equilíbrio entre controle e liberdade do usuário
 <p align="justify"> Existem falhas em relação a liberdade do usuário, ao clicar no portal do professor, não existe a opção de retornar a home page, também em vários casos ao clicar em alguma opção do menu o usuário é redirecionado a um PDF que também não possui formas de retornar a home page, como podemos observar na figura 6.  </p>
 
  <img src="https://raw.githubusercontent.com/Interacao-Humano-Computador/2022.2-UnbIdiomas/main/assets/img/Telas/Prof2.png">
 
- ###### Figura 6 - Página de Login dos professores sem menu e botão home. Fonte: Unb Idiomas.
+###### Figura 6 - Página de Login dos professores sem menu e botão home. Fonte: Unb Idiomas.
  
 ### Consistência e padronização
 <p align="justify"> Por vezes, o site foge à consistência e padronização. Por exemplo, ao clicar no portal do aluno não existe o menu geral localizado no incio da pagina, o menu esta presente apenas na parte de informações do site, como podemos observar na figura 07 não existe menu, ja na figura 8 existe. </p>
 
  <img src="https://raw.githubusercontent.com/Interacao-Humano-Computador/2022.2-UnbIdiomas/main/assets/img/Telas/Aluno.png">
 
- ###### Figura 7 - Página de Login dos alunos sem menu. Fonte: Unb Idiomas.
+###### Figura 7 - Página de Login dos alunos sem menu. Fonte: Unb Idiomas.
 
  <img src="https://raw.githubusercontent.com/Interacao-Humano-Computador/2022.2-UnbIdiomas/main/assets/img/Telas/Info.png">
 
- ###### Figura 8 - Home page com menu. Fonte: Unb Idiomas.
+###### Figura 8 - Home page com menu. Fonte: Unb Idiomas.
 
 ### Antecipação das necessidades do usuário
 <p align="justify"> Em algumas situações o site não antecipa as necessidades do usuário, fazendo-o ter que ir atrás do que ele necessita.  como a falta da existência de uma caixa de pesquisa, dificultando o acesso rápida a alguma informação especifica, obrigando o usuário a procurar informações manualmente, como podemos observar na figura 9. </p>
 
  <img src="https://raw.githubusercontent.com/Interacao-Humano-Computador/2022.2-UnbIdiomas/main/assets/img/Telas/Info.png">
 
- ###### Figura 9 - Home page sem a caixa de pesquisa. Fonte: Unb Idiomas.
+###### Figura 9 - Home page sem a caixa de pesquisa. Fonte: Unb Idiomas.
 
 ### Projeto para Erros
 <p align="justify"> Ao analisar o site observamos que no portal dos professores não ha nem um tipo de feedback ao logar, caso o usuário digite o login errado o sistema não diz se o usuário não existe ou se seu login ou senha estão incorretos como, podemos observar na figura 10 e 11. </p>
 
- <img src="https://raw.githubusercontent.com/Interacao-Humano-Computador/2022.2-UnbIdiomas/main/assets/img/telas/Prof.png">
+ <img src="https://raw.githubusercontent.com/Interacao-Humano-Computador/2022.2-UnbIdiomas/main/assets/img/Telas/Prof.png">
 
- ###### Figura 10 - Página de Login dos professores preenchida. Fonte: Unb Idiomas.
+###### Figura 10 - Página de Login dos professores preenchida. Fonte: Unb Idiomas.
 
  <p align="justify"> Ao preacher as caixas de login e senha e clicar em entrar caso tenha algum erro nas informações a página atualiza sumindo com suas informações e não devolve nem um feedback. </p>
 
  <img src="https://raw.githubusercontent.com/Interacao-Humano-Computador/2022.2-UnbIdiomas/main/assets/img/Telas/Prof2.png">
 
- ###### Figura 11 - Página de Login dos professores vazia. Fonte: Unb Idiomas.
+###### Figura 11 - Página de Login dos professores vazia. Fonte: Unb Idiomas.
 
 ## Bibliografia
 > - [1] BARBOSA, Simone Diniz Junqueira; DA SILVA, Bruno Santana. **Interação humano-computador**. Elsevier, 2010. Cap. 8: Princípios e Diretrizes para o Design de IHC. 
@@ -117,3 +117,4 @@
 |    Data    | Versão |                                       Descrição                                       |        Autor(es)        |         Revisor(es)         |
 | :--------: | :----: | :-----------------------------------------------------------------------------------: | :---------------------: | :---------------------: |
 | 10/12/2022 |  1.0   |                            Criação da página                           |   Thiago Cerqueira    | Eric Chagas |
+| 10/12/2022 |  1.1   |                            Formatando imagens                          |   Thiago Cerqueira    | Eric Chagas |
