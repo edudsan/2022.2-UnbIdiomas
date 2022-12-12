@@ -116,5 +116,5 @@
 ## Histórico de versões
 |    Data    | Versão |                                       Descrição                                       |        Autor(es)        |         Revisor(es)         |
 | :--------: | :----: | :-----------------------------------------------------------------------------------: | :---------------------: | :---------------------: |
-| 10/12/2022 |  1.0   |                            Criação da página                           |   Thiago Cerqueira    | Eric Chagas |
-| 10/12/2022 |  1.1   |                            Formatando imagens                          |   Thiago Cerqueira    | Eric Chagas |
+| 10/12/2022 |  1.0   |                            Criação da página                           |   Thiago Cerqueira    | Arthur, Henrique|
+| 10/12/2022 |  1.1   |                            Formatando imagens                          |   Thiago Cerqueira    | Arthur, Henrique|
