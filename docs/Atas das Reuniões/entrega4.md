@@ -12,11 +12,7 @@ Reunião realizada no dia 13/12/2022, teve início às 9h37min e foi finalizada 
 
 ### Resumo
 
-- Nessa reunião, a equipe discutiu quais melhorias deveriam ser feitas em relação aos trabalhos para a entrega 4.
-
-
-
-- Foram divididas também as tarefas a serem realizadas para a terceira entrega do projeto, conforme mostra a tabela abaixo:
+- Nessa reunião, foram divididas também as tarefas a serem realizadas para a quarta entrega do projeto, conforme mostra a tabela abaixo:
 
 | Tarefa | Responsável(is) | Revisor(es) |
 | ---- | ---- |------------------------ |
