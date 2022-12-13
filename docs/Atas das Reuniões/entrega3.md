@@ -44,4 +44,4 @@ A gravação desta reunião pode ser acessada através deste [link](https://yout
 
 
 
-###### Tabela 2 - Histórico de versões. Fonte: Autoria própria
+###### Tabela 3 - Histórico de versões. Fonte: Autoria própria
