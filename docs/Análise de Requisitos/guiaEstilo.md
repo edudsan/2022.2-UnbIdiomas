@@ -110,6 +110,19 @@ O site não possui animações.
 
 ## 4. Elementos de interação
 
+##### **4.1 Estilo de interação**
+O site é composto, em sua maioria, por botões, menus e links, sendo que estes últimos levam a áreas diferentes do site ou a arquivos *.pdf* contendo informações sobre cursos, normas e etc.
+
+As interações do usuário com o site são feitas através dos elementos listados acima, com o foco no acesso as áreas ou informações desejadas pelo mesmo.
+
+##### **4.2 Seleção de estilo**
+O site exibe seus elementos e informações de maneira clara, apresentando uma interface simples, porém antiquada em comparação a outras plataformas similares.
+
+##### **4.3 Aceleradores (Teclas de atalho)**
+O site não apresenta nenhum acelerador ou comandos/teclas de atalho que auxiliem na navegação.
+
+
+
 ## 5. Elementos de ação
 
 ### 5.1. Preenchimento de campos
@@ -123,11 +136,61 @@ O usuário detém de certas limitações no site,necessitando estar logado para 
 
 ## 6. Vocabulário e padrões
 
+##### **6.1 Terminologia**
+O vocabulário utilizado no site é formal, prezando pela boa compreensão do leitor. Alguns do termos presentes podem ser de menor entendimento para uma parcela dos usuários, principalmente aos que contém um conhecimento raso no que diz respeito a linguagem tecnológica e universitária, sendo eles:
+
+- *PDF* : se refere ao formato de arquivo *.pdf*, utilizado principalmente em documentos. No site é encontrado na aba "Destaques", onde o usuário pode acessar certos documentos neste formato. 
+
+- *WORD* : se refere ao formato de arquivo *.docx*, utilizado principalmente em documentos, cuja forma de acesso principal é o programa *Microsoft Word*. No site é encontrado na aba "Destaques", onde o usuário pode acessar certos documentos neste formato.
+
+- *PES/PESES* : se refere ao *Projeto de Estágio Supervisionado (PES)* e ao *Projeto de Estágio Supervisionado de Espanhol (PESES)*, que compõem o Programa Permanente de Extensão UnB Idiomas, do Departamento de Línguas Estrangeiras e Tradução (LET), da Universidade de Brasília.
+
+Situada abaixo, a figura 10 apresenta a área onde esses termos são encontrados no site:
+
+<img src="https://raw.githubusercontent.com/Interacao-Humano-Computador/2022.2-UnbIdiomas/main/docs/assets//img/guia-de-estilo/destaquesVocabulario.png" >                                                                      Figura 10 - destaques da homepage do site UnB Idiomas [¹](#ancora1)      
+
+##### **6.2 Tipos de tela (para Tarefas comuns)**
+
+O site apresenta diversas telas nas quais o usuário executa tarefas comuns:
+
+- Na figura 11, situada abaixo, podemos ver a Tela Principal :
+<img src="https://raw.githubusercontent.com/Interacao-Humano-Computador/2022.2-UnbIdiomas/main/docs/assets//img/guia-de-estilo/telaPrincipal.png" >
+  Figura 11 - tela principal do site UnB Idiomas [¹](#ancora1)
+
+
+- Na figura 12, situada abaixo, podemos ver a Tela de Login do Aluno :
+<img src="https://raw.githubusercontent.com/Interacao-Humano-Computador/2022.2-UnbIdiomas/main/docs/assets//img/guia-de-estilo/telaLogin.png" >
+  Figura 12 - tela de Login do Aluno do site UnB Idiomas [¹](#ancora1)
+
+- Na figura 13, situada abaixo, podemos ver a Tela de Login do Professor :
+<img src="https://raw.githubusercontent.com/Interacao-Humano-Computador/2022.2-UnbIdiomas/main/docs/assets//img/guia-de-estilo/telaLoginProf.png" >
+  Figura 13 - tela de Login do Professor do site UnB Idiomas [¹](#ancora1)
+
+- Na figura 14, situada abaixo, podemos ver a tela de curso (é idêntica para todos os cursos apresentados na Tela Principal) :
+<img src="https://raw.githubusercontent.com/Interacao-Humano-Computador/2022.2-UnbIdiomas/main/docs/assets//img/guia-de-estilo/telaCurso.png" >
+  Figura 14 - tela de curso do site UnB Idiomas [¹](#ancora1)
+
+- Na figura 15, situada abaixo, podemos ver a Tela de contatos da UnB Idiomas :
+<img src="https://raw.githubusercontent.com/Interacao-Humano-Computador/2022.2-UnbIdiomas/main/docs/assets//img/guia-de-estilo/telaContatos.png" >
+  Figura 15 - tela de contatos do site UnB Idiomas [¹](#ancora1)
+
+- Na figura 16, situada abaixo, podemos ver a Tela de propostas de cursos para a UnB Idiomas :
+<img src="https://raw.githubusercontent.com/Interacao-Humano-Computador/2022.2-UnbIdiomas/main/docs/assets//img/guia-de-estilo/telaPropostaCurso.png" >
+  Figura 15 - tela de propostas de cursos do site UnB Idiomas [¹](#ancora1)
+
+##### **6.3 Sequências de diálogos (para Feedback ou confirmação de operação)**
+ Foram encontradas sequências de diálogos somente para a efetuação de login, na ocasião em que o usuário errar seu CPF ou senha, conforme mostrado na figura 11, situada abaixo:
+ <img src="https://raw.githubusercontent.com/Interacao-Humano-Computador/2022.2-UnbIdiomas/main/docs/assets//img/guia-de-estilo/avisoLoginInvalido.png" >
+  Figura 11 - aviso login inválido do site UnB Idiomas [¹](#ancora1)           
+## Referências
+> - <a id="ancora1"></a>[1] Unb Idiomas. Acesso em: 20 de nov. de 2022. Disponível em: <http://www.unbidiomas.unb.br>
+
 ## Histórico de versões
 |    Data    | Versão |                                       Descrição                                       |        Autor(es)        |         Revisor(es)         |
 | :--------: | :----: | :-----------------------------------------------------------------------------------: | :---------------------: | :---------------------: |
 | 9/12/2022 |  1.0   |                   Criação da página da entrega 3                           |   Henrique Galdino Couto    | Artur, Eric,  Igor, Pedro, Thiago |
-| 12/12/2022 |  1.0   |                                 Elaboração da Introdução, Elementos da Interface e Elementos de ação                            |   Artur Seppa Reiman    | Henrique, Eric,  Igor, Pedro, Thiago |
+| 12/12/2022 |  1.1   |                                 Elaboração da Introdução, Elementos da Interface e Elementos de ação                            |   Artur Seppa Reiman    | Henrique, Eric,  Igor, Pedro, Thiago |
+| 12/12/2022 |  1.2   |                                 Elaboração dos Resultados de Análise, Elementos de Interação e Vocabulários e padrões                            |   Henrique Galdino Reiman    | Artur, Eric,  Igor, Pedro, Thiago |
 
 
 
