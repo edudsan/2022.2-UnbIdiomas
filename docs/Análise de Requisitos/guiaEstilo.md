@@ -147,9 +147,38 @@ O vocabulário utilizado no site é formal, prezando pela boa compreensão do le
 
 Situada abaixo, a figura 10 apresenta a área onde esses termos são encontrados no site:
 
-<img src="https://raw.githubusercontent.com/Interacao-Humano-Computador/2022.2-UnbIdiomas/main/docs/assets//img/guia-de-estilo/destaquesVocabulario.png" >                                                                      Figura 10 - destaques da homepage do site UnB Idiomas [¹](#ancora1)           
+<img src="https://raw.githubusercontent.com/Interacao-Humano-Computador/2022.2-UnbIdiomas/main/docs/assets//img/guia-de-estilo/destaquesVocabulario.png" >                                                                      Figura 10 - destaques da homepage do site UnB Idiomas [¹](#ancora1)      
 
-##### **6.2 Sequências de diálogos (para Feedback ou confirmação de operação)**
+##### **6.2 Tipos de tela (para Tarefas comuns)**
+
+O site apresenta diversas telas nas quais o usuário executa tarefas comuns:
+
+- Na figura 11, situada abaixo, podemos ver a Tela Principal :
+<img src="https://raw.githubusercontent.com/Interacao-Humano-Computador/2022.2-UnbIdiomas/main/docs/assets//img/guia-de-estilo/telaPrincipal.png" >
+  Figura 11 - tela principal do site UnB Idiomas [¹](#ancora1)
+
+
+- Na figura 12, situada abaixo, podemos ver a Tela de Login do Aluno :
+<img src="https://raw.githubusercontent.com/Interacao-Humano-Computador/2022.2-UnbIdiomas/main/docs/assets//img/guia-de-estilo/telaLogin.png" >
+  Figura 12 - tela de Login do Aluno do site UnB Idiomas [¹](#ancora1)
+
+- Na figura 13, situada abaixo, podemos ver a Tela de Login do Professor :
+<img src="https://raw.githubusercontent.com/Interacao-Humano-Computador/2022.2-UnbIdiomas/main/docs/assets//img/guia-de-estilo/telaLoginProf.png" >
+  Figura 13 - tela de Login do Professor do site UnB Idiomas [¹](#ancora1)
+
+- Na figura 14, situada abaixo, podemos ver a tela de curso (é idêntica para todos os cursos apresentados na Tela Principal) :
+<img src="https://raw.githubusercontent.com/Interacao-Humano-Computador/2022.2-UnbIdiomas/main/docs/assets//img/guia-de-estilo/telaCurso.png" >
+  Figura 14 - tela de curso do site UnB Idiomas [¹](#ancora1)
+
+- Na figura 15, situada abaixo, podemos ver a Tela de contatos da UnB Idiomas :
+<img src="https://raw.githubusercontent.com/Interacao-Humano-Computador/2022.2-UnbIdiomas/main/docs/assets//img/guia-de-estilo/telaContatos.png" >
+  Figura 15 - tela de contatos do site UnB Idiomas [¹](#ancora1)
+
+- Na figura 16, situada abaixo, podemos ver a Tela de propostas de cursos para a UnB Idiomas :
+<img src="https://raw.githubusercontent.com/Interacao-Humano-Computador/2022.2-UnbIdiomas/main/docs/assets//img/guia-de-estilo/telaPropostaCurso.png" >
+  Figura 15 - tela de propostas de cursos do site UnB Idiomas [¹](#ancora1)
+
+##### **6.3 Sequências de diálogos (para Feedback ou confirmação de operação)**
  Foram encontradas sequências de diálogos somente para a efetuação de login, na ocasião em que o usuário errar seu CPF ou senha, conforme mostrado na figura 11, situada abaixo:
  <img src="https://raw.githubusercontent.com/Interacao-Humano-Computador/2022.2-UnbIdiomas/main/docs/assets//img/guia-de-estilo/avisoLoginInvalido.png" >
   Figura 11 - aviso login inválido do site UnB Idiomas [¹](#ancora1)           
