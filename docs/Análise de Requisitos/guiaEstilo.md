@@ -110,15 +110,15 @@ O site não possui animações.
 
 ## 4. Elementos de interação
 
-**4.1 Estilo de interação**
+##### **4.1 Estilo de interação**
 O site é composto, em sua maioria, por botões, menus e links, sendo que estes últimos levam a áreas diferentes do site ou a arquivos *.pdf* contendo informações sobre cursos, normas e etc.
 
 As interações do usuário com o site são feitas através dos elementos listados acima, com o foco no acesso as áreas ou informações desejadas pelo mesmo.
 
-**4.2 Seleção de estilo**
+##### **4.2 Seleção de estilo**
 O site exibe seus elementos e informações de maneira clara, apresentando uma interface simples, porém antiquada em comparação a outras plataformas similares.
 
-**4.3 Aceleradores (Teclas de atalho)**
+##### **4.3 Aceleradores (Teclas de atalho)**
 O site não apresenta nenhum acelerador ou comandos/teclas de atalho que auxiliem na navegação.
 
 
@@ -136,7 +136,7 @@ O usuário detém de certas limitações no site,necessitando estar logado para 
 
 ## 6. Vocabulário e padrões
 
-**6.1 Terminologia**
+##### **6.1 Terminologia**
 O vocabulário utilizado no site é formal, prezando pela boa compreensão do leitor. Alguns do termos presentes podem ser de menor entendimento para uma parcela dos usuários, principalmente aos que contém um conhecimento raso no que diz respeito a linguagem tecnológica e universitária, sendo eles:
 
 - *PDF* : se refere ao formato de arquivo *.pdf*, utilizado principalmente em documentos. No site é encontrado na aba "Destaques", onde o usuário pode acessar certos documentos neste formato. 
@@ -149,7 +149,7 @@ Situada abaixo, a figura 10 apresenta a área onde esses termos são encontrados
 
 <img src="https://raw.githubusercontent.com/Interacao-Humano-Computador/2022.2-UnbIdiomas/main/docs/assets//img/guia-de-estilo/destaquesVocabulario.png" >                                                                      Figura 10 - destaques da homepage do site UnB Idiomas [¹](#ancora1)           
 
-**6.2 Sequências de diálogos (para Feedback ou confirmação de operação)**
+##### **6.2 Sequências de diálogos (para Feedback ou confirmação de operação)**
  Foram encontradas sequências de diálogos somente para a efetuação de login, na ocasião em que o usuário errar seu CPF ou senha, conforme mostrado na figura 11, situada abaixo:
  <img src="https://raw.githubusercontent.com/Interacao-Humano-Computador/2022.2-UnbIdiomas/main/docs/assets//img/guia-de-estilo/avisoLoginInvalido.png" >
   Figura 11 - aviso login inválido do site UnB Idiomas [¹](#ancora1)           
