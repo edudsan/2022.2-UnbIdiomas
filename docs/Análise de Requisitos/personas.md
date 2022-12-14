@@ -7,15 +7,13 @@ Para este projeto, foi criado um total de 6 personas, cujos perfis foram baseado
 
 O elenco de personas foi criado com base nos dados coletados na pesquisa de perfil do usuário com o intuito de refletir as informações presentes nela, mas com uma certa atenção para a diversidade dentro do mesmo, evitando dados e experiências repetidas e similares. O elenco composto por 6 personas foi pensado para garantir um equilíbrio na análise de requisitos, apresentando 3 usuários primários, 2 usuários secundários e uma antipersona, como podemos conferir abaixo:
 
-
+<div id="Ana"></div>
 
 <div align="center">
 <img src="https://raw.githubusercontent.com/Interacao-Humano-Computador/2022.2-UnbIdiomas/main/docs/assets/img/personas/ana.png" alt = Figura1  width="250" height="250"/>
 <figcaption align="center">Figura 1: Ana Lopes Shimagawa (Fonte: <a href="https://thispersondoesnotexist.com" target="_blanck">This Person Does Not Exist</a>, 2022)</figcaption>
 </div>
 <br/>
-
-<div id="Ana"></div>
 
 | Status: | Usuário primário |
 | :--: | :--: |
@@ -32,16 +30,15 @@ O elenco de personas foi criado com base nos dados coletados na pesquisa de perf
 | Expectativas: | Ana espera encontrar facilmente todas as informações desejadas no site, sem perder muito tempo procurando por elas; Como aprendeu um pouco de japonês com seu avô, Ana quer fazer um teste de proficiência para saber em qual nível deve começar.  |
 
 
-
 <figcaption align="center">Tabela 1: Dados de Ana Lopes Shimagawa (Fonte: Autoria própria, 2022)</figcaption>
+
+<div id="Yumi"></div>
 
 <div align="center">
 <img src="https://raw.githubusercontent.com/Interacao-Humano-Computador/2022.2-UnbIdiomas/main/docs/assets/img/personas/yumi.png" alt = Figura2 width="250" height="250"/>
 <figcaption align="center">Figura 2: Yumi Lopes Shimagawa (Fonte: <a href="https://thispersondoesnotexist.com" target="_blanck">This Person Does Not Exist</a>, 2022)</figcaption>
 </div>
 <br/>
-
-<div id="Yumi"></div>
 
 | Status: | Antipersona |
 | :--: | :--: |
@@ -60,14 +57,13 @@ O elenco de personas foi criado com base nos dados coletados na pesquisa de perf
 
 <figcaption align="center">Tabela 2: Dados de Yumi Lopes Shimagawa (Fonte: Autoria própria, 2022)</figcaption>
 
+<div id="Débora"></div>
 
 <div align="center">
 <img src="https://raw.githubusercontent.com/Interacao-Humano-Computador/2022.2-UnbIdiomas/main/docs/assets/img/personas/debora.png" alt = Figura3  width="250" height="250"/>
 <figcaption align="center">Figura 3: Débora Oliveira Nascimento (Fonte: <a href="https://thispersondoesnotexist.com" target="_blanck">This Person Does Not Exist</a>, 2022)</figcaption>
 </div>
 <br/>
-
-<div id="Débora"></div>
 
 | Status: | Usuário Primário |
 | :--: | :--: |
@@ -86,14 +82,13 @@ O elenco de personas foi criado com base nos dados coletados na pesquisa de perf
 
 <figcaption align="center">Tabela 3: Dados de Débora Oliveira Nascimento (Fonte: Autoria própria, 2022)</figcaption>
 
+<div id="Juan"></div>
 
 <div align="center">
 <img src="https://raw.githubusercontent.com/Interacao-Humano-Computador/2022.2-UnbIdiomas/main/docs/assets/img/personas/juan.png" alt = Figura4  width="250" height="250"/>
 <figcaption align="center">Figura 4: Juan Ángel Ares (Fonte: <a href="https://thispersondoesnotexist.com" target="_blanck">This Person Does Not Exist</a>, 2022)</figcaption>
 </div>
 <br/>
-
-<div id="Juan"></div>
 
 | Status: | Usuário secundário |
 | :--: | :--: |
@@ -111,13 +106,13 @@ O elenco de personas foi criado com base nos dados coletados na pesquisa de perf
 
 <figcaption align="center">Tabela 4: Dados de Juan Ángel Ares(Fonte: Autoria própria, 2022)</figcaption>
 
+<div id="Pedro"></div>
+
 <div align="center">
 <img src="https://raw.githubusercontent.com/Interacao-Humano-Computador/2022.2-UnbIdiomas/main/docs/assets/img/personas/pedro.png" alt = Figura5  width="250" height="250"/>
 <figcaption align="center">Figura 5: Pedro Costa Bittencourt (Fonte: <a href="https://thispersondoesnotexist.com" target="_blanck">This Person Does Not Exist</a>, 2022)</figcaption>
 </div>
 <br/>
-
-<div id="Pedro"></div>
 
 | Status: | Usuário Primário |
 | :--: | :--: |
@@ -135,14 +130,13 @@ O elenco de personas foi criado com base nos dados coletados na pesquisa de perf
 
 <figcaption align="center">Tabela 5: Dados de Pedro Costa Bittencourt(Fonte: Autoria própria, 2022)</figcaption>
 
+<div id="Rene"></div>
 
 <div align="center">
 <img src="https://raw.githubusercontent.com/Interacao-Humano-Computador/2022.2-UnbIdiomas/main/docs/assets/img/personas/rene.png" alt = Figura6  width="250" height="250"/>
 <figcaption align="center">Figura 6: Renê Simão de Andrade (Fonte: <a href="https://thispersondoesnotexist.com" target="_blanck">This Person Does Not Exist</a>, 2022)</figcaption>
 </div>
 <br/>
-
-<div id="Rene"></div>
 
 | Status: | Usuário secundário |
 | :--: | :--: |
