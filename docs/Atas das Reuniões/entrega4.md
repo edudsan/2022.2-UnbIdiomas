@@ -31,7 +31,7 @@ A reunião não foi gravada, pois foi realizada depois da aula do dia 13/12.
 ## Histórico de versões
 |    Data    | Versão |                                       Descrição                                       |        Autor(es)        |         Revisor(es)         |
 | :--------: | :----: | :-----------------------------------------------------------------------------------: | :---------------------: | :---------------------: |
-| 13/12/2022 |  1.0   |                            Criação da página da entrega 3                         |   Henrique Galdino Couto    | Eric, Artur, Igor |
+| 13/12/2022 |  1.0   |                            Criação da página da entrega 4                         |   Henrique Galdino Couto    | Artur, Eric, Igor, Tiago |
 
 
 
