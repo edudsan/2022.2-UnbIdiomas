@@ -3,7 +3,7 @@
 Para este projeto, foi criado um total de 6 personas, cujos perfis foram baseados  nos dados presentes na aba [Perfil do Usuário](https://interacao-humano-computador.github.io/2022.2-UnbIdiomas/Análise%20de%20Requisitos/perfilUsuario/). 
 
 
-##Elenco
+## Elenco
 
 O elenco de personas foi criado com base nos dados coletados na pesquisa de perfil do usuário com o intuito de refletir as informações presentes nela, mas com uma certa atenção para a diversidade dentro do mesmo, evitando dados e experiências repetidas e similares. O elenco composto por 6 personas foi pensado para garantir um equilíbrio na análise de requisitos, apresentando 3 usuários primários, 2 usuários secundários e uma antipersona, como podemos conferir abaixo:
 
@@ -14,6 +14,8 @@ O elenco de personas foi criado com base nos dados coletados na pesquisa de perf
 <figcaption align="center">Figura 1: Ana Lopes Shimagawa (Fonte: <a href="https://thispersondoesnotexist.com" target="_blanck">This Person Does Not Exist</a>, 2022)</figcaption>
 </div>
 <br/>
+
+<div id="Ana"></div>
 
 | Status: | Usuário primário |
 | :--: | :--: |
@@ -39,6 +41,8 @@ O elenco de personas foi criado com base nos dados coletados na pesquisa de perf
 </div>
 <br/>
 
+<div id="Yumi"></div>
+
 | Status: | Antipersona |
 | :--: | :--: |
 | Nome: | Yumi Lopes Shimagawa |
@@ -62,6 +66,8 @@ O elenco de personas foi criado com base nos dados coletados na pesquisa de perf
 <figcaption align="center">Figura 3: Débora Oliveira Nascimento (Fonte: <a href="https://thispersondoesnotexist.com" target="_blanck">This Person Does Not Exist</a>, 2022)</figcaption>
 </div>
 <br/>
+
+<div id="Débora"></div>
 
 | Status: | Usuário Primário |
 | :--: | :--: |
@@ -87,6 +93,8 @@ O elenco de personas foi criado com base nos dados coletados na pesquisa de perf
 </div>
 <br/>
 
+<div id="Juan"></div>
+
 | Status: | Usuário secundário |
 | :--: | :--: |
 | Nome: | Juan Ángel Ares |
@@ -108,6 +116,8 @@ O elenco de personas foi criado com base nos dados coletados na pesquisa de perf
 <figcaption align="center">Figura 5: Pedro Costa Bittencourt (Fonte: <a href="https://thispersondoesnotexist.com" target="_blanck">This Person Does Not Exist</a>, 2022)</figcaption>
 </div>
 <br/>
+
+<div id="Pedro"></div>
 
 | Status: | Usuário Primário |
 | :--: | :--: |
@@ -131,6 +141,8 @@ O elenco de personas foi criado com base nos dados coletados na pesquisa de perf
 <figcaption align="center">Figura 6: Renê Simão de Andrade (Fonte: <a href="https://thispersondoesnotexist.com" target="_blanck">This Person Does Not Exist</a>, 2022)</figcaption>
 </div>
 <br/>
+
+<div id="Rene"></div>
 
 | Status: | Usuário secundário |
 | :--: | :--: |
@@ -176,6 +188,7 @@ Para ajudar na construção das personas, foram imaginados os seguintes cenário
 | :--------: | :----: | :-----------------------------------------------------------------------------------: | :---------------------: | :---------------------: |
 | 7/12/2022 |  1.0   |                            Criação da página personas                          |   Henrique Galdino Couto    | Eric Chagas |
 | 8/12/2022 |  1.1   |                            Mudança em algumas personas e cenários                         |   Henrique Galdino Couto    | Eric Chagas |
+| 8/12/2022 |  1.2   |                            Adicionando ancora para hiperlink                        |   Thiago Cerqueira Borges   | Eric Chagas |
 
 
 

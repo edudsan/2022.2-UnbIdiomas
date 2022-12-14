@@ -14,9 +14,71 @@ Serão definidas as personas que serão utilizadas em cada avaliação, quais ta
 
 Para cada tarefa foram decididas as seguintes personas e cursos de ação:
 
-## (Colocar Tópico para as Personas Aqui)
+
+### Tarefa 1: Visualizar informações sobre um curso
+
+#### Persona: [Ana Lopes Shimagawa](https://interacao-humano-computador.github.io/2022.2-UnbIdiomas/An%C3%A1lise%20de%20Requisitos/personas/#Ana), [Débora Oliveira Nascimento](https://interacao-humano-computador.github.io/2022.2-UnbIdiomas/An%C3%A1lise%20de%20Requisitos/personas/#Débora) e [Pedro Costa Bittencourt](https://interacao-humano-computador.github.io/2022.2-UnbIdiomas/An%C3%A1lise%20de%20Requisitos/personas/#Pedro) 
+
+#### Ações
+
+1. Na página inicial, clica na linguagem desejada na caixa de "Cursos".
+2. Na página do curso, verificar informação desejada.
+
+### Tarefa 2:  Visualizar preço dos cursos
+
+#### Persona(s): [Ana Lopes Shimagawa](https://interacao-humano-computador.github.io/2022.2-UnbIdiomas/An%C3%A1lise%20de%20Requisitos/personas/#Ana) e [Débora Oliveira Nascimento](https://interacao-humano-computador.github.io/2022.2-UnbIdiomas/An%C3%A1lise%20de%20Requisitos/personas/#Débora)
+
+#### Ações
+
+1. Na página inicial, clica na linguagem desejada na caixa de "Cursos".
+2. Na página do curso, clicar em "Veja Valor".
+3. Verifica valor do curso no PDF
 
 
+### Tarefa 3: Realizar cadastro
+
+#### Persona(s): [Ana Lopes Shimagawa](https://interacao-humano-computador.github.io/2022.2-UnbIdiomas/An%C3%A1lise%20de%20Requisitos/personas/#Ana) e [Débora Oliveira Nascimento](https://interacao-humano-computador.github.io/2022.2-UnbIdiomas/An%C3%A1lise%20de%20Requisitos/personas/#Débora)
+
+#### Ações
+
+1. Na página inicial, clica em "Cadastre-se aqui" no menu do cabeçalho.
+2. Na página de cadastro, Insere as informações obrigatórias.
+3. Insere sua foto.
+4. Clica em "Gravar"
+
+### Tarefa 4: Realizar Login como aluno
+
+#### Persona(s): [Ana Lopes Shimagawa](https://interacao-humano-computador.github.io/2022.2-UnbIdiomas/An%C3%A1lise%20de%20Requisitos/personas/#Ana) e [Débora Oliveira Nascimento](https://interacao-humano-computador.github.io/2022.2-UnbIdiomas/An%C3%A1lise%20de%20Requisitos/personas/#Débora)
+
+#### Ações
+
+1. Na página inicial, poem o cursor em "Portais" no menu do cabeçalho.
+2. Ainda na página inicial, no menu "Portais", clica em "Portal do aluno".
+3. Insere Login.
+4. Insere Senha.
+5. Clica em "Entrar"
+
+### Tarefa 5: Visualizar informações sobre a seleção de professores
+
+#### Persona(s): [Juan Ángel Ares](https://interacao-humano-computador.github.io/2022.2-UnbIdiomas/An%C3%A1lise%20de%20Requisitos/personas/#Juan) 
+
+#### Ações
+
+1. Na página inicial, clica em "Chamada Pública" no menu do cabeçalho. 
+2. Na página de Chamada Pública, clica em "Seleção para Professor de Idiomas- Espanhol".
+3. Na pagina de Chamada Pública, clica em "Clique aqui para mais informações".
+
+### Tarefa 6: Realizar Login como professor
+
+#### Persona(s): [Juan Ángel Ares](https://interacao-humano-computador.github.io/2022.2-UnbIdiomas/An%C3%A1lise%20de%20Requisitos/personas/#Juan) e [René Simon de Andrade](https://interacao-humano-computador.github.io/2022.2-UnbIdiomas/An%C3%A1lise%20de%20Requisitos/personas/#Rene) 
+
+#### Ações
+
+1. Na página inicial, poem o cursor em "Portais" no menu do cabeçalho.
+2. Ainda na página inicial, no menu "Portais", clica em "Portal do aluno".
+3. Insere Login.
+4. Insere Senha.
+5. Clica em "Entrar"
 
 ## 2.2 Coleta de dados
 
@@ -43,4 +105,5 @@ De forma a finalizar esse processo, será feito um relatório com os resultados 
 | Versão | Data       | Descrição                   | Autor(es)   | Revisor                             |
 | ------ | ---------- | --------------------------- | ----------- | ----------------------------------- |
 | 1.0    | 14/12/2022 | Adição da página e conteúdo | Igor Silva de Paiva | Henrique Galdino Couto, Eric Chagas de Oliveira |                        |
+| 1.1    | 14/12/2022 | Adição da Preparação e hiperlink | Thiago Cerqueira Borges | Henrique Galdino Couto, Eric Chagas de Oliveira |                        |
 
