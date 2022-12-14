@@ -16,10 +16,10 @@ Reunião realizada no dia 13/12/2022, teve início às 9h37min e foi finalizada 
 
 | Tarefa | Responsável(is) | Revisor(es) |
 | ---- | ---- |------------------------ |
-| Planejamento da avaliação da Análise de Tarefas | Artur, Igor, Thiago | Eric, Henrique |
-| Planejamento do relato de resultados da avaliação da Análise de Tarefas | Artur, Igor, Thiago | Eric, Henrique |
-| Planejamento da avaliação do storyboard |  Eric, Henrique | Artur, Igor, Thiago |
-| Planejamento do relato de resultados da avaliação do storyboard | Eric, Henrique | Artur, Igor, Thiago |
+| Planejamento da avaliação da Análise de Tarefas | Igor, Thiago | Artur, Eric, Henrique |
+| Planejamento do relato de resultados da avaliação da Análise de Tarefas | Artur | Eric, Henrique, Igor, Thiago |
+| Planejamento da avaliação do storyboard | Henrique | Artur, Eric, Igor, Thiago |
+| Planejamento do relato de resultados da avaliação do storyboard | Eric | Artur, Henrique, Igor, Thiago |
 
 ###### Tabela 1 - Tabela de tarefas relacionadas a segunda entrega. Fonte: Autoria própria
 
