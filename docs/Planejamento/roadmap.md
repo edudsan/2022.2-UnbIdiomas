@@ -15,21 +15,26 @@ O cronograma em formato roadmap, mostrado na **Figura 01**, foi desenvolvido com
 
 #### É Possível dar zoom no Cronograma mostrado no (Arquivo 01) para visualizar cada uma das atividades com mais detalhes
 
+=== "V7"
+  
+      <iframe width="100%" height="600" src="../../assets/pdf/roadmapv7.pdf"/>
+    ###### Arquivo 01 - Cronograma do projeto. Fonte: Autoria própria.
+
 === "V6"
   
       <iframe width="100%" height="600" src="../../assets/pdf/roadmapv6.pdf"/>
-    ###### Arquivo 01 - Cronograma do projeto. Fonte: Autoria própria.
+    ###### Arquivo 02 - Cronograma do projeto v6. Fonte: Autoria própria.
 
 
 === "V5"
   
       <iframe width="100%" height="600" src="../../assets/pdf/roadmapv5.pdf"/>
-    ###### Arquivo 02 - Cronograma do projeto v5. Fonte: Autoria própria.
+    ###### Arquivo 03 - Cronograma do projeto v5. Fonte: Autoria própria.
 
 === "V4"
   
       <iframe width="100%" height="600" src="../../assets/pdf/roadmapv4.pdf"/>
-    ###### Arquivo 03 - Cronograma do projeto v4. Fonte: Autoria própria.
+    ###### Arquivo 04 - Cronograma do projeto v4. Fonte: Autoria própria.
 
 === "V3"
     
@@ -81,7 +86,7 @@ O cronograma executado pode ser visualizado nas **Tabelas de 01 a 09**, e repres
       | **Tarefa**                                    | **Responsáveis**                    | **Revisores**                       | **Iniciado em** | **Data final de revisão** | **Finalizado em** |
       | --------------------------------------------- | ----------------------------------- | ----------------------------------- | --------------- | ------------------------- | ----------------- |
       | Site selecionado para o projeto da disciplina | Artur, Eric, Igor, Henrique, Thiago | Artur, Eric, Igor, Henrique, Thiago | 25/10/2022      | 18/11/2022                | 18/11/2022        |
-      | Processo de Design                            | Igor,Thiago                         | Artur                               | 18/11/2022      | 23/11/2022                | 23/11/2022        |
+      | Processo de Design                            | Igor                                | Artur                               | 18/11/2022      | 23/11/2022                | 23/11/2022        |
       | Planejamento da avaliação                     | Eric                                | Artur, Eric, Igor, Henrique, Thiago | 18/11/2022      | 23/11/2022                | 23/11/2022        |
       | Listas de sites avaliados                     | Artur, Eric, Igor, Henrique, Thiago | Artur, Eric, Igor, Henrique, Thiago | 25/10/2022      | 18/11/2022                | 18/11/2022        |
       | Ferramentas utilizadas no projeto             | Artur                               | Eric, Henrique                      | 18/11/2022      | 23/11/2022                | 23/11/2022        |
@@ -154,33 +159,33 @@ O cronograma executado pode ser visualizado nas **Tabelas de 01 a 09**, e repres
       | Protótipo de Papel                                                                         |                                     |                                     |                 |                           |                   |
       | Planejamento da avaliação e do relato dos resultados.                                      |                                     |                                     |                 |                           |                   |
       | Atualização: Atas de reunião                                                               | Henrique                            | Eric, Artur, Igor                   |                 |                           |                   |
-      | Atualização: Cronograma                                                                    | Eric                                | Henrique                            |                 |                           |                   |
-      | Gravação do vídeo de apresentação                                                          | Artur, Eric, Henrique, Thiago, Igor | Artur, Eric, Henrique, Thiago, Igor |                 |                           |                   |
+      | Atualização: Cronograma                                                                    | Eric                                | Henrique                            | 21/12           | 21/12                     | 21/12             |
+      | Gravação do vídeo de apresentação                                                          | Artur, Eric, Henrique, Thiago, Igor | Artur, Eric, Henrique, Thiago, Igor | 21/12           | 21/12                     | 21/12             |
 
     ###### Tabela 05 - Atividades executadas na entrega 5. Fonte: Autoria própria
 
 
 === "E6"
           
-      | **Tarefa**                                                                                        | **Responsáveis** | **Revisores**     | **Iniciado em** | **Data final de revisão** | **Finalizado em** |
-      | ------------------------------------------------------------------------------------------------- | ---------------- | ----------------- | --------------- | ------------------------- | ----------------- |
-      | Apresentação do Relato dos resultados da avaliação do protótipo de baixa fidelidade               |                  |                   |                 |                           |                   |
-      | Planejamento da Avaliação e do relato dos resultados da avaliação do protótipo de alta fidelidade |                  |                   |                 |                           |                   |
-      | Atualização: Atas de reunião                                                                      | Henrique         | Eric, Artur, Igor |                 |                           |                   |
-      | Atualização: Cronograma                                                                           | Eric             | Henrique          |                 |                           |                   |
-      | Gravação do vídeo de apresentação                                                                 |    Artur, Eric, Henrique, Thiago, Igor              |    Artur, Eric, Henrique, Thiago, Igor               |                 |                           |                   |
+      | **Tarefa**                                                                                        | **Responsáveis**                    | **Revisores**                       | **Iniciado em** | **Data final de revisão** | **Finalizado em** |
+      | ------------------------------------------------------------------------------------------------- | ----------------------------------- | ----------------------------------- | --------------- | ------------------------- | ----------------- |
+      | Apresentação do Relato dos resultados da avaliação do protótipo de baixa fidelidade               |                                     |                                     |                 |                           |                   |
+      | Planejamento da Avaliação e do relato dos resultados da avaliação do protótipo de alta fidelidade |                                     |                                     |                 |                           |                   |
+      | Atualização: Atas de reunião                                                                      | Henrique                            | Eric, Artur, Igor                   |                 |                           |                   |
+      | Atualização: Cronograma                                                                           | Eric                                | Henrique                            | 11/01           | 11/01                     | 11/01             |
+      | Gravação do vídeo de apresentação                                                                 | Artur, Eric, Henrique, Thiago, Igor | Artur, Eric, Henrique, Thiago, Igor | 11/01           | 11/01                     | 11/01             |
 
     ###### Tabela 06 - Atividades executadas na entrega 6. Fonte: Autoria própria
 
 
 === "E7"
           
-      | **Tarefa**                                | **Responsáveis** | **Revisores**     | **Iniciado em** | **Data final de revisão** | **Finalizado em** |
-      | ----------------------------------------- | ---------------- | ----------------- | --------------- | ------------------------- | ----------------- |
-      | Apresentação da Verificação dos artefatos |                  |                   |                 |                           |                   |
-      | Atualização: Atas de reunião              | Henrique         | Eric, Artur, Igor |                 |                           |                   |
-      | Atualização: Cronograma                   | Eric             | Henrique          |                 |                           |                   |
-      | Gravação do vídeo de apresentação         |         Artur, Eric, Henrique, Thiago, Igor         |   Artur, Eric, Henrique, Thiago, Igor                |                 |                           |                   |
+      | **Tarefa**                                | **Responsáveis**                    | **Revisores**                       | **Iniciado em** | **Data final de revisão** | **Finalizado em** |
+      | ----------------------------------------- | ----------------------------------- | ----------------------------------- | --------------- | ------------------------- | ----------------- |
+      | Apresentação da Verificação dos artefatos |                                     |                                     |                 |                           |                   |
+      | Atualização: Atas de reunião              | Henrique                            | Eric, Artur, Igor                   |                 |                           |                   |
+      | Atualização: Cronograma                   | Eric                                | Henrique                            | 18/01           | 18/01                     | 18/01             |
+      | Gravação do vídeo de apresentação         | Artur, Eric, Henrique, Thiago, Igor | Artur, Eric, Henrique, Thiago, Igor |    18/01             |                  18/01         |               18/01    |
 
     ###### Tabela 07 - Atividades executadas na entrega 7. Fonte: Autoria própria
 
@@ -191,9 +196,9 @@ O cronograma executado pode ser visualizado nas **Tabelas de 01 a 09**, e repres
       | ---------------------------------------------------------------------------------- | ----------------------------------- | ----------------------------------- | --------------- | ------------------------- | ----------------- |
       | Apresentação do Relato dos resultados da avaliação do protótipo de alta fidelidade |                                     |                                     |                 |                           |                   |
       | Atualização: Atas de reunião                                                       | Henrique                            | Eric, Artur, Igor                   |                 |                           |                   |
-      | Atualização: Cronograma                                                            | Eric                                | Henrique                            |                 |                           |                   |
-      | Gravação do vídeo de apresentação                                                  | Artur, Eric, Henrique, Thiago, Igor | Artur, Eric, Henrique, Thiago, Igor |                 |                           |                   |
-      |                                                                                    |                                     |                                     |                 |                           |                   |
+      | Atualização: Cronograma                                                            | Eric                                | Henrique                            | 25/01           | 25/01                     | 25/01             |
+      | Gravação do vídeo de apresentação                                                  | Artur, Eric, Henrique, Thiago, Igor | Artur, Eric, Henrique, Thiago, Igor | 25/01           | 25/01                     | 25/01             |
+
 
     ###### Tabela 08 - Atividades executadas na entrega 8. Fonte: Autoria própria
 
@@ -204,26 +209,26 @@ O cronograma executado pode ser visualizado nas **Tabelas de 01 a 09**, e repres
     | -------------------------------------------------------------- | ----------------------------------- | ----------------------------------- | --------------- | ------------------------- | ----------------- |
     | Entrega dos slides e do link da apresentação do Projeto Final. |                                     |                                     |                 |                           |                   |
     | Atualização: Atas de reunião                                   | Henrique                            | Eric, Artur, Igor                   |                 |                           |                   |
-    | Atualização: Cronograma                                        | Eric                                | Henrique                            |                 |                           |                   |
-    | Gravação do vídeo de apresentação                              | Artur, Eric, Henrique, Thiago, Igor | Artur, Eric, Henrique, Thiago, Igor |                 |                           |                   |
+    | Atualização: Cronograma                                        | Eric                                | Henrique                            | 01/02           | 01/02                     | 01/02             |
+    | Gravação do vídeo de apresentação                              | Artur, Eric, Henrique, Thiago, Igor | Artur, Eric, Henrique, Thiago, Igor | 01/02           | 01/02                     | 01/02             |
 
     ###### Tabela 09 - Atividades executadas na entrega 9. Fonte: Autoria própria
 
 
 ## Histórico de versões
 
-|    Data    | Versão |                            Descrição                             |                                            Autor(es)                                             | Revisores    |
-| :--------: | :----: | :--------------------------------------------------------------: | :----------------------------------------------------------------------------------------------: | ------------ |
-| 20/11/2022 |  1.0   |               Criação da página e v0 do cronograma               | [@Eric-chagas](https://github.com/Eric-chagas) <br> [@hgaldino05](https://github.com/hgaldino05) | Igor, Thiago |
-| 21/11/2022 |  1.1   |                Atualização para v1 do cronograma                 |                          [@Eric-chagas](https://github.com/Eric-chagas)                          | Igor, Thiago |
-| 22/11/2022 |  1.2   |         Adição do versionamento do cronograma e legendas         |                          [@Eric-chagas](https://github.com/Eric-chagas)                          | Igor, Thiago |
-| 23/11/2022 |  1.3   |  Adição da v2 do cronograma e tabelas de atividades executadas   |                          [@Eric-chagas](https://github.com/Eric-chagas)                          | Igor, Thiago |
-| 23/11/2022 |  1.4   |  Adição da v3 do cronograma e tabelas de atividades executadas   |                          [@Eric-chagas](https://github.com/Eric-chagas)                          | Igor, Thiago |
-| 07/12/2022 |  1.5   |  Adição da v4 do cronograma e tabelas de atividades executadas   |                          [@Eric-chagas](https://github.com/Eric-chagas)                          | Henrique     |
-| 08/12/2022 |  1.6   |         Atualização no cronograma executado da entrega 2         |                          [@Eric-chagas](https://github.com/Eric-chagas)                          | Henrique     |
-| 12/12/2022 |  1.7   | Atualização no cronograma e do cronograma executado da entrega 3 |                          [@Eric-chagas](https://github.com/Eric-chagas)                          | Henrique     |
-| 14/12/2022 |  1.8   | Atualização no cronograma e do cronograma executado da entrega 4 |                          [@Eric-chagas](https://github.com/Eric-chagas)                          | Henrique     |
-
+|    Data    | Versão |                                    Descrição                                    |                                            Autor(es)                                             | Revisores    |
+| :--------: | :----: | :-----------------------------------------------------------------------------: | :----------------------------------------------------------------------------------------------: | ------------ |
+| 20/11/2022 |  1.0   |                      Criação da página e v0 do cronograma                       | [@Eric-chagas](https://github.com/Eric-chagas) <br> [@hgaldino05](https://github.com/hgaldino05) | Igor, Thiago |
+| 21/11/2022 |  1.1   |                        Atualização para v1 do cronograma                        |                          [@Eric-chagas](https://github.com/Eric-chagas)                          | Igor, Thiago |
+| 22/11/2022 |  1.2   |                Adição do versionamento do cronograma e legendas                 |                          [@Eric-chagas](https://github.com/Eric-chagas)                          | Igor, Thiago |
+| 23/11/2022 |  1.3   |          Adição da v2 do cronograma e tabelas de atividades executadas          |                          [@Eric-chagas](https://github.com/Eric-chagas)                          | Igor, Thiago |
+| 23/11/2022 |  1.4   |          Adição da v3 do cronograma e tabelas de atividades executadas          |                          [@Eric-chagas](https://github.com/Eric-chagas)                          | Igor, Thiago |
+| 07/12/2022 |  1.5   |          Adição da v4 do cronograma e tabelas de atividades executadas          |                          [@Eric-chagas](https://github.com/Eric-chagas)                          | Henrique     |
+| 08/12/2022 |  1.6   |                Atualização no cronograma executado da entrega 2                 |                          [@Eric-chagas](https://github.com/Eric-chagas)                          | Henrique     |
+| 12/12/2022 |  1.7   |        Atualização no cronograma e do cronograma executado da entrega 3         |                          [@Eric-chagas](https://github.com/Eric-chagas)                          | Henrique     |
+| 14/12/2022 |  1.8   |        Atualização no cronograma e do cronograma executado da entrega 4         |                          [@Eric-chagas](https://github.com/Eric-chagas)                          | Henrique     |
+| 14/12/2022 |  1.9   | Atualização para roadmap v7 e melhorias no cronograma e no cronograma executado |                          [@Eric-chagas](https://github.com/Eric-chagas)                          | Henrique     |
 
 
 ###### Tabela 10 - Histórico de versões. Fonte: Autoria própria
