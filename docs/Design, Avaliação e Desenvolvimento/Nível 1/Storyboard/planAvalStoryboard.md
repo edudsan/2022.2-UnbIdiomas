@@ -47,7 +47,7 @@ A avaliação contará com as seguintes perguntas:
 - BARBOSA, Simone; SANTANA, Bruno. Interação Humano-Computador, Editora Elsevier, Rio de Janeiro, 2010.
 
 ## Histórico de versões
-|    Data    | Versão |                                       Descrição                                       |        Autor(es)        |         Revisor(es)         |
-| :--------: | :----: | :-----------------------------------------------------------------------------------: | :---------------------: | :---------------------: |
-| 13/12/2022 |  1.0   |  Criação da página, divisão de seções e criação das seções 1, 2, 3, 4 e 6   |   Henrique Galdino Couto    | Artur,Eric, Igor, Thiago |
-| 14/12/2022 |  1.1   |  Adição da aba 5 - Avaliação  |   Henrique Galdino Couto    | Artur,Eric, Igor, Thiago |
+|    Data    | Versão |                                Descrição                                 |       Autor(es)        |     Revisor(es)     |
+| :--------: | :----: | :----------------------------------------------------------------------: | :--------------------: | :-----------------: |
+| 13/12/2022 |  1.0   | Criação da página, divisão de seções e criação das seções 1, 2, 3, 4 e 6 | Henrique Galdino Couto | Artur, Igor, Thiago |
+| 14/12/2022 |  1.1   |                       Adição da aba 5 - Avaliação                        | Henrique Galdino Couto | Artur, Igor, Thiago |

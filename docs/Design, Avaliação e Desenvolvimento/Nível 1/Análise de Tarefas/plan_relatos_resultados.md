@@ -77,6 +77,6 @@ Os avaliadores devem relatar os resultados consolidados, normalmente através de
 > Barbosa, S. D. J.; Silva, B. S. da; Silveira, M. S.; Gasparini, I.; Darin, T.; Barbosa, G. D. J. Interação Humano-Computador e Experiência do usuário. Autopublicação. 2021
 
 ## Histórico de versões
-|    Data    | Versão |               Descrição                | Autor(es) | Revisor |
-| :--------: | :----: | :------------------------------------: | :-------: | :-----: |
-| 13/12/2022 |  1.0   | Criação da página e adição do conteúdo |   Artur Seppa Reiman    | Henrique e Eric  |
+|    Data    | Versão |               Descrição                |     Autor(es)      |     Revisor     |
+| :--------: | :----: | :------------------------------------: | :----------------: | :-------------: |
+| 13/12/2022 |  1.0   | Criação da página e adição do conteúdo | Artur Seppa Reiman | Henrique e Eric |

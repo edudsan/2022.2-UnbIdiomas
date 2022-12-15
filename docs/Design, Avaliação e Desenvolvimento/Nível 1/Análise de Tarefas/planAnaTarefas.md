@@ -102,8 +102,8 @@ De forma a finalizar esse processo, será feito um relatório com os resultados 
 
 ## Histórico de versão
 
-| Versão | Data       | Descrição                   | Autor(es)   | Revisor                             |
-| ------ | ---------- | --------------------------- | ----------- | ----------------------------------- |
-| 1.0    | 14/12/2022 | Adição da página e conteúdo | Igor Silva de Paiva | Henrique Galdino Couto, Eric Chagas de Oliveira |                        |
-| 1.1    | 14/12/2022 | Adição da Preparação e hiperlink | Thiago Cerqueira Borges | Henrique Galdino Couto, Eric Chagas de Oliveira |                        |
+| Versão | Data       | Descrição                        | Autor(es)               | Revisor                                         |
+| ------ | ---------- | -------------------------------- | ----------------------- | ----------------------------------------------- |
+| 1.0    | 14/12/2022 | Adição da página e conteúdo      | Igor Silva de Paiva     | Henrique Galdino Couto, Eric Chagas de Oliveira |                        
+| 1.1    | 14/12/2022 | Adição da Preparação e hiperlink | Thiago Cerqueira Borges | Henrique Galdino Couto, Eric Chagas de Oliveira |                        
 
