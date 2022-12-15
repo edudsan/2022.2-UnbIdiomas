@@ -148,53 +148,64 @@ O cronograma executado pode ser visualizado nas **Tabelas de 01 a 09**, e repres
 
 === "E5"
           
-      | **Tarefa**                                                                                 | **Responsáveis** | **Revisores** | **Iniciado em** | **Finalizado em** |
-      | ------------------------------------------------------------------------------------------ | ---------------- | ------------- | --------------- | ----------------- |
-      | Apresentação do Relato dos resultados da  avaliação do Storyboard e da Análise de  tarefas |                  |               |                 |                   |
-      | Protótipo de Papel                                                                         |                  |               |                 |                   |
-      | Planejamento da avaliação e do relato dos resultados.                                      |                  |               |                 |                   |
-      | Gravação do vídeo de apresentação                                                          |                  |               |                 |                   |
+      | **Tarefa**                                                                                 | **Responsáveis**                    | **Revisores**                       | **Iniciado em** | **Data final de revisão** | **Finalizado em** |
+      | ------------------------------------------------------------------------------------------ | ----------------------------------- | ----------------------------------- | --------------- | ------------------------- | ----------------- |
+      | Apresentação do Relato dos resultados da  avaliação do Storyboard e da Análise de  tarefas |                                     |                                     |                 |                           |                   |
+      | Protótipo de Papel                                                                         |                                     |                                     |                 |                           |                   |
+      | Planejamento da avaliação e do relato dos resultados.                                      |                                     |                                     |                 |                           |                   |
+      | Atualização: Atas de reunião                                                               | Henrique                            | Eric, Artur, Igor                   |                 |                           |                   |
+      | Atualização: Cronograma                                                                    | Eric                                | Henrique                            |                 |                           |                   |
+      | Gravação do vídeo de apresentação                                                          | Artur, Eric, Henrique, Thiago, Igor | Artur, Eric, Henrique, Thiago, Igor |                 |                           |                   |
 
     ###### Tabela 05 - Atividades executadas na entrega 5. Fonte: Autoria própria
 
 
 === "E6"
           
-      | **Tarefa**                                                                                        | **Responsáveis** | **Revisores** | **Iniciado em** | **Finalizado em** |
-      | ------------------------------------------------------------------------------------------------- | ---------------- | ------------- | --------------- | ----------------- |
-      | Apresentação do Relato dos resultados da avaliação do protótipo de baixa fidelidade               |                  |               |                 |                   |
-      | Planejamento da Avaliação e do relato dos resultados da avaliação do protótipo de alta fidelidade |                  |               |                 |                   |
-      | Gravação do vídeo de apresentação                                                                 |                  |               |                 |                   |
+      | **Tarefa**                                                                                        | **Responsáveis** | **Revisores**     | **Iniciado em** | **Data final de revisão** | **Finalizado em** |
+      | ------------------------------------------------------------------------------------------------- | ---------------- | ----------------- | --------------- | ------------------------- | ----------------- |
+      | Apresentação do Relato dos resultados da avaliação do protótipo de baixa fidelidade               |                  |                   |                 |                           |                   |
+      | Planejamento da Avaliação e do relato dos resultados da avaliação do protótipo de alta fidelidade |                  |                   |                 |                           |                   |
+      | Atualização: Atas de reunião                                                                      | Henrique         | Eric, Artur, Igor |                 |                           |                   |
+      | Atualização: Cronograma                                                                           | Eric             | Henrique          |                 |                           |                   |
+      | Gravação do vídeo de apresentação                                                                 |    Artur, Eric, Henrique, Thiago, Igor              |    Artur, Eric, Henrique, Thiago, Igor               |                 |                           |                   |
 
     ###### Tabela 06 - Atividades executadas na entrega 6. Fonte: Autoria própria
 
 
 === "E7"
           
-      | **Tarefa**                                | **Responsáveis** | **Revisores** | **Iniciado em** | **Finalizado em** |
-      | ----------------------------------------- | ---------------- | ------------- | --------------- | ----------------- |
-      | Apresentação da Verificação dos artefatos |                  |               |                 |                   |
-      | Gravação do vídeo de apresentação         |                  |               |                 |                   |
+      | **Tarefa**                                | **Responsáveis** | **Revisores**     | **Iniciado em** | **Data final de revisão** | **Finalizado em** |
+      | ----------------------------------------- | ---------------- | ----------------- | --------------- | ------------------------- | ----------------- |
+      | Apresentação da Verificação dos artefatos |                  |                   |                 |                           |                   |
+      | Atualização: Atas de reunião              | Henrique         | Eric, Artur, Igor |                 |                           |                   |
+      | Atualização: Cronograma                   | Eric             | Henrique          |                 |                           |                   |
+      | Gravação do vídeo de apresentação         |         Artur, Eric, Henrique, Thiago, Igor         |   Artur, Eric, Henrique, Thiago, Igor                |                 |                           |                   |
 
     ###### Tabela 07 - Atividades executadas na entrega 7. Fonte: Autoria própria
 
 
 === "E8"
           
-      | **Tarefa**                                                                         | **Responsáveis** | **Revisores** | **Iniciado em** | **Finalizado em** |
-      | ---------------------------------------------------------------------------------- | ---------------- | ------------- | --------------- | ----------------- |
-      | Apresentação do Relato dos resultados da avaliação do protótipo de alta fidelidade |                  |               |                 |                   |
-      | Gravação do vídeo de apresentação                                                  |                  |               |                 |                   |
+      | **Tarefa**                                                                         | **Responsáveis**                    | **Revisores**                       | **Iniciado em** | **Data final de revisão** | **Finalizado em** |
+      | ---------------------------------------------------------------------------------- | ----------------------------------- | ----------------------------------- | --------------- | ------------------------- | ----------------- |
+      | Apresentação do Relato dos resultados da avaliação do protótipo de alta fidelidade |                                     |                                     |                 |                           |                   |
+      | Atualização: Atas de reunião                                                       | Henrique                            | Eric, Artur, Igor                   |                 |                           |                   |
+      | Atualização: Cronograma                                                            | Eric                                | Henrique                            |                 |                           |                   |
+      | Gravação do vídeo de apresentação                                                  | Artur, Eric, Henrique, Thiago, Igor | Artur, Eric, Henrique, Thiago, Igor |                 |                           |                   |
+      |                                                                                    |                                     |                                     |                 |                           |                   |
 
     ###### Tabela 08 - Atividades executadas na entrega 8. Fonte: Autoria própria
 
 
 === "E9"
         
-    | **Tarefa**                                                     | **Responsáveis** | **Revisores** | **Iniciado em** | **Finalizado em** |
-    | -------------------------------------------------------------- | ---------------- | ------------- | --------------- | ----------------- |
-    | Entrega dos slides e do link da apresentação do Projeto Final. |                  |               |                 |                   |
-    | Gravação do vídeo de apresentação                              |                  |               |                 |                   |
+    | **Tarefa**                                                     | **Responsáveis**                    | **Revisores**                       | **Iniciado em** | **Data final de revisão** | **Finalizado em** |
+    | -------------------------------------------------------------- | ----------------------------------- | ----------------------------------- | --------------- | ------------------------- | ----------------- |
+    | Entrega dos slides e do link da apresentação do Projeto Final. |                                     |                                     |                 |                           |                   |
+    | Atualização: Atas de reunião                                   | Henrique                            | Eric, Artur, Igor                   |                 |                           |                   |
+    | Atualização: Cronograma                                        | Eric                                | Henrique                            |                 |                           |                   |
+    | Gravação do vídeo de apresentação                              | Artur, Eric, Henrique, Thiago, Igor | Artur, Eric, Henrique, Thiago, Igor |                 |                           |                   |
 
     ###### Tabela 09 - Atividades executadas na entrega 9. Fonte: Autoria própria
 

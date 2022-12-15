@@ -35,13 +35,13 @@ A documentação dos resultados consistirá na apresentação dos seguintes elem
 Com base na análise da (Seção 3.1), as ferramentas escolhidas para demonstração das informações obtidas com a avaliação do storyboard são:
 
 - Gráficos com estatísticas e legenda descritiva
-  - Sobre a satisfação geral dos usuários com o storyboard
-  - Sobre a proximidade das funcionalidades apresentadas no storyboard com a experiência real dos usuários
-  - Sobre o percentual de identificação dos usuários com os pontos apresentados no storyboard
+    - Sobre a satisfação geral dos usuários com o storyboard
+    - Sobre a proximidade das funcionalidades apresentadas no storyboard com a experiência real dos usuários
+    - Sobre o percentual de identificação dos usuários com os pontos apresentados no storyboard
 - Descrição textual
-  - Sobre os pontos que os usuários sentiram falta no storyboard, e que podem ser considerados para as próximas etapas do processo de Design
-  - Sobre Pontos de melhoria no próprio artefato storyboard, como dificuldades na compreensão, ambiguidades ou pontos pontos desnecessários incluídos 
-  - Por fim, um resumo da experiência geral da avaliação do storyboard na visão da equipe 
+    - Sobre os pontos que os usuários sentiram falta no storyboard, e que podem ser considerados para as próximas etapas do processo de Design
+    - Sobre Pontos de melhoria no próprio artefato storyboard, como dificuldades na compreensão, ambiguidades ou pontos pontos desnecessários incluídos 
+    - Por fim, um resumo da experiência geral da avaliação do storyboard na visão da equipe 
 
 ### 4. Conclusão
 
