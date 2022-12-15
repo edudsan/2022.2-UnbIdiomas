@@ -15,15 +15,21 @@ O cronograma em formato roadmap, mostrado na **Figura 01**, foi desenvolvido com
 
 #### É Possível dar zoom no Cronograma mostrado no (Arquivo 01) para visualizar cada uma das atividades com mais detalhes
 
+=== "V6"
+  
+      <iframe width="100%" height="600" src="../../assets/pdf/roadmapv6.pdf"/>
+    ###### Arquivo 01 - Cronograma do projeto. Fonte: Autoria própria.
+
+
 === "V5"
   
       <iframe width="100%" height="600" src="../../assets/pdf/roadmapv5.pdf"/>
-    ###### Arquivo 01 - Cronograma do projeto. Fonte: Autoria própria.
+    ###### Arquivo 02 - Cronograma do projeto v5. Fonte: Autoria própria.
 
 === "V4"
   
       <iframe width="100%" height="600" src="../../assets/pdf/roadmapv4.pdf"/>
-    ###### Arquivo 02 - Cronograma do projeto v4. Fonte: Autoria própria.
+    ###### Arquivo 03 - Cronograma do projeto v4. Fonte: Autoria própria.
 
 === "V3"
     
@@ -60,7 +66,11 @@ O cronograma executado pode ser visualizado nas **Tabelas de 01 a 09**, e repres
 
 !!! info "Observações"
 
-    - É possível navegar pelas entregas descritas no cronograma por meio das abas disponíveis acima da tabela.
+    - É possível navegar pelas entregas descritas no cronograma por meio das abas disponíveis acima da tabela. 
+    - A nomenclatura das abas segue o seguinte formato:
+        - **E1** para a **Entrega 1**
+        - **E2** para a **Entrega 2**
+        - Assim em diante até a **E9** (Entrega 9) 
     
     Desenvolvido por: Eric Chagas de Oliveira
 
@@ -123,11 +133,15 @@ O cronograma executado pode ser visualizado nas **Tabelas de 01 a 09**, e repres
 
 === "E4"
           
-      | **Tarefa**                                                             | **Responsáveis** | **Revisores** | **Iniciado em** | **Finalizado em** |
-      | ---------------------------------------------------------------------- | ---------------- | ------------- | --------------- | ----------------- |
-      | Apresentação do Planejamento da  Avaliação                             |                  |               |                 |                   |
-      | Relato dos resultados da avaliação do Storyboard e Análise de tarefas. |                  |               |                 |                   |
-      | Gravação do vídeo de apresentação                                      |                  |               |                 |                   |
+      | **Tarefa**                                                               | **Responsáveis**                    | **Revisores**                       | **Iniciado em** | **Data final de revisão** | **Finalizado em** |
+      | ------------------------------------------------------------------------ | ----------------------------------- | ----------------------------------- | --------------- | ------------------------- | ----------------- |
+      | Planejamento da Avaliação da Análise de Tarefas                          | Igor, Thiago                        | Eric, Henrique                      | 12/12           | 13/12                     | 14/12             |
+      | Planejamento da Avaliação do Storyboard                                  | Henrique                            | Thiago, Igor, Artur                 | 12/12           | 13/12                     | 14/12             |
+      | Planejamento do Relato dos resultados da avaliação da Análise de tarefas | Artur                               | Eric, Henrique                      | 12/12           | 13/12                     | 14/12             |
+      | Planejamento do Relato dos resultados da avaliação do Storyboard         | Eric                                | Thiago, Igor, Artur                 | 12/12           | 13/12                     | 14/12             |
+      | Atualização: Cronograma                                                  | Eric                                | Henrique                            | 14/12           | 14/12                     | 14/12             |
+      | Gravação do vídeo de apresentação                                        | Artur, Eric, Henrique, Thiago, Igor | Artur, Eric, Henrique, Thiago, Igor | 14/12           | 14/12                     | 14/12             |
+
 
     ###### Tabela 04 - Atividades executadas na entrega 4. Fonte: Autoria própria
 
@@ -197,6 +211,8 @@ O cronograma executado pode ser visualizado nas **Tabelas de 01 a 09**, e repres
 | 07/12/2022 |  1.5   |  Adição da v4 do cronograma e tabelas de atividades executadas   |                          [@Eric-chagas](https://github.com/Eric-chagas)                          | Henrique     |
 | 08/12/2022 |  1.6   |         Atualização no cronograma executado da entrega 2         |                          [@Eric-chagas](https://github.com/Eric-chagas)                          | Henrique     |
 | 12/12/2022 |  1.7   | Atualização no cronograma e do cronograma executado da entrega 3 |                          [@Eric-chagas](https://github.com/Eric-chagas)                          | Henrique     |
+| 14/12/2022 |  1.8   | Atualização no cronograma e do cronograma executado da entrega 4 |                          [@Eric-chagas](https://github.com/Eric-chagas)                          | Henrique     |
+
 
 
 ###### Tabela 10 - Histórico de versões. Fonte: Autoria própria
