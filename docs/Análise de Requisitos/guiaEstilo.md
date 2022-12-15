@@ -188,9 +188,9 @@ O site apresenta diversas telas nas quais o usuário executa tarefas comuns:
 ## Histórico de versões
 |    Data    | Versão |                                       Descrição                                       |        Autor(es)        |         Revisor(es)         |
 | :--------: | :----: | :-----------------------------------------------------------------------------------: | :---------------------: | :---------------------: |
-| 9/12/2022 |  1.0   |                   Criação da página da entrega 3                           |   Henrique Galdino Couto    | Artur, Eric,  Igor, Pedro, Thiago |
-| 12/12/2022 |  1.1   |                                 Elaboração da Introdução, Elementos da Interface e Elementos de ação                            |   Artur Seppa Reiman    | Henrique, Eric,  Igor, Pedro, Thiago |
-| 12/12/2022 |  1.2   |                                 Elaboração dos Resultados de Análise, Elementos de Interação e Vocabulários e padrões                            |   Henrique Galdino Reiman    | Artur, Eric,  Igor, Pedro, Thiago |
+| 9/12/2022 |  1.0   |                   Criação da página da entrega 3                           |   Henrique Galdino Couto    | Artur, Eric,  Igor, Thiago |
+| 12/12/2022 |  1.1   |                                 Elaboração da Introdução, Elementos da Interface e Elementos de ação                            |   Artur Seppa Reiman    | Henrique, Eric,  Igor, Thiago |
+| 12/12/2022 |  1.2   |                                 Elaboração dos Resultados de Análise, Elementos de Interação e Vocabulários e padrões                            |   Henrique Galdino Reiman    | Artur, Eric,  Igor, Thiago |
 
 
 

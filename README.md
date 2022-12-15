@@ -8,5 +8,4 @@ Esse projeto propõe a utilização das técnicas e recursos de IHC para propor 
 |<img src="assets/img/team/EricProfPic.jpg" width="200"/>|Eric Chagas de Oliveira|[@Eric-chagas](https://github.com/Eric-chagas)
 |<img src="assets/img/team/HenriqueGaldinoProfPic.jpg" width="200"/>|Henrique Galdino Couto|[@hgaldino05](https://github.com/hgaldino05)
 |<img src="assets/img/team/IgorSilvaProfPic.jpeg" width="200"/>|Igor Silva de Paiva|[@IgorSPaiva](https://github.com/IgorSPaiva)
-|----|Pedro Menezes Rodiguero|[@pedro-rodiguero](https://github.com/pedro-rodiguero)
 |<img src="assets/img/team/ThiagoProfPic.jpg" width="200"/>|Thiago Cerqueira Borges|[@Thiago-Cerq](https://github.com/Thiago-Cerq)
