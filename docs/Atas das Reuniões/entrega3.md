@@ -1,4 +1,4 @@
-# Entrega 3
+# Entrega 3 - Reunião 1
 
 Para esta entrega foi realizada apenas uma reunião, cuja ata pode ser vista abaixo.
 
