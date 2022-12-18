@@ -194,4 +194,4 @@ O site apresenta diversas telas nas quais o usuário executa tarefas comuns:
 
 
 
-###### Tabela ? - Histórico de versões. Fonte: Autoria própria
+###### Tabela 1 - Histórico de versões. Fonte: Autoria própria
