@@ -25,12 +25,14 @@ Antes da avaliação, é de extrema importância que os avaliadores garantam que
  A avaliação será feita através de uma entrevista, no formato de formulário.
 
 #### 5.1 Questões práticas da avaliação
-Para a avaliação, será utilizado um formulário, cujo link será passado em grupos onde possam ter usuários do UnB Idiomas, e será cogitada a utilização de 3 a 12 voluntários, podendo ser mais dependendo da qualidade dos dados obtidos. 
-
-O prazo para a realização da avaliação é de uma semana, entre os dias 14/12 e 21/12, e não precisará de orçamento, somente que o participante abra o link e realize o mesmo.
+- Para a avaliação, será utilizado um formulário, cujo link será passado em grupos onde possam ter usuários do UnB Idiomas, e será cogitada a utilização de 3 a 12 voluntários, podendo ser mais dependendo da qualidade dos dados obtidos. 
+- Antes da liberação do formulário, os avaliadores testarão a funcionalidade do mesmo através de um *teste-piloto*, garantindo que não haja erros e minimizando a chance de imprevistos que possam atrapalhar os participantes.
+- *Teste-piloto* é um teste preliminar, realizado para avaliar aspectos de seu funcionamento e corrigir eventuais falhas antes de sua realização definitiva.
+- O prazo para a realização da avaliação é de uma semana, entre os dias 14/12 e 21/12, e não precisará de orçamento, somente que o participante abra o link e realize o mesmo.
 
 #### 5.2 Questões éticas da avaliação
-O participante poderá sair do formulário a qualquer momento, respeitando a sua livre vontade. Ele também será informado sobre como os dados coletados serão tratados no início do questionário, permitindo que ele escolha participar ou não da pesquisa.
+- O participante poderá sair do formulário a qualquer momento, respeitando a sua livre vontade. Ele também será informado sobre como os dados coletados serão tratados no início do questionário, permitindo que ele escolha participar ou não da pesquisa.
+- Caso um participante desista da avaliação, ele poderá fechar o formulário a qualquer momento, sem a necessidade de completá-lo. Desta forma, as respostas que haviam sido preenchidas serão *desconsideradas*.
 
 #### 5.3 Perguntas presentes na avaliação
 A avaliação contará com as seguintes perguntas:
@@ -43,6 +45,13 @@ A avaliação contará com as seguintes perguntas:
 - *Quais pontos do storyboard podem ser melhorados?*
 - *Gostaria de sugerir alguma mudança/melhoria??*
 
+#### 5.4 Perguntas que a avaliação irá responder
+ Após a avaliação, espera-se que os dados coletados ajudem a responder as seguintes perguntas:
+ - *Os usuários conseguem utilizar o site normalmente?*
+ - *Qual parte o usuário mais sente dificuldades ao utilizar?*
+ - *Qual parte o usuário menos sente dificuldades ao utilizar?*
+ - *Quais problemas se manifestaram durante a utilzação do site?*
+ - *Como o usuário se sente em relação aos arquivos .pdf presentes no site? (Se incomodam o usuário, se o dispositivo necessita fazer download do arquivo e como o usuário gostaria de acessar as informações presentes no arquivo)*
 ## 6.Referências
 - BARBOSA, Simone; SANTANA, Bruno. Interação Humano-Computador, Editora Elsevier, Rio de Janeiro, 2010.
 
@@ -51,3 +60,4 @@ A avaliação contará com as seguintes perguntas:
 | :--------: | :----: | :----------------------------------------------------------------------: | :--------------------: | :-----------------: |
 | 13/12/2022 |  1.0   | Criação da página, divisão de seções e criação das seções 1, 2, 3, 4 e 6 | Henrique Galdino Couto | Artur, Igor, Thiago |
 | 14/12/2022 |  1.1   |                       Adição da aba 5 - Avaliação                        | Henrique Galdino Couto | Artur, Igor, Thiago |
+| 14/12/2022 |  1.2   |                      Melhorias na página seguindo o feedback  recebido  | Henrique Galdino Couto | Artur, Igor, Thiago |
