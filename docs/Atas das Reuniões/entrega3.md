@@ -30,7 +30,7 @@ Reunião realizada no dia 08/12/2022, teve início às 20h45min e foi finalizada
 | Princípios Gerais de Projeto | Pedro, Thiago | Artur, Henrique |
 | Metas de Usabilidade | Igor, Eric | Pedro, Thiago |
 | Guia de estilo | Artur, Henrique | Igor, Eric |
-###### Tabela 2 - Tabela de tarefas relacionadas a segunda entrega. Fonte: Autoria própria
+###### Tabela 2 - Tabela de tarefas relacionadas a terceira entrega. Fonte: Autoria própria
 
 ### Gravação
 
@@ -40,7 +40,7 @@ A gravação desta reunião pode ser acessada através deste [link](https://yout
 ## Histórico de versões
 |    Data    | Versão |                                       Descrição                                       |        Autor(es)        |         Revisor(es)         |
 | :--------: | :----: | :-----------------------------------------------------------------------------------: | :---------------------: | :---------------------: |
-| 8/12/2022 |  1.0   |                            Criação da página da entrega 3                         |   Henrique Galdino Couto    | Eric, Artur, Igor |
+| 8/12/2022 |  1.0   |                            Criação da página da entrega 3                         | Henrique | Eric, Artur, Igor |
 
 
 

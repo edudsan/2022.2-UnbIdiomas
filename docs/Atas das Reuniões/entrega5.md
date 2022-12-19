@@ -1,11 +1,10 @@
-# Entrega 4 - Reunião
+# Entrega 5 - Reunião 1
 
 Para esta entrega foi realizada apenas uma reunião, cuja ata pode ser vista abaixo.
 
-Reunião realizada no dia 13/12/2022, teve início às 9h37min e foi finalizada às 9h52min.
+Reunião realizada no dia 19/12/2022, teve início às 19h34min e foi finalizada às 20h19min.
 ### Membros presentes na reunião:
 - ##### Artur Seppa
-- ##### Eric Chagas
 - ##### Henrique Galdino
 - ##### Igor Silva
 - ##### Thiago Cerqueira
@@ -16,12 +15,11 @@ Reunião realizada no dia 13/12/2022, teve início às 9h37min e foi finalizada 
 
 | Tarefa | Responsável(is) | Revisor(es) |
 | ---- | ---- |------------------------ |
-| Planejamento da avaliação da Análise de Tarefas | Igor, Thiago | Artur, Eric, Henrique |
-| Planejamento do relato de resultados da avaliação da Análise de Tarefas | Artur | Eric, Henrique, Igor, Thiago |
-| Planejamento da avaliação do storyboard | Henrique | Artur, Eric, Igor, Thiago |
-| Planejamento do relato de resultados da avaliação do storyboard | Eric | Artur, Henrique, Igor, Thiago |
+| Planejamento do Protótipo de Papel | Artur, Eric | Thiago |
+| Planejamento da avaliação e relato dos resultados do Protótipo de Papel | Henrique, Igor | Artur, Eric |
+| Apresentação do Relato dos resultados da avaliação do Storyboard e da Análise de Tarefas| Thiago | Henrique, Igor |
 
-###### Tabela 1 - Tabela de tarefas relacionadas a quarta entrega. Fonte: Autoria própria
+###### Tabela 1 - Tabela de tarefas relacionadas a segunda entrega. Fonte: Autoria própria
 
 ### Gravação
 
@@ -31,7 +29,7 @@ A reunião não foi gravada, pois foi realizada depois da aula do dia 13/12.
 ## Histórico de versões
 |    Data    | Versão |                                       Descrição                                       |        Autor(es)        |         Revisor(es)         |
 | :--------: | :----: | :-----------------------------------------------------------------------------------: | :---------------------: | :---------------------: |
-| 13/12/2022 |  1.0   |                            Criação da página da entrega 4                         | Henrique | Artur, Eric, Igor, Tiago |
+| 19/12/2022 |  1.0   |                            Criação da página da entrega 5                        | Henrique | Artur, Eric, Igor, Tiago |
 
 
 
