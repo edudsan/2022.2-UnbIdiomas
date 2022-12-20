@@ -11,7 +11,7 @@ Reunião realizada no dia 19/12/2022, teve início às 19h34min e foi finalizada
 
 ### Resumo
 
-- Nessa reunião, foram divididas as tarefas a serem realizadas para a quarta entrega do projeto, conforme mostra a tabela abaixo:
+- Nessa reunião, foram divididas as tarefas a serem realizadas para a quinta entrega do projeto, conforme mostra a tabela abaixo:
 
 | Tarefa | Responsável(is) | Revisor(es) |
 | ---- | ---- |------------------------ |
@@ -21,9 +21,10 @@ Reunião realizada no dia 19/12/2022, teve início às 19h34min e foi finalizada
 
 ###### Tabela 1 - Tabela de tarefas relacionadas a segunda entrega. Fonte: Autoria própria
 
+- Também foram discutidas os modos como as tarefas desta entrega serão realizadas, com algumas dúvidas a serem sanadas na aula do dia 20/12 juntamente ao professor André.
 ### Gravação
 
-A reunião não foi gravada, pois foi realizada depois da aula do dia 13/12.
+A reunião pode ser acessada através deste [link](https://youtu.be/1QDIcklMkjs).
 
 
 ## Histórico de versões
