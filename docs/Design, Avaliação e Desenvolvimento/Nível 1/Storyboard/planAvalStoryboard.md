@@ -68,4 +68,4 @@ A avaliação contará com as seguintes perguntas:
 | :--------: | :----: | :----------------------------------------------------------------------: | :--------------------: | :-----------------: |
 | 13/12/2022 |  1.0   | Criação da página, divisão de seções e criação das seções 1, 2, 3, 4 e 6 | Henrique Galdino Couto | Artur, Igor, Thiago |
 | 14/12/2022 |  1.1   |                       Adição da aba 5 - Avaliação                        | Henrique Galdino Couto | Artur, Igor, Thiago |
-| 14/12/2022 |  1.2   |                      Melhorias na página seguindo o feedback  recebido  | Henrique Galdino Couto | Artur, Igor, Thiago |
+| 18/12/2022 |  1.2   |                      Melhorias na página seguindo o feedback  recebido  | Henrique Galdino Couto | Artur, Igor, Thiago |
