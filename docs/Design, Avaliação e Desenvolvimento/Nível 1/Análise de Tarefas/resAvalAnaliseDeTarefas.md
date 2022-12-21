@@ -30,8 +30,6 @@ correta? <br>
 <p>2° Pergunta: O usuário vai notar que a ação correta está disponível? <br>
 <p>3° Pergunta: O usuário vai associar a ação correta com o efeito que está tentando? <br>
 atingir?
-</p>
-
 
 ### Tarefa 1: Visualizar informações sobre um curso
 
