@@ -42,6 +42,7 @@ Feito este levantamento, os participantes que se encaixavam no perfil procurado 
 *Figura 3 - gráfico sobre a pergunta 3 da avaliação (FONTE: autoria própria)*
 
 Também foram feitas perguntas subjetivas sobre o Storyboard 1 aos participantes, cujas respostas podem ser vistas abaixo:
+
 - #####  *Caso ache necessário, justifique sua resposta.*
 - #####  *A tabela de valores é apresentada no formato .pdf, e é necessário efetuar o download da mesma em alguns dispositivos. Você já teve essa experiência? Caso sim, opine brevemente sobre ela.*
 
@@ -64,6 +65,7 @@ Também foram feitas perguntas subjetivas sobre o Storyboard 1 aos participantes
 *Figura 6 - gráfico sobre a pergunta 7 da avaliação (FONTE: autoria própria)*
 
 Também foi feita uma pergunta subjetiva sobre o Storyboard 2 aos participantes, cuja resposta pode ser vista abaixo:
+
 - #####  *Caso ache necessário, justifique sua resposta.*
 
 <img src="https://raw.githubusercontent.com/Interacao-Humano-Computador/2022.2-UnbIdiomas/main/docs/assets/img/storyboards/SubjetivasStoryboard2.png" > 
@@ -84,6 +86,7 @@ Também foi feita uma pergunta subjetiva sobre o Storyboard 2 aos participantes,
 *Figura 9 - gráfico sobre a pergunta 10 da avaliação (FONTE: autoria própria)*
 
 Também foi feita uma pergunta subjetiva sobre o Storyboard 2 aos participantes, cuja resposta pode ser vista abaixo:
+
 - #####  *Caso ache necessário, justifique sua resposta.*
 
 <img src="https://raw.githubusercontent.com/Interacao-Humano-Computador/2022.2-UnbIdiomas/main/docs/assets/img/storyboards/SubjetivasStoryboard3.png" > 
