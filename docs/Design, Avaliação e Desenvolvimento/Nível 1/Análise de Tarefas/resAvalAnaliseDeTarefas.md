@@ -25,10 +25,10 @@ Serão definidas as personas que serão utilizadas em cada avaliação, quais ta
 avaliador simula, na interface, a execução das tarefas que fazem parte do escopo de avaliação. Para cada tarefa, o avaliador examina cada passo, analisando se e por que um usuário com o perfil especificado escolheria a ação “correta” ou perceberia que o efeito correto foi alcançado. Para a avaliação de cada passo, o avaliador responde as seguintes perguntas:
 
 <p>
-<b>1° Pergunta</b>: O usuário vai tentar atingir o efeito correto? (Vai formular a intenção
+1° Pergunta: O usuário vai tentar atingir o efeito correto? (Vai formular a intenção
 correta? <br>
-<p> <b>2° Pergunta</b>: O usuário vai notar que a ação correta está disponível? <br>
-<p> <b>3° Pergunta</b>: O usuário vai associar a ação correta com o efeito que está tentando? <br>
+<p>2° Pergunta: O usuário vai notar que a ação correta está disponível? <br>
+<p>3° Pergunta: O usuário vai associar a ação correta com o efeito que está tentando? <br>
 atingir?
 </p>
 
