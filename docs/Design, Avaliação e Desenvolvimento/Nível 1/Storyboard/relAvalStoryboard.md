@@ -133,6 +133,12 @@ Também foram feitas perguntas sobre os sentimentos e opiniões dos entrevistado
 
 *Figura 16 - gráfico sobre a pergunta 17 da avaliação (FONTE: autoria própria)*
 
+## 4.Conclusão
+- Após analisar os dados coletados através do formulário, conclui-se que os usuários apresentam diferentes opiniões sobre os diversos pontos do site, o que pode ser visto como uma falha de organização geral no que diz respeito ao design, uma vez que existem críticas similares para diferentes pontos. Alguns dos objetivos dos usuários são afetados por problemas na navegação ou na organização em si, fazendo com que esses sejam pontos a serem tratados em um redesign da interface do site da UnB Idiomas.
+- Outro ponto ao qual chegou-se a uma conclusão foi sobre os sentimentos dos usuários em relação aos arquivos *.pdf* presentes no site. A maioria dos usuários não se sente confortável com o atual formato e acredita que ele deveria passar por mudança.
+
+## Histórico de Versões
+
 |    Data    | Versão |                                Descrição                                 |       Autor(es)        |     Revisor(es)     |
 | :--------: | :----: | :----------------------------------------------------------------------: | :--------------------: | :-----------------: |
 | 20/12/2022 |  1.1   | Adição dos conteúdos da página | Henrique Galdino Couto | Igor Silva |
