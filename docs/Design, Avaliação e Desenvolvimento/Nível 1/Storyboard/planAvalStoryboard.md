@@ -36,30 +36,36 @@ Antes da avaliação, é de extrema importância que os avaliadores garantam que
 
 #### 5.3 Perguntas presentes na avaliação
 A avaliação contará com as seguintes perguntas:
+
 ##### 5.3.1 Experiência
 - *Em uma escala de 1 (muito diferente) a 5 (muito parecido), avalie o quão próximo o cenário apresentado no storyboard se assimila à sua experiência como usuário.*
 - *Já teve alguma experiência no site UnB Idiomas que se assimilou a algum dos cenários mostrados nos storyboards 1,2 e 3?*
 - *Quais pontos mostrados no storyboard você mais se identificou?*
 - *Quais pontos que você já experienciou durante o uso do site que não foi capaz de identificar no storyboard? Caso ache necessário, liste-os.*
+
 ##### 5.3.2 Análise das áreas apresentadas nos storyboards
 - *A tabela de valores é apresentada no formato .pdf, e é necessário efetuar o download da mesma em alguns dispositivos. Você já teve essa experiência? Caso sim, opine brevemente sobre ela.*
 - *Você acha que o formato atual (.pdf) em que a tabela de valores é apresentada no site  é agradável?*
 - *Você acha que o formato atual em que a lista de contatos é apresentada no site  é agradável?*
 - *Você acha que o formato atual em que as informações de um curso são apresentadas no site  é agradável?*
+
 ##### 5.3.3 Sugestões de melhoria
 - *Quais pontos do storyboard podem ser melhorados?*
-- *Gostaria de sugerir alguma mudança/melhoria??*
+- *Gostaria de sugerir alguma mudança/melhoria?*
 
 #### 5.4 Perguntas que a avaliação irá responder
  Após a avaliação, espera-se que os dados coletados ajudem a responder as seguintes perguntas:
+
  ##### 5.4.1 Expectativas do usuário
  - *As expectativas dos usuários foram atingidas?*
  - *Os usuários conseguem utilizar o site normalmente?*
+
  ##### 5.4.2 Experiência do usuário
- - *Qual parte o usuário mais sente dificuldades ao utilizar?*
- - *Qual parte o usuário menos sente dificuldades ao utilizar?*
- - *Quais problemas se manifestaram durante a utilzação do site?*
- - *Como o usuário se sente em relação aos arquivos .pdf presentes no site? (Se incomodam o usuário, se o dispositivo necessita fazer download do arquivo e como o usuário gostaria de acessar as informações presentes no arquivo)*
+ - *Qual parte o usuário mais sente dificuldades ao utilizar?* 
+ - *Qual parte o usuário menos sente dificuldades ao utilizar?* 
+ - *Quais problemas se manifestaram durante a utilzação do site?* 
+ - *Como o usuário se sente em relação aos arquivos .pdf presentes no site? (Se incomodam o usuário, se o dispositivo necessita fazer download do arquivo e como o usuário gostaria de acessar as informações presentes no arquivo)* 
+ 
 ## 6.Referências
 - BARBOSA, Simone; SANTANA, Bruno. Interação Humano-Computador, Editora Elsevier, Rio de Janeiro, 2010.
 
