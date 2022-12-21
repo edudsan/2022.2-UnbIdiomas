@@ -1,4 +1,4 @@
-# Planejamento da Avaliação do Storyboard
+# Resultado da Avaliação da Análise de Tarefas
 
 ## 1.Introdução
 
@@ -23,12 +23,13 @@ O percurso cognitivo segue o esquema descrito na figura a seguir:
 
 Serão definidas as personas que serão utilizadas em cada avaliação, quais tarefas que serão avaliadas e as ações que serão percorridas para a conclusão de cada uma delas, assim como a Interpretação, nas atividades de coleta e interpretação dos dados, o
 avaliador simula, na interface, a execução das tarefas que fazem parte do escopo de avaliação. Para cada tarefa, o avaliador examina cada passo, analisando se e por que um usuário com o perfil especificado escolheria a ação “correta” ou perceberia que o efeito correto foi alcançado. Para a avaliação de cada passo, o avaliador responde as seguintes perguntas:
+
 <p>
-1° Pergunta: O usuário vai tentar atingir o efeito correto? (Vai formular a intenção
-correta?</br>
-2° Pergunta: O usuário vai notar que a ação correta está disponível?</br>
-3° Pergunta: O usuário vai associar a ação correta com o efeito que está tentando
-atingir?</br>
+<b>1° Pergunta</b>: O usuário vai tentar atingir o efeito correto? (Vai formular a intenção
+correta? <br>
+<p> <b>2° Pergunta</b>: O usuário vai notar que a ação correta está disponível? <br>
+<p> <b>3° Pergunta</b>: O usuário vai associar a ação correta com o efeito que está tentando? <br>
+atingir?
 </p>
 
 
@@ -42,16 +43,16 @@ atingir?</br>
 2. Na página do curso, verificar informação desejada.
 
 #### Interpretação
-<p>
+</p>
 1° Pergunta: O usuário vai tentar atingir o efeito correto? (Vai formular a intenção
-correta?)</br>
-Resposta: Sim pois o usuário conseguiu visualizar de forma rápida e fácil onde se encontra as informações.</br>
-2° Pergunta: O usuário vai notar que a ação correta está disponível?</br>
-Resposta: Sim, por aprendizado prévio básico sobre como navegar pela pagina de informações
+correta?)<br>
+<p>Resposta: Sim pois o usuário conseguiu visualizar de forma rápida e fácil onde se encontra as informações.</br>
+</p>2° Pergunta: O usuário vai notar que a ação correta está disponível?</br>
+<p>Resposta: Sim, por aprendizado prévio básico sobre como navegar pela pagina de informações
 com o mouse.</br>
-3° Pergunta: O usuário vai associar a ação correta com o efeito que está tentando
+</p>3° Pergunta: O usuário vai associar a ação correta com o efeito que está tentando
 atingir?</br>
-Resposta: Sim, pois as informações estão claras e presentes na pagina do seu respectivo curso/linguagem.</br>
+<p>Resposta: Sim, pois as informações estão claras e presentes na pagina do seu respectivo curso/linguagem.</br>
 </p>
 
 ### Tarefa 2:  Visualizar preço dos cursos
@@ -64,6 +65,18 @@ Resposta: Sim, pois as informações estão claras e presentes na pagina do seu 
 2. Na página do curso, clicar em "Veja Valor".
 3. Verifica valor do curso no PDF
 
+#### Interpretação
+
+</p>
+1° Pergunta: O usuário vai tentar atingir o efeito correto? (Vai formular a intenção
+correta?)<br>
+<p>Resposta: Sim. Pois os nomes dos cursos fornecidos estão na caixa ao lado na página principal. Ao navegar, é pressuposto pelo usuário que essas opções apresentarão mais opções e informações quanto ao curso selecionado, o que de fato acontece.</br>
+</p>2° Pergunta: O usuário vai notar que a ação correta está disponível?</br>
+<p>Resposta: Sim. Logo abaixo do parágrafo de "Valor do investimento", exite um botão para a consulta de valores do curso.</br>
+</p>3° Pergunta: O usuário vai associar a ação correta com o efeito que está tentando
+atingir?</br>
+<p>Resposta: Não, pois existem outros dois botões na página de mesmo nome (Normas e orientações) com maior destaque em seu tamanho, posicionamento e cor em relação ao botao de "Veja o Valor", gerando uma interpretação ambígua a respeito do objetivo de consultar informações do curso.</br>
+</p>
 
 ### Tarefa 3: Realizar cadastro
 
@@ -75,6 +88,19 @@ Resposta: Sim, pois as informações estão claras e presentes na pagina do seu 
 2. Na página de cadastro, Insere as informações obrigatórias.
 3. Insere sua foto.
 4. Clica em "Gravar"
+
+#### Interpretação
+
+</p>
+1° Pergunta: O usuário vai tentar atingir o efeito correto? (Vai formular a intenção
+correta?)<br>
+<p>Resposta: Sim. Durante a navegação, o botão de cadastro está bem visível no cabeçalho da página, em posição de destaque.</br>
+</p>2° Pergunta: O usuário vai notar que a ação correta está disponível?</br>
+<p>Resposta: Sim. Entretanto, ao acessar a opção de cadastro, o usuário é direcionado para uma página com aspectos visuais completamente diferentes da página principal, podendo gerar confusão.</br>
+</p>3° Pergunta: O usuário vai associar a ação correta com o efeito que está tentando
+atingir?</br>
+<p>Resposta: Sim. Existem diversas opções de cadastro de informações pessoais, insinuando que a página seja de fato um formulário de registro.</br>
+</p>
 
 ### Tarefa 4: Realizar Login como aluno
 
@@ -88,6 +114,19 @@ Resposta: Sim, pois as informações estão claras e presentes na pagina do seu 
 4. Insere Senha.
 5. Clica em "Entrar"
 
+#### Interpretação
+
+</p>
+1° Pergunta: O usuário vai tentar atingir o efeito correto? (Vai formular a intenção
+correta?)<br>
+<p>Resposta: Sim. O usuário irá navegar pela página com o intuito de encontrar uma aba que ofereça a opção de logar no site.</br>
+</p>2° Pergunta: O usuário vai notar que a ação correta está disponível?</br>
+<p>Resposta: Não. O botão de acesso aos portais não possui o devido destaque e não apresenta as opções que o usuário está procurando a menos que passe o cursor por cima. </br>
+</p>3° Pergunta: O usuário vai associar a ação correta com o efeito que está tentando
+atingir?</br>
+<p>Resposta: Não. O termo "portais" está associado com o acesso a outros domínios externos ao próprio site, além de não possuir nenhum elemento indicando a presença de um "acesso" ou "login" a partir do próprio.</br>
+</p>
+
 ### Tarefa 5: Visualizar informações sobre a seleção de professores
 
 #### Persona(s): [Juan Ángel Ares](https://interacao-humano-computador.github.io/2022.2-UnbIdiomas/An%C3%A1lise%20de%20Requisitos/personas/#Juan) 
@@ -98,18 +137,22 @@ Resposta: Sim, pois as informações estão claras e presentes na pagina do seu 
 2. Na página de Chamada Pública, clica em "Seleção para Professor de Idiomas- Espanhol".
 3. Na pagina de Chamada Pública, clica em "Clique aqui para mais informações".
 
-### Tarefa 6: Realizar Login como professor
+#### Interpretação
 
-#### Persona(s): [Juan Ángel Ares](https://interacao-humano-computador.github.io/2022.2-UnbIdiomas/An%C3%A1lise%20de%20Requisitos/personas/#Juan) e [René Simon de Andrade](https://interacao-humano-computador.github.io/2022.2-UnbIdiomas/An%C3%A1lise%20de%20Requisitos/personas/#Rene) 
+</p>
+1° Pergunta: O usuário vai tentar atingir o efeito correto? (Vai formular a intenção
+correta?)<br>
+<p>Resposta: Sim. O elemento "chamada pública" se encontra em destaque no cabeçalho da página principal também.</br>
+</p>2° Pergunta: O usuário vai notar que a ação correta está disponível?</br>
+<p>Resposta: Na página constam abas com títulos descritivos que ao serem abertas apresentam imagens a respeito das chamadas, incluindo o acesso ao edital pelo botão de mais informações ou pelo hyperlink associado a própria imagem. Contudo, algumas chamadas possuem uma quantidade exagerada de opções de acesso, tornando quase impossível determinar qual é a opção correta.</br>
+</p>3° Pergunta: O usuário vai associar a ação correta com o efeito que está tentando
+atingir?</br>
+<p>Resposta: Sim, mas até que encontre a opção desejada, terá que destrinchar todas as outras para acessa-la, o que contradiz o princípio de IHC a respeito da simplicidade na estrutura de tarefas. </br>
+</p>
 
-#### Ações
+## Conclusão
 
-1. Na página inicial, poem o cursor em "Portais" no menu do cabeçalho.
-2. Ainda na página inicial, no menu "Portais", clica em "Portal do aluno".
-3. Insere Login.
-4. Insere Senha.
-5. Clica em "Entrar"
-
+De acordo com os relatórios dos resultados feitos nas tarefas anteriores pelo método do percurso cognitivo, pode-se afirmar que existem certas incoerências na apresentação de informações de acesso do site que dificultam a navegação e podem desviar o usuário de seu objetivo predefinido. A proposta de melhoria desse projeto estará consequentemente relacionada a melhorias visuais e melhor comunicação de artefatos, seguindo os [Princípios Gerais de Projeto](https://interacao-humano-computador.github.io/2022.2-UnbIdiomas/An%C3%A1lise%20de%20Requisitos/principiosGerais/). 
 
 ## Referências
 
@@ -120,3 +163,4 @@ Resposta: Sim, pois as informações estão claras e presentes na pagina do seu 
 | Versão | Data       | Descrição                        | Autor(es)               | Revisor                                         |
 | ------ | ---------- | -------------------------------- | ----------------------- | ----------------------------------------------- |
 | 1.0    | 21/12/2022 | Adição da página e conteúdo      | Thiago Cerqueira Borges    | Henrique Galdino Couto |  
+| 1.1    | 21/12/2022 | Adição dos resultados da análise      | Igor Silva de Paiva    | Henrique Galdino Couto |

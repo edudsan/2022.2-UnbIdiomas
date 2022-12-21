@@ -68,18 +68,6 @@ Para cada tarefa foram decididas as seguintes personas e cursos de ação:
 2. Na página de Chamada Pública, clica em "Seleção para Professor de Idiomas- Espanhol".
 3. Na pagina de Chamada Pública, clica em "Clique aqui para mais informações".
 
-### Tarefa 6: Realizar Login como professor
-
-#### Persona(s): [Juan Ángel Ares](https://interacao-humano-computador.github.io/2022.2-UnbIdiomas/An%C3%A1lise%20de%20Requisitos/personas/#Juan) e [René Simon de Andrade](https://interacao-humano-computador.github.io/2022.2-UnbIdiomas/An%C3%A1lise%20de%20Requisitos/personas/#Rene) 
-
-#### Ações
-
-1. Na página inicial, poem o cursor em "Portais" no menu do cabeçalho.
-2. Ainda na página inicial, no menu "Portais", clica em "Portal do aluno".
-3. Insere Login.
-4. Insere Senha.
-5. Clica em "Entrar"
-
 ## 2.2 Coleta de dados
 
 Os avaliadores se colocam no lugar do usuário e percorrem o curso de ações de forma a simular o comportamento das personas. É possível determinar se o usuário faria corretamente essa sequência ao responder três perguntas:
@@ -105,5 +93,6 @@ De forma a finalizar esse processo, será feito um relatório com os resultados 
 | Versão | Data       | Descrição                        | Autor(es)               | Revisor                                         |
 | ------ | ---------- | -------------------------------- | ----------------------- | ----------------------------------------------- |
 | 1.0    | 14/12/2022 | Adição da página e conteúdo      | Igor Silva de Paiva     | Henrique Galdino Couto, Eric Chagas de Oliveira |                        
-| 1.1    | 14/12/2022 | Adição da Preparação e hiperlink | Thiago Cerqueira Borges | Henrique Galdino Couto, Eric Chagas de Oliveira |                        
+| 1.1    | 14/12/2022 | Adição da Preparação e hiperlink | Thiago Cerqueira Borges | Henrique Galdino Couto, Eric Chagas de Oliveira |
+| 1.2    | 21/12/2022 | Correção de tarefas      | Igor Silva de Paiva    | Henrique Galdino Couto                       
 

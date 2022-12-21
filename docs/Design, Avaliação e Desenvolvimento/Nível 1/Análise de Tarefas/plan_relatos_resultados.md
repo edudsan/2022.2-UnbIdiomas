@@ -51,16 +51,6 @@ As atividades selecionadas para a avaliação foram:
 - Selecionar uma das modalidades de botões.
 - Clicar em obter mais informações.
 
-### Tarefa 6: Realizar Login como professor
-
-#### Ações
-
-- Sobrepor o curso do mouse em cima do botão "Portais" na página inicial.
-- Selecionar a modalidade "Professor".
-- Inserir login e senha.
-- Gravar/enviar as informações para a plataforma.
-
-
 ## 4. Conclusão
 
 Os avaliadores devem relatar os resultados consolidados, normalmente através de um documentos que costumam incluir, segundo Barbosa e Silva (2021):
@@ -80,3 +70,4 @@ Os avaliadores devem relatar os resultados consolidados, normalmente através de
 |    Data    | Versão |               Descrição                |     Autor(es)      |     Revisor     |
 | :--------: | :----: | :------------------------------------: | :----------------: | :-------------: |
 | 13/12/2022 |  1.0   | Criação da página e adição do conteúdo | Artur Seppa Reiman | Henrique e Eric |
+| 1.1    | 21/12/2022 | Correção de tarefas      | Igor Silva de Paiva    | Henrique Galdino Couto
