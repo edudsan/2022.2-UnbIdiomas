@@ -23,13 +23,13 @@ O percurso cognitivo segue o esquema descrito na figura a seguir:
 
 Serão definidas as personas que serão utilizadas em cada avaliação, quais tarefas que serão avaliadas e as ações que serão percorridas para a conclusão de cada uma delas, assim como a Interpretação, nas atividades de coleta e interpretação dos dados, o
 avaliador simula, na interface, a execução das tarefas que fazem parte do escopo de avaliação. Para cada tarefa, o avaliador examina cada passo, analisando se e por que um usuário com o perfil especificado escolheria a ação “correta” ou perceberia que o efeito correto foi alcançado. Para a avaliação de cada passo, o avaliador responde as seguintes perguntas:
-<a>
+<p>
 1° Pergunta: O usuário vai tentar atingir o efeito correto? (Vai formular a intenção
 correta?</br>
 2° Pergunta: O usuário vai notar que a ação correta está disponível?</br>
 3° Pergunta: O usuário vai associar a ação correta com o efeito que está tentando
 atingir?</br>
-</a>
+</p>
 
 
 ### Tarefa 1: Visualizar informações sobre um curso
@@ -42,7 +42,7 @@ atingir?</br>
 2. Na página do curso, verificar informação desejada.
 
 #### Interpretação
-<a>
+<p>
 1° Pergunta: O usuário vai tentar atingir o efeito correto? (Vai formular a intenção
 correta?)</br>
 Resposta: Sim pois o usuário conseguiu visualizar de forma rápida e fácil onde se encontra as informações.</br>
@@ -52,7 +52,7 @@ com o mouse.</br>
 3° Pergunta: O usuário vai associar a ação correta com o efeito que está tentando
 atingir?</br>
 Resposta: Sim, pois as informações estão claras e presentes na pagina do seu respectivo curso/linguagem.</br>
-</a>
+</p>
 
 ### Tarefa 2:  Visualizar preço dos cursos
 
