@@ -56,11 +56,11 @@ A avaliação contará com as seguintes perguntas:
 #### 5.4 Perguntas que a avaliação irá responder
  Após a avaliação, espera-se que os dados coletados ajudem a responder as seguintes perguntas:
 
- ##### 5.4.1 Expectativas do usuário
+##### 5.4.1 Expectativas do usuário
  - *As expectativas dos usuários foram atingidas?*
  - *Os usuários conseguem utilizar o site normalmente?*
 
- ##### 5.4.2 Experiência do usuário
+##### 5.4.2 Experiência do usuário
  - *Qual parte o usuário mais sente dificuldades ao utilizar?* 
  - *Qual parte o usuário menos sente dificuldades ao utilizar?* 
  - *Quais problemas se manifestaram durante a utilzação do site?* 
