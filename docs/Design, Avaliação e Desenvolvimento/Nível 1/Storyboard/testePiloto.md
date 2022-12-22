@@ -2,7 +2,7 @@
 
 ## 1.Introdução
 
-Durante o planejamento da avaliação ouve a necessidade de aplicar um teste-piloto para e avaliar o próprio planejamento, se ele produz os dados necessário para responder as questões levantadas pelo estudo e auxiliar os desenvolvedores na busca de erros ou a falta de clareza no planejamento da avaliação.
+Durante o planejamento da avaliação ouve a necessidade de aplicar um teste-piloto para e avaliar o próprio planejamento, se ele produz os dados necessário para responder as questões levantadas pelo estudo e auxiliar os desenvolvedores na busca de erros ou a falta de clareza no formulário do storyboard.
 
 ## 2.Objetivo
 
