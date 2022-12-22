@@ -153,14 +153,16 @@ O cronograma executado pode ser visualizado nas **Tabelas de 01 a 09**, e repres
 
 === "E5"
           
-      | **Tarefa**                                                                                 | **Responsáveis**                    | **Revisores**                       | **Iniciado em** | **Data final de revisão** | **Finalizado em** |
-      | ------------------------------------------------------------------------------------------ | ----------------------------------- | ----------------------------------- | --------------- | ------------------------- | ----------------- |
-      | Apresentação do Relato dos resultados da  avaliação do Storyboard e da Análise de  tarefas |                                     |                                     |                 |                           |                   |
-      | Protótipo de Papel                                                                         |                                     |                                     |                 |                           |                   |
-      | Planejamento da avaliação e do relato dos resultados.                                      |                                     |                                     |                 |                           |                   |
-      | Atualização: Atas de reunião                                                               | Henrique                            | Eric, Artur, Igor                   |                 |                           |                   |
-      | Atualização: Cronograma                                                                    | Eric                                | Henrique                            | 21/12           | 21/12                     | 21/12             |
-      | Gravação do vídeo de apresentação                                                          | Artur, Eric, Henrique, Thiago, Igor | Artur, Eric, Henrique, Thiago, Igor | 21/12           | 21/12                     | 21/12             |
+      | **Tarefa**                                                                 | **Responsáveis**                    | **Revisores**                       | **Iniciado em** | **Data final de revisão** | **Finalizado em** |
+      | -------------------------------------------------------------------------- | ----------------------------------- | ----------------------------------- | --------------- | ------------------------- | ----------------- |
+      | Storyboard                                                                 | Henrique                            | Artur, Eric, Igor, Thiago           | 14/12           | 20/12                     | 18/12             |
+      | Apresentação do Relato dos resultados da  avaliação do Storyboard          | Henrique                            | Igor                                | 20/12           | 21/12                     | 20/12             |
+      | Apresentação do Relato dos resultados da  avaliação da Análise de  tarefas | Thiago e Igor                       | Henrique                            | 21/12           | 21/12                     | 21/12             |
+      | Planejamento da avaliação do protótipo de papel                            | Henrique                            | Artur e Eric                        | 21/12           | 21/12                     | 21/12             |
+      | Planejamento do relato da avaliação do protótipo de papel.                 | Eric                                | Artur, Igor, Thiago                 | 21/12           | 21/12                     | 21/12             |
+      | Atualização: Atas de reunião                                               | Henrique                            | Eric, Artur, Igor                   | 19/12           | 20/12                     | 19/12             |
+      | Atualização: Cronograma                                                    | Eric                                | Henrique                            | 21/12           | 21/12                     | 21/12             |
+      | Gravação do vídeo de apresentação                                          | Artur, Eric, Henrique, Thiago, Igor | Artur, Eric, Henrique, Thiago, Igor | 21/12           | 21/12                     | 21/12             |
 
     ###### Tabela 05 - Atividades executadas na entrega 5. Fonte: Autoria própria
 
@@ -171,6 +173,7 @@ O cronograma executado pode ser visualizado nas **Tabelas de 01 a 09**, e repres
       | ------------------------------------------------------------------------------------------------- | ----------------------------------- | ----------------------------------- | --------------- | ------------------------- | ----------------- |
       | Apresentação do Relato dos resultados da avaliação do protótipo de baixa fidelidade               |                                     |                                     |                 |                           |                   |
       | Planejamento da Avaliação e do relato dos resultados da avaliação do protótipo de alta fidelidade |                                     |                                     |                 |                           |                   |
+      | Protótipo de Papel                                                         |                                     |                                     |                 |                           |                   |
       | Atualização: Atas de reunião                                                                      | Henrique                            | Eric, Artur, Igor                   |                 |                           |                   |
       | Atualização: Cronograma                                                                           | Eric                                | Henrique                            | 11/01           | 11/01                     | 11/01             |
       | Gravação do vídeo de apresentação                                                                 | Artur, Eric, Henrique, Thiago, Igor | Artur, Eric, Henrique, Thiago, Igor | 11/01           | 11/01                     | 11/01             |
