@@ -31,7 +31,7 @@ No video a seguir é possível visualizar o integrante do grupo Thiago Cerqueira
 
 Vídeo do teste piloto realizado:
 
-<iframe width="750" height="422" src="https://www.youtube.com/watch?v=D39F6t_alVs" title="Teste-piloto Unb Idiomas Grupo 8" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/D39F6t_alVs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 ###### Vídeo 01 - Teste-piloto. Fonte: Autoria Própria.
 
